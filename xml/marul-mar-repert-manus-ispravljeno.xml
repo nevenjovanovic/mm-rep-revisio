@@ -2076,7 +2076,7 @@
                <head><handShift medium="rubrum"/><bibl n="bibl1">Apocalypsis</bibl>:</head>
                <list n="list1" ana="article">
                   <item n="item5"><handShift medium="atrum"/>Habebitis tribulationem diebus decem <ref type="caput"><num value="2">II</num>.</ref></item> 
-                  <item><note place="right" resp="#MM"><handShift medium="rubrum"/><graphic url="manicula"></graphic></note><handShift medium="atrum"/>Ego quos
+                  <item><note place="right" resp="#MM"><handShift medium="rubrum"/><graphic url="manicula-d"></graphic></note><handShift medium="atrum"/>Ego quos
                      amo, arguo et castigo <ref type="caput"><num n="num" value="3">III</num>.</ref></item>
                </list>
             </div>
@@ -2420,7 +2420,7 @@
                   <item n="item4">Amicicia fidelis <ref n="ref" type="page"><num>73</num></ref>.</item>
                   <item n="item5"> Amans, quid cupiat, scit, quid sapiat, non uidet <ref n="ref" type="page"><num>85</num></ref>.</item>
                   <item n="item6">Amicos res prosperę parant, aduersę probant <ref n="ref" type="page"><num>89</num></ref>.</item>
-                  <item n="item7"><note place="right" resp="#MM"><handShift medium="rubrum"/><graphic url="manicula"></graphic></note><handShift medium="smeđe"/> Quem nemo non parum 
+                  <item n="item7"><note place="right" resp="#MM"><handShift medium="rubrum"/><graphic url="manicula-d"></graphic></note><handShift medium="smeđe"/> Quem nemo non parum 
                      amat, etiam qui amare plus non potest <abbr n="abbr">etc.</abbr>
                      <ref n="ref" type="page"><num>100</num></ref>.</item>
                   <item n="item8">De eligendo et colendo amico <ref n="ref" type="page"><num>2</num></ref>.</item>
@@ -4074,7 +4074,7 @@
                   <item n="item11">Contra eos qui dixerunt animam transire in uaria corpora <ref n="ref" type="page">166</ref>.</item>
                   <item n="item12">Anima et corpus <ref n="ref" type="page">179</ref>.</item>
                   <item n="item13"> Vbi sit mentis sedes et qua ratione corpori iungatur <ref n="ref" type="page">198</ref>.</item>
-                  <item n="item14"> Quod anima sit ęterna et quid sit secundum <milestone unit="page"/>
+                  <item n="item14"> Quod anima sit ęterna et quid sit secundum 
                      <pb type="kks" n="1-77"/> 
                      <gap reason="neispravljeno"/>
                   </item>

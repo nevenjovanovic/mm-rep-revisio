@@ -1,0 +1,1790 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc xml:id="marul-mar-repert">
+         <titleStmt>
+            <title>Marginalia Maruli ad Epistularum Hieronymi t. I (Parmae 1480), versio electronica</title>
+            <author ref="marul01">
+               <persName xml:lang="hr">Marulić, Marko</persName>
+               <date>1450-1524</date>
+            </author>
+            <respStmt>
+               <resp>Hanc editionem electronicam curavit</resp>
+               <persName xml:id="NJ">
+                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Kritičko izdanje u nastajanju.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>elektronska verzija: Digitalizacija hrvatskih latinista, znanstveni
+    projekt na <orgName>
+                  <ref type="viaf" target="124389134">Filozofskom fakultetu Sveučilišta u Zagrebu</ref>
+               </orgName>, <placeName ref="3186886">Zagreb</placeName>
+    Hrvatska.  <date>2010</date>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Digitalni faksimil naslova: Jeronim Epistulae: Parma 1480. (HC *8557; Badalić 536, Split D. Ink. 1-2. F.); 
+               priredio Marulianum - Književni krug, Split, 2006</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+            <p/>
+         </abstract>
+         <settingDesc>
+            <p/>
+         </settingDesc>
+         <particDesc>
+            <p/>
+         </particDesc>
+         <langUsage>
+            <language ident="lat" xml:lang="hrv">latinski</language>
+         </langUsage>
+         <creation>
+            <date from="1480" to="1520" precision="medium" period="15xx_1_third">post 1480 - c. 1520</date>
+         </creation>
+         <textClass>
+            <keywords scheme="typus">
+               <term>prosa</term>
+            </keywords>
+            <keywords scheme="aetas">
+               <term>Litterae renatae (1400-1600)</term>
+               <term>Saeculum 16 (1501-1600)</term>
+               <term>1450-1500</term>
+               <term>1501-1550</term>
+            </keywords>
+            <keywords scheme="genre">
+               <term>prosa oratio - notae marginales</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <persName>
+               <ref type="viaf" target="6913774">Neven Jovanović</ref>
+            </persName>
+            <date>2023-07-16</date>
+            Početak rada.
+         </change>
+         
+      </revisionDesc>
+   </teiHeader>
+   
+   <facsimile>
+      <surface>
+         <graphic url='006v.jpg' width='1920px' height='2560px' />
+         <zone xml:id="he6v-n1" ulx="1096" uly="738" lrx="1193" lry="782" />
+         <zone xml:id="he6v-n2" ulx="122" uly="854" lrx="369" lry="900" />
+         <zone xml:id="he6v-n3" ulx="121" uly="905" lrx="351" lry="943" />
+         <zone xml:id="he6v-n4" ulx="119" uly="945" lrx="405" lry="996" />
+         <zone xml:id="he6v-n5" ulx="124" uly="1023" lrx="437" lry="1073" />
+         <zone xml:id="he6v-n6" ulx="481" uly="1002" lrx="505" lry="1115" />
+         <zone xml:id="he6v-n7" ulx="478" uly="1286" lrx="507" lry="1374" />
+         <zone xml:id="he6v-n8" ulx="392" uly="1378" lrx="484" lry="1419" />
+         <zone xml:id="he6v-n9" ulx="489" uly="1388" lrx="503" lry="1460" />
+         <zone xml:id="he6v-n10" ulx="133" uly="1430" lrx="448" lry="1479" />
+         <zone xml:id="he6v-n11" ulx="137" uly="1616" lrx="446" lry="1672" />
+         <zone xml:id="he6v-n12" ulx="503" uly="1626" lrx="593" lry="1672" />
+         <zone xml:id="he6v-n13" ulx="140" uly="1825" lrx="413" lry="1878" />
+         <zone xml:id="he6v-n14" ulx="147" uly="1913" lrx="398" lry="1961" />
+      </surface>
+   </facsimile>
+
+   <text xml:lang="lat">
+      
+      <body n="body">
+         <div n="div">
+            <pb type="d" n="6v"/>
+            <noteGrp>
+            <note place="inline" facs="#he6v-n1"><graphic url="paragraphus"></graphic></note>
+            <note place="left" facs="#he6v-n2"><w norm="Romam"><abbr>Roma</abbr></w> <w norm="pergit">pergit</w><pc>.</pc></note>
+            <note place="left" facs="#he6v-n3"><w norm="sacris">Sacris</w> <w norm="initiatur">intiatur</w><pc>.</pc></note>
+            <note place="left" facs="#he6v-n4"><w norm="presbiter"><abbr>Presbi</abbr></w> <w norm="cardinalis"><abbr>Card.</abbr></w> <w norm="ordinatur">ordinat</w><pc>.</pc></note>
+            </noteGrp>
+            <noteGrp>
+            <note place="left" facs="#he6v-n5"><graphic url="vitis"></graphic></note>
+            <note place="left" facs="#he6v-n6"><w norm="quibus"><abbr>Quibs</abbr></w> <w norm="usus">usus</w> <w norm="praeceptoribus"><abbr>pceptoribs</abbr></w><pc>.</pc></note>
+            </noteGrp>
+               <note place="left" facs="#he6v-n7"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp>
+               <note place="left" facs="#he6v-n8"><w norm="Hieronymus"><abbr>.Hier.</abbr></w></note>
+            <note place="left" facs="#he6v-n9"><graphic url="vitis"></graphic></note>
+            <note place="left" facs="#he6v-n10"><w norm="praeceptores"><abbr>Peptores</abbr></w> <w norm="ipse"><abbr>ipe</abbr></w> <w norm="recenset"><abbr>receset</abbr></w><pc>.</pc></note>
+            </noteGrp>
+            <noteGrp>
+               <note place="left" facs="#he6v-n11"><w norm="Romae">Romę</w> <w norm="quomodo"><abbr>quo</abbr></w> <w norm="conuersatus"><abbr>couersats</abbr></w><pc>.</pc></note>
+            <note place="inline" facs="#he6v-n12"><graphic url="paragraphus"></graphic></note>
+            </noteGrp>
+            <note place="left" facs="#he6v-n13"><w norm="petit">Petit</w> <w norm="Hierosolymam"><abbr>Hierosolima</abbr></w><pc>.</pc></note>
+            <note place="left" facs="#he6v-n14"><w norm="fit">Fit</w> <w norm="monachus">monachus</w><pc>.</pc></note>
+            <pb type="d" n="7r"/>
+            <note place="right"><w norm="quid">Quid</w> <w norm="passus">passus</w> <w norm="per"><abbr>p</abbr></w> <w norm="uisum"><abbr>uisu</abbr></w></note>
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="Hieronymus"><abbr>Hier.</abbr></w></note></noteGrp>
+            <note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="odia">Odia</w> <w norm="declinans"><abbr>declinas</abbr></w> <w norm="eorum"><abbr>eor</abbr></w> <w norm="quos">quos</w> <w norm="aliquando"><abbr>aliqn</abbr></w> <w norm="reprehenderat"><abbr>reprehederat</abbr></w> <w norm="Roma">Roma</w> <w norm="decessit">decessit</w><pc>.</pc></note>
+            <note place="right"><w norm="ueni">Veni</w> <w norm="Constantinopolim">Constantinopolim</w> <lb/><w norm="ad">ad</w> <w norm="Gregorium"><abbr>Greg.</abbr></w> <w norm="Nazanzenum"><abbr>Nazanzenu</abbr></w></note>
+            <note place="right"><w norm="inde"><abbr>Ind</abbr></w> <w norm="abiit">abijt</w> <w norm="in"><abbr>i</abbr></w> <w norm="Syriam">Syria</w></note>
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="Hieronymus"><abbr>Hier.</abbr></w></note></noteGrp>
+            <pb type="d" n="7v"/>
+            <note place="left"><w norm="heremum"><abbr>Heremu</abbr></w> <w norm="petit">petit</w><pc>.</pc> <w norm="ibique"><abbr>ibiq</abbr></w> 
+               <lb/><w norm="quadriennium"><abbr>qdrienniu</abbr></w> <w norm="permansit"><abbr>pmasit</abbr></w><pc>.</pc></note>
+            <noteGrp><note place="left"><w norm="Hieronymus"><abbr>Hier.</abbr></w></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <noteGrp><note place="left"><w norm="Bethlem"><abbr>Bethle</abbr></w> <w norm="se">se</w> <w norm="contulit"><abbr>cotulit</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <note place="left"><w norm="monasterium"><abbr>Monasteriu</abbr></w> <w norm="construxit"><abbr>costruxit</abbr></w><pc>.</pc></note>
+            <noteGrp><note place="left"><w norm="quanta"><abbr>Quata</abbr></w> <w norm="conscripsit"><abbr>coscripsit</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <pb type="d" n="8r"/>
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="Hieronymus"><abbr>Hier.</abbr></w></note>
+            <note place="right"><w norm="quare"><abbr>Qr</abbr></w> <w norm="hereticus"><abbr>heretics</abbr></w> <w norm="aliquando"><abbr>alqn</abbr></w> <w norm="dictus"><abbr>dicts</abbr></w><pc>.</pc></note>
+            </noteGrp>
+            <pb type="d" n="8v"/>
+            <noteGrp><note place="left"><w norm="sanctus"><abbr>S.</abbr></w> <w norm="Augustinus"><abbr>Augustins</abbr></w> <w norm="de"><abbr>d</abbr></w> <w norm="sancto"><abbr>s</abbr></w> <w norm="Hieronymo"><abbr>Hier-o</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <noteGrp><note place="left"><w norm="hereticorum"><abbr>Hereticor</abbr></w> <w norm="hostis">hostis</w><pc>.</pc></note>
+            <note place="left"><w norm="Hieronymus"><abbr>Hier.</abbr></w></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <noteGrp><note place="left"><w norm="de">De</w> <w norm="leone">Leone</w> <w norm="miraculum"><abbr>miraculu</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <pb type="d" n="9r"/>
+            <note place="right"><graphic url="vitis"></graphic></note>
+            <pb type="d" n="9v"/>
+            <noteGrp><note place="left"><w norm="Bethlem">Bethlem</w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <noteGrp><note place="left"><w norm="senio">Senio</w> <w norm="confectus"><abbr>cofectus</abbr></w> <w norm="Hieronymus"><abbr>Hiers</abbr></w></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <noteGrp><note place="left"><w norm="Hieronymus"><abbr>Hier.</abbr></w></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <note place="left"><w norm="uixit"><abbr>Vix</abbr></w> <w norm="annos">annos</w> <num value="98">.XCVIII.</num></note>
+            <note place="left"><w norm="obiit">Obijt</w> <w norm="anno"><abbr>ano</abbr></w> <w norm="Theodosii">Thedosij</w> 
+               <lb/><w norm="iunioris">Iunioris</w> <num value="12">.XII.</num></note>
+            <pb type="d" n="10r"/>
+            <note place="top-right"><num value="1">I</num></note>
+            <note place="right"><graphic url="manicula"></graphic></note>
+            <note place="right"><w norm="Photinus">Photinus</w></note>
+            <noteGrp>
+            <note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="causa">Causa</w> <w norm="symboli">symboli</w> 
+               <lb/><w norm="conficiendi"><abbr>coficiendi</abbr></w><pc>.</pc></note>
+            </noteGrp>   
+            <noteGrp>
+               <note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="symbolum"><abbr>Symbolu</abbr></w> <w norm="quare"><abbr>qr</abbr></w> <w norm="sic">sic</w> <w norm="dictum"><abbr>dictu</abbr></w><pc>.</pc></note>
+            </noteGrp>
+            <note place="bottom"><handShift resp="m2" medium="atrum"/><w norm="iste">Iste</w> <w norm="liber">liber</w> <w norm="est">est</w> <w norm="conuentus"><abbr>ctus</abbr></w> <w norm="sancti"><abbr>scti</abbr></w> <w norm="Dominici"><abbr>dnicj</abbr></w> <w norm="de">de</w> <w norm="Spaleto">Spaleto</w>
+               <lb/><w norm="orate">orate</w> <w norm="fratres"><abbr>fres</abbr></w> <w norm="pro">pro</w> <w norm="domino"><abbr>dno</abbr></w> <w norm="Marco">Marco</w> <w norm="Marulo">Marulo</w> <w norm="qui">qui</w> <w norm="eum"><abbr>eu</abbr></w>
+               <lb/><w norm="legauit">legauit</w> <w norm="anno">anno</w> <w norm="domini"><abbr>dni</abbr></w> <num value="1524">.M.D.XX.iiij:</num></note>
+            <pb type="d" n="10v"/>
+            <p>
+               <gap/>
+               <s xml:id="Iv-001">Credo in deum patrem omnipotentem.</s>
+               <gap/>
+               <s xml:id="Iv-002">Credo</s>
+               <gap/>
+               <s xml:id="Iv-003">Credo inquit in deum patrem omnipotentem.</s>
+               <gap/>
+               <s xml:id="Iv-004">In deum patrem omnipotentem.</s>
+            </p>
+            <note place="inline" target="#Iv-001"><graphic url="linea"></graphic></note>
+            <note place="left"><w norm="quare"><abbr>Qr</abbr></w> <w norm="aliqua">aliqua</w> <w norm="postea">postea</w> <w norm="adiecta">adiecta</w>
+               <lb/><w norm="in">in</w> <w norm="symbolo">Symbolo</w> </note>
+            <noteGrp><note place="left"><graphic url="vitis"></graphic></note>
+            <note place="inline" target="#Iv-002"><graphic url="linea"></graphic></note></noteGrp>
+            <note place="inline" target="#Iv-003"><graphic url="linea"></graphic></note>
+            <noteGrp><note place="inline" target="#Iv-004"><graphic url="linea"></graphic></note>
+            <note place="left"><w norm="deus">DEVS</w></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <noteGrp><note place="left"><w norm="quomodo"><abbr>Quo</abbr></w> <w norm="pater"><abbr>Pr</abbr></w> <w norm="genuit">genuit</w> <w norm="filium"><abbr>filiu</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <pb type="d" n="11r"/>
+            <p>
+               <gap/>
+               <s xml:id="IIr-001">Et in Iesum christum unicum filium eius
+               <lb/><abbr>dnum</abbr> <abbr>nrum</abbr>.</s>
+               <gap/>
+               
+            </p>
+            <note place="top-right"><num value="2">II</num></note>
+            <note place="right"><graphic url="vitis"></graphic></note>
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="deus">Deus</w> <w norm="unus">unus</w><pc>.</pc></note></noteGrp>
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+               <note place="right"><w norm="omnipotens"><abbr>Oipotens</abbr></w><pc>.</pc></note></noteGrp>
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+               <note place="right"><w norm="Sabellius">SABELLIVS</w></note></noteGrp>
+         <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="filius"><sic>Filus</sic></w> <w norm="incarnatus">incarnatus</w><w norm="et"><abbr>&amp;</abbr></w>
+               <lb/><w norm="factus"><abbr>facts</abbr></w> <w norm="passibilis">passibilis</w><pc>.</pc></note></noteGrp>
+         <noteGrp><note place="right"><graphic url="linea-recta"></graphic></note>
+            <note place="right"><w norm="propheta"><abbr>.Propha.</abbr></w></note>
+            <note place="inline" target="#IIr-001"><graphic url="linea"></graphic></note>
+            <note place="right"><w norm="Iesus">Iesus</w>
+               <lb/><w norm="Christus">Christus</w></note>
+         </noteGrp>
+         <pb type="d" n="11v"/>
+         <p>
+            <gap/>
+            <s xml:id="IIv-001">Vnicum filium inqt eius</s>
+            <s xml:id="IIv-002">dominum nostrum.</s>
+            <gap/>
+            <s xml:id="IIv-003">Vnicus est ut menti sensus: ut cordi uerbum: ut forti uirtus: ut sapientia sapi-
+               <lb/>enti. <abbr>Na</abbr> sicut solus sapiens pater ab apostolo <abbr>dicitr</abbr>: ita <abbr>&amp;</abbr> solus filius sapientia <abbr>noinatur</abbr>.</s>
+            <gap/>
+            <s xml:id="IIv-004">Sic enim scriptum est: Quia caput
+               <lb/> christi deus est. Filium sane cum audis: nolo generationem carnalis natiuitatis assumas:
+               <lb/> sed memento hoc de incorporea dici substantia <abbr>&amp;</abbr> naturae simplicis.</s>
+            <gap/>
+            <s xml:id="IIv-005"><abbr>neq</abbr> enim lux <abbr>substatiuum</abbr> facit splendorem: aut cor sub
+               <lb/>stantiuum generat <abbr>uerbu</abbr>. Filius <abbr>aut</abbr> dei substantialiter <abbr>asseritr</abbr> generatus.
+               </s>
+            <gap/>
+            <s xml:id="IIv-006"><abbr>q</abbr> nulla creatura talis esse
+               <lb/><abbr>pot</abbr> qualis creator eius: <abbr>&amp;</abbr> ideo sicut sine exemplo est diuina substantia: ita <abbr>&amp;</abbr> sine <abbr>exeplo</abbr>
+               <lb/> est diuinitas. Tum <abbr>etia</abbr> illud addimus: Quia omnis creatura ex nihilo <abbr>e</abbr>.
+            </s>
+            <gap/>
+            <s xml:id="IIv-007">Cęteri quippe filii licet filii dicantur: adoptionis tamen
+               <lb/>gratia <abbr>dicuntr</abbr> non ueritate naturae. <abbr>&amp;</abbr> si <abbr>dicuntr</abbr> alii domini: concessa tamen non ingenita
+               <pb/> potestate dicuntur.
+            </s>
+            <gap/>
+         </p>
+         <note place="left"><w norm="Christus">Christus</w><pc>.</pc></note>
+         <noteGrp><note place="inline" target="#IIv-001"><graphic url="linea"></graphic></note>
+            <note place="inline" target="#IIv-002"><graphic url="linea-pinguis"></graphic></note></noteGrp>
+            <noteGrp><note place="left"><w norm="unicus">Vnicus</w> <w norm="filius">filius</w><pc>.</pc></note>
+               <note place="left" target="#IIv-003"><graphic url="vitis"></graphic></note></noteGrp>
+            <noteGrp><note place="left"><w norm="filius">Filius</w></note>
+               <note place="left" target="#IIv-004"><graphic url="vitis"></graphic></note></noteGrp>
+            <note place="left" target="#IIv-005"><graphic url="vitis"></graphic></note>
+            <note place="left"><w norm="comparatio"><abbr>Coparatio</abbr></w> <w norm="non"><abbr>no</abbr></w> <w norm="per">per</w> <w norm="omnia"><abbr>oia</abbr></w> <w norm="similis"><abbr>silis</abbr></w>
+               <lb/><w norm="rei">rei</w> <w norm="comparatae"><abbr>coparatę</abbr></w><pc>.</pc>
+            </note>
+            <note place="left" target="#IIv-006"><graphic url="vitis"></graphic></note>
+            <note place="left" target="#IIv-007"><graphic url="vitis"></graphic></note>
+            <pb type="d" n="12r"/>
+            <p>
+               <gap/>
+               <s xml:id="IIIr-001">Qui natus est ex spiritu sancto ex maria uirgine.</s>
+               <gap/>
+               <s xml:id="IIIr-002">Sed <abbr>&amp;</abbr> partus ipsius mirabile modum Ezechiel
+                  <lb/> propheta ante formauerat: Mariam figuraliter portam domini nominans: per quam sci
+                  <lb/>licet dominus ingressus est mundum. Dicit ergo hoc modo. Porta autem quę respicit ad
+               <lb/>orientem clausa erit:</s>
+               <gap/>
+               <s xml:id="IIIr-003">Quomodo fiet istud quoniam uirum non cognosco? dixit an-
+                  <lb/>gelus ei. Spiritus sanctus ueniet <abbr>supr</abbr> te: <abbr>&amp;</abbr> uirtus altissimi obumbrabit tibi. <abbr>&amp;</abbr> ideo quod 
+               <lb/> nascetur ex te sanctum uocitabitur filius dei. Vide ergo cooperantem sibi <abbr>inuice</abbr> <abbr>trinitate</abbr>
+               <lb/></s>
+               <gap/>
+               <s xml:id="IIIr-004">Sed pagani solent ridere nos: cum audiunt prędicari a nobis uir-
+                  <lb/>ginis partum: propter quod paucis <abbr>&amp;</abbr> eorum obtrectationibus respondendum est. <abbr>Omis</abbr>
+                  <lb/> partus ex tribus ut opinor constat: si adultae ętatis sit foemina: si uirum adeat: si <abbr>no</abbr> sit <abbr>ills</abbr> 
+                  <lb/> uulua uicio sterilitatis occlusa.</s>
+               <gap/>
+               <s xml:id="IIIr-005">cum orientis auem quem phoenicem uocant: in <abbr>tantu</abbr> sine 
+                  <lb/> coniuge nasci uel renasci constet: ut semper una sit
+               </s>
+               <gap/>
+               <s xml:id="IIIr-006">Et <abbr>tn</abbr> <abbr>mirandu</abbr> est cur hoc gentilibus <abbr>ipossibile</abbr> 
+                  <lb/>uideatur: qui credunt Mineruam suam de cerebro Iouis natam Quid ad <abbr>credendu</abbr> diffi
+                  <lb/>cilius? aut quid magis contra naturam est? Hic foemina est: hic naturae ordo seruatur: hic
+                  <lb/> conceptus <abbr>&amp;</abbr> partus temporibus suis editur. ibi nunquam foemineus sexus: sed uir solus
+                  <lb/> <abbr>&amp;</abbr> partus.
+               </s>
+               <gap/>
+            </p>
+            <note place="top-right"><num value="3">III</num></note>
+            <note place="inline" target="#IIIr-001"><graphic url="linea"></graphic></note>
+            <noteGrp><note place="right" target="#IIIr-002"><graphic url="vitis"></graphic></note>
+               <note place="right" target="#IIIr-002"><w norm="Ezechiel">Ezechiel</w> <w norm="de"><abbr>d</abbr></w> <w norm="Maria">Maria</w>
+                  <lb/> <w norm="uirgine">uirgine</w><pc>.</pc></note></noteGrp>
+         <note place="right" target="#IIIr-003"><graphic url="vitis"></graphic></note>
+         <note place="right"><w norm="uirtus">Virtus</w> <w norm="altissimi">altissimi</w><pc>.</pc></note>
+         <noteGrp><note place="right" target="#IIIr-004"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="confirmatio"><abbr>Cofirmatio</abbr></w> <w norm="circa">circa</w> 
+               <lb/><w norm="partum"><abbr>partu</abbr></w> <w norm="uirginis"><abbr>Virgis</abbr></w><pc>.</pc></note></noteGrp>
+         <noteGrp><note place="right" target="#IIIr-005"><graphic url="vitis"></graphic></note>
+            <note place="right" target="#IIIr-005"><pc>.</pc> <w norm="phoenix">Phoenix</w> <w norm="auis">auis</w><pc>.</pc></note></noteGrp>
+         <note place="right"><pc>.</pc> <w norm="apes">Apes</w><pc>.</pc></note>
+         <note place="right" target="#IIIr-006"><graphic url="vitis"></graphic></note>
+            <pb type="d" n="12v"/>
+            <p>
+               <gap/>
+               <s xml:id="IIIv-001">Sed indignum eis uideri: ut tanta illa maiestas
+               <lb/>per genitalis foeminę transiret egressus: Vbi quanuis nulla fuerit ex uiri commixtione
+               <lb/>contagio: fuit tamen ipsius pręputii obscoenę attrectationis iniuria.</s>
+               <gap/>
+               <s xml:id="IIIv-002">Si quis uideat paruulum in profundo coeni
+               <lb/>necari: &amp; ipse cum sit uir magnus &amp; potens extremus ut ita dixerim igrediatur coenum:
+               <lb/>ut paruulum liberet morientem: pollutusne a te accusabitur hic uir: qui paululum cal-
+               <lb/>cauerit luti: an ut misericors laudabitur: quod uitam contulerit morituro?</s>
+               <gap/>
+               <s xml:id="IIIv-003">cum non possis dicere: cur obscoena
+               <lb/>condiderit. Et ideo obscoena hęc esse non natura sed obseruantia docuit.</s>
+               <gap/>
+               <s xml:id="IIIv-004">Nihil ibi dicas impos-
+               <lb/>sibile: ubi aderat uirtus altissimi. Nihil de humana fragilitate cogites: ubi plenitudo inerat diuinitatis.</s>
+               <s xml:id="IIIv-005">Crucifixus sub Pontio Pilato: &amp; sepultus: descendit ad inferna.
+               </s>
+               <gap/>
+               <s xml:id="IIIv-006">Triumphi enim est &amp; insigne est. Trophęum deuicti hostis indicium est. Quia ergo
+                  <lb/> adueniens Christus sicut Apostolus dicit tria pariter sibi regna subiecit (Hoc enim in-
+                  <lb/>dicat ubi ait: Quia in nomine Iesu omne genu flectatur cęlestium: terrestrium: &amp; infernorum: 
+               </s>
+               <gap/>
+            </p>
+            
+            <noteGrp><note place="left"><w norm="confutatio"><abbr>Cofutatio</abbr></w> <w norm="obiecti">obiecti</w> <w norm="quod"><abbr>q</abbr></w> <w norm="indignum"><abbr>indignu</abbr></w>
+               <lb/><w norm="uideatur"><abbr>uideatr</abbr></w> <w norm="deum"><abbr>Deu</abbr></w> <w norm="transisse">transisse</w> <w norm="per">per</w>
+               <lb/><w norm="genitale">genitale</w> <w norm="femineum"><abbr>foemineu</abbr></w><pc>.</pc></note>
+               <note place="left" target="#IIIv-001"><graphic url="vitis"></graphic></note>
+               <note place="left" target="#IIIv-002"><graphic url="vitis"></graphic></note></noteGrp>
+            <note place="left" target="#IIIv-003"><graphic url="vitis"></graphic></note>
+            <noteGrp><note place="left" target="#IIIv-004"><graphic url="vitis"></graphic></note>
+               <note place="inline" target="#IIIv-005"><graphic url="linea"></graphic></note></noteGrp>
+            
+            <noteGrp><note place="left"><graphic url="crux"></graphic></note>
+               <note place="left"><w norm="cur">Cur</w> <w norm="crucis">Crucis</w> <w norm="mors">mors</w>
+                  <lb/><w norm="potissimum"><abbr>potissimu</abbr></w> <w norm="electa">electa</w><pc>.</pc></note></noteGrp>
+            <note place="left" target="#IIIv-006"><graphic url="vitis"></graphic></note>
+            <pb type="d" n="13r"/>
+            
+            <p>
+               <gap/>
+               <s xml:id="IIIIr-001">Expansas autem manus tota die sanctus propheta dicit eum te-
+                  <lb/>nere ad populum qui est in terra: ut <abbr>&amp; </abbr>incredulos contestaretur: <abbr>&amp;</abbr> inuitaret cre-
+                  <lb/>dentes.</s>
+               <gap/>
+               <s xml:id="IIIIr-002">Idque sub ingenti mysterio Paulus indicat cum dicit de eo: delens quod ad-
+                  <lb/>uersus nos erat chyrographum: <abbr>&amp;</abbr> affigens illud cruci suę: tradidit principatus <abbr>&amp;</abbr>
+                  <lb/>potestates triumphans: eos in semetipso rectores.</s>
+               <gap/>
+               <s xml:id="IIIIr-003">sicut Ezechiel propheta my-
+                  <lb/>sticis designat eloquiis cum dicit: in illa die procedent angeli festinantes exter
+                  <lb/>minare ęthiopiam. eritque inter eos perturbatio in die ęgypti: quoniam recti
+               <lb/>tudo uenit.</s>
+               <gap/>
+            </p>
+            <note place="top-right"><num value="4">IIII</num></note>
+            <note place="right" target="#IIIIr-001"><graphic url="vitis"></graphic></note>
+            <noteGrp><note place="right" target="#IIIIr-002"><graphic url="vitis"></graphic></note>
+               <note place="right"><w norm="Paulus">Paulus</w> <w norm="apostolus"><abbr>Apls</abbr></w><pc>.</pc></note></noteGrp>
+            <noteGrp><note place="right" target="#IIIIr-003"><graphic url="vitis"></graphic></note>
+               <note place="right"><w norm="Ezechiel">Ezechiel</w><pc>.</pc></note></noteGrp>
+            <pb type="d" n="13v"/>
+            
+            <p>
+               <gap/>
+               <s xml:id="IIIIv-001">Quod ita futurum 
+                  <lb/> sub hac eadem figura Ezechiel dudum propheta significauerat dicens: Et extra- 
+                  <lb/>ham te in hamo meo: <abbr>&amp;</abbr> extendam te super terram. Campi implebuntur de te:
+                  <lb/> <abbr>&amp;</abbr> constituam super te omnes uolucres cęli: <abbr>&amp;</abbr> saturabo ex te omnes bestias terrę.
+               <lb/> Sed <abbr>&amp;</abbr> propheta Dauid dicit Dedit eum in escam populis ęthiopum. Et Iob de 
+               <lb/> eodem mysterio similiter protestatur: ait enim ex persona domini loquentis ad 
+               <lb/> se. Aut adducis draconem in hamo: aut ponis capistrum circa nares eius. Non 
+               <lb/> ergo damno aliquo aut iniuria diuinitatis Christus in carne patitur. sed ut per in-
+               <lb/>firmitatem carnis operaretur salutem: diuina natura in mortem descendit: non ut 
+               <lb/> lege mortalium detineretur a morte: sed ut per sese resurrecturus ianuas mortis
+               <lb/> aperiret.</s>
+               <gap/>
+               <s xml:id="IIIIv-002">in ecclesię roma-
+                  <lb/>nę symbolo non habetur aditum:</s>
+               <s xml:id="IIIIv-002a">Descendit ad inferna:</s>
+               <s xml:id="IIIIv-002b">sed neque in orientis
+               <lb/> ecclesiis habetur hic sermo. Vis tamen uerbi eadem uidetur esse in eo quod sepul
+               <lb/>tus dicitur</s>
+               <gap/>
+               <s xml:id="IIIIv-003">Iudaei autem qui-
+                  <lb/>bus ex lege traditum fuerat: Christum in ęternum mansurum: scandalum patie-
+                  <lb/>bantur de carne eius: quia resurrectionem recipere noluerunt. Gentibus autem
+                  <lb/>stultitia uidebatur deum mortem suscepisse: quia ignorabant mysterium carnis
+                  <lb/>assumptę. Fideles uero qui <abbr>&amp;</abbr> natum <abbr>&amp;</abbr> passum in carne susceperant: <abbr>&amp;</abbr> a mor-
+                  <lb/>tuis resurrexisse: merito uirtutem dei credebant esse: quę uicerat mortem.</s>
+               <gap/>
+               <s xml:id="IIIIv-004">Audi quomodo per Esaiam pro-
+                  <lb/>phetico sermone signatur: Quibus non est inquit annunciatum de eo uidebunt: <abbr>&amp;</abbr>
+                  <lb/>qui non audierunt intelligent. Quod autem his qui meditabantur legem dei: a
+                  <lb/>pueritia usque in senectutem non credentibus: ad gentes esset omne mysterium 
+               <lb/>transferendum: idem Esaias hoc modo prędicit.</s>
+               <gap/>
+            </p>
+            
+            <note place="left" target="#IIIIv-001"><graphic url="vitis-tripertita"></graphic></note>
+            
+            <noteGrp><note place="left" target="#IIIIv-002"><graphic url="vitis"></graphic></note>
+               <note place="inline" target="#IIIIv-002a"><graphic url="linea"></graphic></note></noteGrp>
+            
+            <noteGrp><note place="left"><w norm="Iudaei">Iudei</w><pc>.</pc></note>
+               <note place="left" target="#IIIIv-003"><graphic url="vitis"></graphic></note>
+               <note place="left"><w norm="gentiles"><abbr>Getiles</abbr></w><pc>.</pc></note>
+               <note place="left"><w norm="fideles">Fideles</w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="left"><w norm="propheta"><abbr>Propha</abbr></w><pc>.</pc></note>
+               <note place="left" target="#IIIIv-004"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <pb type="d" n="014r"/>
+            <note place="top-right"><num value="5">V.</num></note>
+            
+            <note place="right"><w norm="Christus"><abbr>Xps</abbr></w> <w norm="passioni">passioni</w> <w norm="subiectus"><abbr>subiects</abbr></w><pc>.</pc></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="Iudas">Iudas</w> <w norm="proditor">proditor</w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="right"><w norm="Christus"><abbr>Xps</abbr></w> <w norm="uinctus">uinctus</w><pc>.</pc></note>
+            <note place="right"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="Christus"><abbr>Xps</abbr></w> <w norm="ductus">ductus</w> <w norm="ad">ad</w> <w norm="Pilatum"><abbr>Pilatu</abbr></w><pc>.</pc></note></noteGrp>
+<pb type="d" n="014v"/>
+            <note place="right"><w norm="Larim"><hi rend="underline" resp="#MM">Larim</hi></w><pc>.</pc></note>
+            <noteGrp><note place="left"><w norm="crucifige">Crucifige</w> <w norm="crucifige">Crucifige</w> <w norm="eum"><abbr>eu</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note>
+            </noteGrp>
+            <noteGrp><note place="left"><w norm="Christus"><abbr>Xpc</abbr></w> <w norm="diu">diu</w> <w norm="iudicatus">iudicats</w>
+               <lb/> <w norm="tacet">tacet</w> <pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note>
+            </noteGrp>
+            <noteGrp><note place="left"><w norm="Christus"><abbr>Xpc</abbr></w> <w norm="spinis">spinis</w> <w norm="coronatus"><abbr>coronats</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <note place="left"><w norm="Christus"><abbr>Xpc</abbr></w> <w norm="in"><abbr>i</abbr></w> <w norm="ligno">ligno</w> <w norm="suspensus"><abbr>suspesus</abbr></w><pc>.</pc></note>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="left"><w norm="de">De</w> <w norm="latere">latere</w> <w norm="Iesu">Iesu</w> <w norm="sanguis">sanguis</w>
+               <lb/><w norm="et"><abbr>&amp;</abbr></w> <w norm="aqua">aqua</w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <noteGrp><note place="left"><w norm="cur">Cur</w> <w norm="de">de</w> <w norm="latere">latere</w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+<pb type="d" n="015r"/>
+            <p>
+               <gap/>
+               <s xml:id="VIr-001">Tertia die resurrexit a mortuis.</s>
+               <gap/>
+            </p>
+            <note place="top-right"><num value="6">.VI</num></note>
+            
+            <note place="right"><w norm="ab">Ab</w> <w norm="hora">hora</w> <num value="6">VI.</num> <w norm="usque">usq.</w> <w norm="ad">ad</w>
+               <lb/><w norm="horam"><abbr>hora</abbr></w> <num value="9">.IX.</num> <w norm="tenebrae">tenebrę</w><pc>.</pc></note>
+            
+            <note place="right"><w norm="uestimenta">Vestimenta</w> <w norm="diuisa">diuisa</w> <w norm="et"><abbr>&amp;</abbr></w>
+               <w norm="super"><abbr>sup</abbr></w> <w norm="ea">ea</w> <w norm="iactata">iactata</w> <w norm="sors">sors</w><pc>.</pc></note>
+            
+            <note place="right"><w norm="uestis">Vestis</w> <w norm="coccinea">coccinea</w><pc>.</pc></note>
+            
+            <noteGrp><note place="right"><graphic url="manicula"></graphic></note>
+            <note place="right"><graphic url="vitis"></graphic></note></noteGrp>
+            <note place="right"><w norm="Christus"><abbr>Xps</abbr></w> <w norm="aceto">aceto</w> <w norm="potatus"><abbr>potats</abbr></w> <w norm="uel"><abbr>ul</abbr></w>
+               <lb/><w norm="uino">uino</w> <w norm="myrrhato">myrrhato</w><pc>.</pc></note>
+            
+            <note place="right"><w norm="Christus"><abbr>Xps</abbr></w> <w norm="redditi">reddidit</w> <w norm="spiritum"><abbr>spitu</abbr></w></note>
+            
+            <note place="right"><w norm="Christus"><abbr>Xps</abbr></w> <w norm="sepultus">sepultus</w><pc>.</pc></note>
+            
+            <note place="right"><w norm="descendit"><abbr>Descedit</abbr></w> <w norm="ad">ad</w> <w norm="infernum"><abbr>infernu</abbr></w><pc>.</pc></note>
+            
+            <noteGrp><note place="inline" target="#VIr-001"><graphic url="linea"></graphic></note>
+            <note place="right"><w norm="resurrexit">Resurrexit</w><pc>.</pc></note></noteGrp>
+
+<pb type="d" n="015v"/>
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <note place="left"><w norm="psalmus"><abbr>Ps</abbr></w></note>
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="left"><w norm="die">Die</w> <w norm="tertia">tertia</w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <noteGrp><note place="left"><w norm="de">De</w> <w norm="mulieribus"><abbr>mulieribs</abbr></w> <w norm="quae">quę</w> <w norm="ad">ad</w>
+               <lb/><w norm="monumentum"><abbr>monumentu</abbr></w> <w norm="uenerunt"><abbr>uenert</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+<pb type="d" n="016r"/>
+            <p>
+               <gap/>
+               <s xml:id="VIIr-001">Ascendit ad cęlos: sedet ad <abbr>dex-<lb/>tera</abbr> patris. Inde uentur<seg xml:id="VIIr-002">i</seg>s est iudicare uiuos <abbr>&amp;</abbr> mortuos.</s>
+               <gap/>
+            </p>
+            <note place="top-right"><num value="7">VII.</num></note>
+            
+            <note place="inline" target="#VIIr-001"><graphic url="linea"></graphic></note>
+            <note place="inline" target="#VIIr-002"><add place="above">u</add></note>
+                        
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="ascendit">Ascendit</w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="nota"><abbr>.N.</abbr></w></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="psalmus"><abbr>.ps.</abbr></w></note></noteGrp>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+           
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+               <note place="right"><w norm="sedet">Sedet</w> <w norm="ad">ad</w> <w norm="dexteram">dexte-<lb/>ram</w> <w norm="patris"><abbr>pris</abbr></w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+               <note place="right"><w norm="iudicaturus">Judicaturus</w> <w norm="uiuos">ui-<lb/>uos</w> <w norm="et"><abbr>&amp;</abbr></w> <w norm="mortuos"><abbr>motuos</abbr></w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+               <note place="right"><w norm="Malachias">Malachias</w><pc>.</pc></note></noteGrp>
+            
+            <note place="left"><w norm="Daniel">Daniel</w><pc>.</pc></note>
+            
+<pb type="d" n="016v"/>
+            <p>
+               <gap/>
+               <s xml:id="VIIv-001">Et in spiritu sancto.</s>
+               <gap/>
+               <s xml:id="VIIv-002">Sanctam ecclesiam <abbr>catholica</abbr>: remissionem <abbr>peccator</abbr>: carnis resurrectio-
+                  <lb/>nem.</s>
+               <gap/>
+            </p>
+            
+            <note place="left"><w norm="Antichristus">Antichristus</w><pc>.</pc></note>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <note place="inline" target="#VIIv-001"><graphic url="linea"></graphic></note>
+            
+            <note place="left"><w norm="spiritus"><abbr>Spus</abbr></w> <w norm="sanctus"><abbr>sctus</abbr></w><pc>.</pc></note>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <note place="inline" target="#VIIr-002"><graphic url="linea"></graphic></note>
+               
+            <note place="left"><pc>.</pc><w norm="in"><hi rend="upper">IN</hi></w><pc>.</pc></note>
+               
+<pb type="d" n="017r"/>
+            <note place="top-right"><num value="8">VIII.</num></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="right"><graphic url="vitis-cum-medio"></graphic></note>
+            <note place="right"><pc>.</pc><w norm="libri">Libri</w> <w norm="canonici">canonici</w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="libri">Libri</w> <w norm="ecclesiastici">ecclesiastici</w><pc>.</pc></note></noteGrp>
+            
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="scripta">Scripta</w> <w norm="apocrypha">apocrypha</w><pc>.</pc></note></noteGrp>
+                        
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="ecclesia">Ecclesia</w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="heretici">Heretici</w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="ecclesia"><abbr>.Eccl.</abbr></w></note></noteGrp>
+            
+            <note place="right"><w norm="concilium"><abbr>Conciliu</abbr></w> <w norm="uanitatis">uanitatis</w><pc>.</pc></note>
+            
+            <noteGrp><note place="right"><w norm="Martion"><hi rend="upper">MARTION</hi></w><pc>.</pc></note>
+            
+            <note place="right"><w norm="Hebion"><hi rend="upper">HEBION</hi></w><pc>.</pc></note>
+            
+            <note place="right"><w norm="Manicheus"><hi rend="upper">MANICHEVS</hi></w><pc>.</pc></note>
+           </noteGrp> 
+            <noteGrp><note place="right"><w norm="Paulus"><hi rend="upper"><abbr>PAVL</abbr></hi></w> <w norm="Samosatenus"><hi rend="upper"><abbr>SAMOSATENS</abbr></hi></w><pc>.</pc></note>
+            
+            <note place="right"><w norm="Photinus"><hi rend="upper">PHOTINVS</hi></w><pc>.</pc></note></noteGrp>
+            
+            <note place="right"><w norm="Arrius"><hi rend="upper">ARRIVS</hi></w><pc>.</pc></note>
+<pb type="d" n="017v"/>
+            
+            <note place="top-center"><unclear/></note>
+            
+            <noteGrp><note place="left"><w norm="Donatianus"><hi rend="upper">DONATIANVS</hi></w><pc>.</pc></note>
+           
+            <note place="left"><w norm="Nouatus"><hi rend="upper">NOVATVS</hi></w></note></noteGrp>
+            
+            <noteGrp><note place="left"><w norm="ecclesia"><abbr>.Eccl.</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <noteGrp><note place="left"><w norm="crimina"><abbr>Crimia</abbr></w> <w norm="purgari">purgari</w> <w norm="uerbis"><abbr>uebis</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="left"><w norm="nota"><abbr>.N.</abbr></w></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <noteGrp><note place="left"><w norm="resurrectio">Resurrectio</w> 
+               <lb/><w norm="carnis">carnis</w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            <noteGrp><note place="left"><w norm="Valentinus"><hi rend="upper">VALENTINVS</hi></w><pc>.</pc></note>
+            <note place="left"><w norm="Manicheus"><hi rend="upper">MANICHEVS</hi></w><pc>.</pc></note></noteGrp>
+
+            <noteGrp><note place="left"><w norm="obiecta">Obiecta</w> <w norm="contra"><abbr>cotra</abbr></w>
+            <w norm="resurrectionis"><abbr>resur<lb/>rectiois</abbr></w> <w norm="assertionem"><abbr>assertione</abbr></w><pc>.</pc></note>
+               <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+<pb type="d" n="018r"/>
+            <note place="top-right"><num value="9">VIIII</num></note>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="Paulus">Paulus</w> <w norm="apostolus"><abbr>Apls.</abbr></w><pc>.</pc></note></noteGrp>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="Paulus"><abbr>Paul.</abbr></w> <w norm="apostolus"><abbr>apls.</abbr></w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="Ezechiel">Ezechiel</w><pc>.</pc></note>
+            <note place="right"><w norm="Iob">Iob</w><pc>.</pc></note></noteGrp>
+
+<pb type="d" n="018v"/>
+            
+            <noteGrp><note place="left"><w norm="apostolus"><abbr>Apls</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <noteGrp><note place="left"><graphic url="vitis"></graphic></note>
+            
+            <note place="left"><w norm="beati"><abbr>Bti</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="left"><w norm="epilogus">Epilogus</w> <w norm="praedictorum"><abbr>pdictor</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+<pb type="d" n="019r"/>
+            
+            <note place="top-right"><num value="10">X</num></note>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="personarum"><abbr>Personar</abbr></w> <w norm="distinctio"><abbr>distictio</abbr></w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="dei">Dei</w> <w norm="filius"><abbr>filis</abbr></w> <w norm="humanatus">huma-<lb/>natus</w><pc>.</pc></note></noteGrp>
+            
+            <note place="right"><w norm="Photinus"><hi rend="upper">PHOTINVS</hi></w><pc>.</pc></note>
+            <note place="right"><w norm="Apollinaris"><hi rend="upper">APOLLINARIS</hi></w></note>
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+
+<pb type="d" n="019v"/>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <note place="left"><w norm="anima">Anima</w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <note place="left"><w norm="praeceptum"><abbr>Preceptu</abbr></w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="left"><w norm="liberum">Liber</w> <w norm="arbitrium"><abbr>arbitriu</abbr></w><pc>.</pc></note>
+            <note place="left"><w norm="nota"><abbr>.N.</abbr></w><graphic url="vitis"></graphic></note></noteGrp>
+
+<pb type="d" n="020r"/>
+            
+            <note place="top-right"><num value="11">XI</num></note>
+            
+            <note place="right"><w norm="Golias">Golias</w><pc>.</pc></note>
+            
+            <note place="right"><w norm="Dauid">Dauid</w><pc>.</pc></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <note place="right"><w norm="pagani"><hi rend="upper">PAGANI</hi></w></note>
+            
+            <note place="right"><w norm="Iudaei"><hi rend="upper">IVDEI</hi></w><pc>.</pc></note>
+            
+            <note place="right"><w norm="Manichei"><hi rend="upper">MANICHEI</hi></w><pc>.</pc></note>
+            
+            <note place="right"><w norm="Sabelliani"><hi rend="upper">SABELLIANI</hi></w><pc>.</pc></note>
+            
+            <note place="right"><w norm="Arriani"><hi rend="upper">ARRIANI</hi></w></note>
+            
+            <note place="right"><w norm="Moyses">Moyses</w><pc>.</pc></note>
+            
+            <note place="right"><w norm="Iesus">Iesus</w><pc>.</pc></note>
+            
+            <note place="right"><w norm="Dauid">Dauid</w><pc>.</pc></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <note place="right"><w norm="de">De</w> <w norm="deo">Deo</w> <w norm="patre"><abbr>pre</abbr></w> <w norm="et"><abbr>&amp;</abbr></w>
+               <lb/><w norm="dei">Dei</w> <w norm="filio">filio</w> <w norm="contra"><abbr>cotra</abbr></w>
+               <lb/><w norm="paganos">Paganos</w><pc>.</pc></note>
+            
+            
+
+<pb type="d" n="020v"/>
+            
+            <p>
+               <gap/>
+               <s xml:id="XIv-001">Quid dicit iudęus?</s>
+               <gap/>
+            </p>
+            
+            
+            <noteGrp><note place="left"><w norm="Sybilla">Sybilla</w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="left"><w norm="Hermes">Hermes</w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note></noteGrp>
+            
+            <noteGrp><note place="left"><w norm="daemones">Dęmones</w><pc>.</pc></note>
+            <note place="left"><graphic url="vitis"></graphic></note>
+            <note place="left"><w norm="de">De</w> <w norm="Christo"><abbr>Xpo</abbr></w> <w norm="quod"><abbr>q</abbr></w> <w norm="sit">sit</w> <w norm="deus"><abbr>ds</abbr></w> 
+               <lb/> <w norm="contra"><abbr>cotra</abbr></w> <w norm="Iudaeos">Iudeos</w></note>
+            <note place="inline" target="#XIv-001"><graphic url="paragraphus"></graphic></note></noteGrp>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+<pb type="d" n="021r"/>
+            
+            <note place="top-right"><num value="12">XII</num></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><graphic url="manicula"></graphic></note></noteGrp>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+
+<pb type="d" n="021v"/>
+            
+            <p>
+               <gap/>
+               <s xml:id="XIIv-001">Nunc uolo ad eius īcarnationē accedere:</s>
+               <gap/>
+            </p>
+            
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="left"><w norm="de">De</w> <w norm="dei">Dei</w> <w norm="filio">filio</w> <w norm="incarnato"><abbr>incãnato</abbr></w>
+               <lb/><w norm="contra"><abbr>cōtra</abbr></w> <w norm="Manicheum"><abbr>Manichęū</abbr></w><pc>.</pc></note>
+            <note place="inline" target="#XIIv-001"><graphic url="paragraphus"></graphic></note></noteGrp>
+
+<pb type="d" n="022r"/>
+            
+            <p>
+               <gap/>
+               <s xml:id="XIIIr-001">Nullius terreat ꝑsona potentis oīs caro foenū.</s>
+               <gap/>
+            </p>
+            
+            
+            <note place="top-right"><num value="13">XIII</num></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="Eua">Eua</w><pc>.</pc></note>
+            <note place="right"><w norm="Maria">Maria</w><pc>.</pc></note></noteGrp>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+               <note place="inline" target="#XIIIr-001"><graphic url="paragraphus"></graphic></note></noteGrp>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+
+<pb type="d" n="022v"/>
+            
+            <p>
+               <gap/>
+               <s xml:id="XIIIv-001">Sentio Sabelliane
+               <lb/> quid musitas?</s>
+               <gap/>
+            </p>
+            
+            
+            <note place="left"><graphic url="vitis"></graphic></note>
+            
+            <noteGrp><note place="left"><graphic url="vitis"></graphic></note>
+            <note place="left"><w norm="quod">Q.</w> <w norm="filius">filius</w> <w norm="per">ꝑ</w> <w norm="omnia"><abbr>oīa</abbr></w> <w norm="sit">sit</w>
+               <lb/><w norm="aequalis">equalis</w> <w norm="patri"><abbr>pri</abbr></w> <w norm="contra"><abbr>cōtra</abbr></w> 
+               <lb/><w norm="Arrium"><abbr>Arriū</abbr></w><pc>.</pc></note>
+            </noteGrp>
+            
+            <note place="left"><graphic url="vitis-longa"></graphic></note>
+            
+            <note place="inline" target="#XIIIv-001"><graphic url="paragraphus"></graphic></note>
+
+<pb type="d" n="023r"/>
+            
+            <note place="top-right"><num value="14">XIIII</num></note>
+            
+            <noteGrp><note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="alia">Alia</w> <w norm="est"><abbr>ē</abbr></w> <w norm="persona"><abbr>ꝑsona</abbr></w> <w norm="patris"><abbr>Pris</abbr></w>
+               <lb/><w norm="et"><abbr>&amp;</abbr></w> <w norm="alia">alia</w> <w norm="filii">filii</w><pc>.</pc></note></noteGrp>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            <note place="right"><w norm="filius">Filius</w> <w norm="patri"><abbr>pri</abbr></w> <w norm="coaeternus">co-<lb/>ęternus</w><pc>.</pc></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <note place="left"><hi rend="underline"><w norm="ex">Ex</w> <w norm="tempore"><abbr>tpe</abbr></w><pc>.</pc></hi></note>
+            
+            <note place="left"><hi rend="underline"><w norm="uerbum"><abbr>Verbū</abbr></w><pc>.</pc></hi></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+            
+            <note place="right"><graphic url="vitis"></graphic></note>
+
+<pb type="d" n="023v"/>
+
+<pb type="d" n="024r"/>
+
+<pb type="d" n="024v"/>
+
+<pb type="d" n="025r"/>
+
+<pb type="d" n="025v"/>
+
+<pb type="d" n="026r"/>
+
+<pb type="d" n="026v"/>
+
+<pb type="d" n="027r"/>
+
+<pb type="d" n="027v"/>
+
+<pb type="d" n="028r"/>
+
+<pb type="d" n="028v"/>
+
+<pb type="d" n="029r"/>
+
+<pb type="d" n="029v"/>
+
+<pb type="d" n="030r"/>
+
+<pb type="d" n="030v"/>
+
+<pb type="d" n="031r"/>
+
+<pb type="d" n="031v"/>
+
+<pb type="d" n="032r"/>
+
+<pb type="d" n="032v"/>
+
+<pb type="d" n="033r"/>
+
+<pb type="d" n="033v"/>
+
+<pb type="d" n="034r"/>
+
+<pb type="d" n="034v"/>
+
+<pb type="d" n="035r"/>
+
+<pb type="d" n="035v"/>
+
+<pb type="d" n="036r"/>
+
+<pb type="d" n="036v"/>
+
+<pb type="d" n="037r"/>
+
+<pb type="d" n="037v"/>
+
+<pb type="d" n="038r"/>
+
+<pb type="d" n="038v"/>
+
+<pb type="d" n="039r"/>
+
+<pb type="d" n="039v"/>
+
+<pb type="d" n="040r"/>
+
+<pb type="d" n="040v"/>
+
+<pb type="d" n="041r"/>
+
+<pb type="d" n="041v"/>
+
+<pb type="d" n="042r"/>
+
+<pb type="d" n="042v"/>
+
+<pb type="d" n="043r"/>
+
+<pb type="d" n="043v"/>
+
+<pb type="d" n="044r"/>
+
+<pb type="d" n="044v"/>
+
+<pb type="d" n="045r"/>
+
+<pb type="d" n="045v"/>
+
+<pb type="d" n="046r"/>
+
+<pb type="d" n="046v"/>
+
+<pb type="d" n="047r"/>
+
+<pb type="d" n="047v"/>
+
+<pb type="d" n="048r"/>
+
+<pb type="d" n="048v"/>
+
+<pb type="d" n="049r"/>
+
+<pb type="d" n="049v"/>
+
+<pb type="d" n="050r"/>
+
+<pb type="d" n="050v"/>
+
+<pb type="d" n="051r"/>
+
+<pb type="d" n="051v"/>
+
+<pb type="d" n="052r"/>
+
+<pb type="d" n="052v"/>
+
+<pb type="d" n="053r"/>
+
+<pb type="d" n="053v"/>
+
+<pb type="d" n="054r"/>
+
+<pb type="d" n="054v"/>
+
+<pb type="d" n="055r"/>
+
+<pb type="d" n="055v"/>
+
+<pb type="d" n="056r"/>
+
+<pb type="d" n="056v"/>
+
+<pb type="d" n="057r"/>
+
+<pb type="d" n="057v"/>
+
+<pb type="d" n="058r"/>
+
+<pb type="d" n="058v"/>
+
+<pb type="d" n="059r"/>
+
+<pb type="d" n="059v"/>
+
+<pb type="d" n="060r"/>
+
+<pb type="d" n="060v"/>
+
+<pb type="d" n="061r"/>
+
+<pb type="d" n="061v"/>
+
+<pb type="d" n="062r"/>
+
+<pb type="d" n="062v"/>
+
+<pb type="d" n="063r"/>
+
+<pb type="d" n="063v"/>
+
+<pb type="d" n="064r"/>
+
+<pb type="d" n="064v"/>
+
+<pb type="d" n="065r"/>
+
+<pb type="d" n="065v"/>
+
+<pb type="d" n="066r"/>
+
+<pb type="d" n="066v"/>
+
+<pb type="d" n="067r"/>
+
+<pb type="d" n="067v"/>
+
+<pb type="d" n="068r"/>
+
+<pb type="d" n="068v"/>
+
+<pb type="d" n="069r"/>
+
+<pb type="d" n="069v"/>
+
+<pb type="d" n="070r"/>
+
+<pb type="d" n="070v"/>
+
+<pb type="d" n="071r"/>
+
+<pb type="d" n="071v"/>
+
+<pb type="d" n="072r"/>
+
+<pb type="d" n="072v"/>
+
+<pb type="d" n="073r"/>
+
+<pb type="d" n="073v"/>
+
+<pb type="d" n="074r"/>
+
+<pb type="d" n="074v"/>
+
+<pb type="d" n="075r"/>
+
+<pb type="d" n="075v"/>
+
+<pb type="d" n="076r"/>
+
+<pb type="d" n="076v"/>
+
+<pb type="d" n="077r"/>
+
+<pb type="d" n="077v"/>
+
+<pb type="d" n="078r"/>
+
+<pb type="d" n="078v"/>
+
+<pb type="d" n="079r"/>
+
+<pb type="d" n="079v"/>
+
+<pb type="d" n="080r"/>
+
+<pb type="d" n="080v"/>
+
+<pb type="d" n="081r"/>
+
+<pb type="d" n="081v"/>
+
+<pb type="d" n="082r"/>
+
+<pb type="d" n="082v"/>
+
+<pb type="d" n="083r"/>
+
+<pb type="d" n="083v"/>
+
+<pb type="d" n="084r"/>
+
+<pb type="d" n="084v"/>
+
+<pb type="d" n="085r"/>
+
+<pb type="d" n="085v"/>
+
+<pb type="d" n="086r"/>
+
+<pb type="d" n="086v"/>
+
+<pb type="d" n="087r"/>
+
+<pb type="d" n="087v"/>
+
+<pb type="d" n="088r"/>
+
+<pb type="d" n="088v"/>
+
+<pb type="d" n="089r"/>
+
+<pb type="d" n="089v"/>
+
+<pb type="d" n="090r"/>
+
+<pb type="d" n="090v"/>
+
+<pb type="d" n="091r"/>
+
+<pb type="d" n="091v"/>
+
+<pb type="d" n="092r"/>
+
+<pb type="d" n="092v"/>
+
+<pb type="d" n="093r"/>
+
+<pb type="d" n="093v"/>
+
+<pb type="d" n="094r"/>
+
+<pb type="d" n="094v"/>
+
+<pb type="d" n="095r"/>
+
+<pb type="d" n="095v"/>
+
+<pb type="d" n="096r"/>
+
+<pb type="d" n="096v"/>
+
+<pb type="d" n="097r"/>
+
+<pb type="d" n="097v"/>
+
+<pb type="d" n="098r"/>
+
+<pb type="d" n="098v"/>
+
+<pb type="d" n="099r"/>
+
+<pb type="d" n="099v"/>
+
+<pb type="d" n="100r"/>
+
+<pb type="d" n="100v"/>
+
+<pb type="d" n="101r"/>
+
+<pb type="d" n="101v"/>
+
+<pb type="d" n="102r"/>
+
+<pb type="d" n="102v"/>
+
+<pb type="d" n="103r"/>
+
+<pb type="d" n="103v"/>
+
+<pb type="d" n="104r"/>
+
+<pb type="d" n="104v"/>
+
+<pb type="d" n="105r"/>
+
+<pb type="d" n="105v"/>
+
+<pb type="d" n="106r"/>
+
+<pb type="d" n="106v"/>
+
+<pb type="d" n="107r"/>
+
+<pb type="d" n="107v"/>
+
+<pb type="d" n="108r"/>
+
+<pb type="d" n="108v"/>
+
+<pb type="d" n="109r"/>
+
+<pb type="d" n="109v"/>
+
+<pb type="d" n="110r"/>
+
+<pb type="d" n="110v"/>
+
+<pb type="d" n="111r"/>
+
+<pb type="d" n="111v"/>
+
+<pb type="d" n="112r"/>
+
+<pb type="d" n="112v"/>
+
+<pb type="d" n="113r"/>
+
+<pb type="d" n="113v"/>
+
+<pb type="d" n="114r"/>
+
+<pb type="d" n="114v"/>
+
+<pb type="d" n="115r"/>
+
+<pb type="d" n="115v"/>
+
+<pb type="d" n="116r"/>
+
+<pb type="d" n="116v"/>
+
+<pb type="d" n="117r"/>
+
+<pb type="d" n="117v"/>
+
+<pb type="d" n="118r"/>
+
+<pb type="d" n="118v"/>
+
+<pb type="d" n="119r"/>
+
+<pb type="d" n="119v"/>
+
+<pb type="d" n="120r"/>
+
+<pb type="d" n="120v"/>
+
+<pb type="d" n="121r"/>
+
+<pb type="d" n="121v"/>
+
+<pb type="d" n="122r"/>
+
+<pb type="d" n="122v"/>
+
+<pb type="d" n="123r"/>
+
+<pb type="d" n="123v"/>
+
+<pb type="d" n="124r"/>
+
+<pb type="d" n="124v"/>
+
+<pb type="d" n="125r"/>
+
+<pb type="d" n="125v"/>
+
+<pb type="d" n="126r"/>
+
+<pb type="d" n="126v"/>
+
+<pb type="d" n="127r"/>
+
+<pb type="d" n="127v"/>
+
+<pb type="d" n="128r"/>
+
+<pb type="d" n="128v"/>
+
+<pb type="d" n="129r"/>
+
+<pb type="d" n="129v"/>
+
+<pb type="d" n="130r"/>
+
+<pb type="d" n="130v"/>
+
+<pb type="d" n="131r"/>
+
+<pb type="d" n="131v"/>
+
+<pb type="d" n="132r"/>
+
+<pb type="d" n="132v"/>
+
+<pb type="d" n="133r"/>
+
+<pb type="d" n="133v"/>
+
+<pb type="d" n="134r"/>
+
+<pb type="d" n="134v"/>
+
+<pb type="d" n="135r"/>
+
+<pb type="d" n="135v"/>
+
+<pb type="d" n="136r"/>
+
+<pb type="d" n="136v"/>
+
+<pb type="d" n="137r"/>
+
+<pb type="d" n="137v"/>
+
+<pb type="d" n="138r"/>
+
+<pb type="d" n="138v"/>
+
+<pb type="d" n="139r"/>
+
+<pb type="d" n="139v"/>
+
+<pb type="d" n="140r"/>
+
+<pb type="d" n="140v"/>
+
+<pb type="d" n="141r"/>
+
+<pb type="d" n="141v"/>
+
+<pb type="d" n="142r"/>
+
+<pb type="d" n="142v"/>
+
+<pb type="d" n="143r"/>
+
+<pb type="d" n="143v"/>
+
+<pb type="d" n="144r"/>
+
+<pb type="d" n="144v"/>
+
+<pb type="d" n="145r"/>
+
+<pb type="d" n="145v"/>
+
+<pb type="d" n="146r"/>
+
+<pb type="d" n="146v"/>
+
+<pb type="d" n="147r"/>
+
+<pb type="d" n="147v"/>
+
+<pb type="d" n="148r"/>
+
+<pb type="d" n="148v"/>
+
+<pb type="d" n="149r"/>
+
+<pb type="d" n="149v"/>
+
+<pb type="d" n="150r"/>
+
+<pb type="d" n="150v"/>
+
+<pb type="d" n="151r"/>
+
+<pb type="d" n="151v"/>
+
+<pb type="d" n="152r"/>
+
+<pb type="d" n="152v"/>
+
+<pb type="d" n="153r"/>
+
+<pb type="d" n="153v"/>
+
+<pb type="d" n="154r"/>
+
+<pb type="d" n="154v"/>
+
+<pb type="d" n="155r"/>
+
+<pb type="d" n="155v"/>
+
+<pb type="d" n="156r"/>
+
+<pb type="d" n="156v"/>
+
+<pb type="d" n="157r"/>
+
+<pb type="d" n="157v"/>
+
+<pb type="d" n="158r"/>
+
+<pb type="d" n="158v"/>
+
+<pb type="d" n="159r"/>
+
+<pb type="d" n="159v"/>
+
+<pb type="d" n="160r"/>
+
+<pb type="d" n="160v"/>
+
+<pb type="d" n="161r"/>
+
+<pb type="d" n="161v"/>
+
+<pb type="d" n="162r"/>
+
+<pb type="d" n="162v"/>
+
+<pb type="d" n="163r"/>
+
+<pb type="d" n="163v"/>
+
+<pb type="d" n="164r"/>
+
+<pb type="d" n="164v"/>
+
+<pb type="d" n="165r"/>
+
+<pb type="d" n="165v"/>
+
+<pb type="d" n="166r"/>
+
+<pb type="d" n="166v"/>
+
+<pb type="d" n="167r"/>
+
+<pb type="d" n="167v"/>
+
+<pb type="d" n="168r"/>
+
+<pb type="d" n="168v"/>
+
+<pb type="d" n="169r"/>
+
+<pb type="d" n="169v"/>
+
+<pb type="d" n="170r"/>
+
+<pb type="d" n="170v"/>
+
+<pb type="d" n="171r"/>
+
+<pb type="d" n="171v"/>
+
+<pb type="d" n="172r"/>
+
+<pb type="d" n="172v"/>
+
+<pb type="d" n="173r"/>
+
+<pb type="d" n="173v"/>
+
+<pb type="d" n="174r"/>
+
+<pb type="d" n="174v"/>
+
+<pb type="d" n="175r"/>
+
+<pb type="d" n="175v"/>
+
+<pb type="d" n="176r"/>
+
+<pb type="d" n="176v"/>
+
+<pb type="d" n="177r"/>
+
+<pb type="d" n="177v"/>
+
+<pb type="d" n="178r"/>
+
+<pb type="d" n="178v"/>
+
+<pb type="d" n="179r"/>
+
+<pb type="d" n="179v"/>
+
+<pb type="d" n="180r"/>
+
+<pb type="d" n="180v"/>
+
+<pb type="d" n="181r"/>
+
+<pb type="d" n="181v"/>
+
+<pb type="d" n="182r"/>
+
+<pb type="d" n="182v"/>
+
+<pb type="d" n="183r"/>
+
+<pb type="d" n="183v"/>
+
+<pb type="d" n="184r"/>
+
+<pb type="d" n="184v"/>
+
+<pb type="d" n="185r"/>
+
+<pb type="d" n="185v"/>
+
+<pb type="d" n="186r"/>
+
+<pb type="d" n="186v"/>
+
+<pb type="d" n="187r"/>
+
+<pb type="d" n="187v"/>
+
+<pb type="d" n="188r"/>
+
+<pb type="d" n="188v"/>
+
+<pb type="d" n="189r"/>
+
+<pb type="d" n="189v"/>
+
+<pb type="d" n="190r"/>
+
+<pb type="d" n="190v"/>
+
+<pb type="d" n="191r"/>
+
+<pb type="d" n="191v"/>
+
+<pb type="d" n="192r"/>
+
+<pb type="d" n="192v"/>
+
+<pb type="d" n="193r"/>
+
+<pb type="d" n="193v"/>
+
+<pb type="d" n="194r"/>
+
+<pb type="d" n="194v"/>
+
+<pb type="d" n="195r"/>
+
+<pb type="d" n="195v"/>
+
+<pb type="d" n="196r"/>
+
+<pb type="d" n="196v"/>
+
+<pb type="d" n="197r"/>
+
+<pb type="d" n="197v"/>
+
+<pb type="d" n="198r"/>
+
+<pb type="d" n="198v"/>
+
+<pb type="d" n="199r"/>
+
+<pb type="d" n="199v"/>
+
+<pb type="d" n="200r"/>
+
+<pb type="d" n="200v"/>
+
+<pb type="d" n="201r"/>
+
+<pb type="d" n="201v"/>
+
+<pb type="d" n="202r"/>
+
+<pb type="d" n="202v"/>
+
+<pb type="d" n="203r"/>
+
+<pb type="d" n="203v"/>
+
+<pb type="d" n="204r"/>
+
+<pb type="d" n="204v"/>
+
+<pb type="d" n="205r"/>
+
+<pb type="d" n="205v"/>
+
+<pb type="d" n="206r"/>
+
+<pb type="d" n="206v"/>
+
+<pb type="d" n="207r"/>
+
+<pb type="d" n="207v"/>
+
+<pb type="d" n="208r"/>
+
+<pb type="d" n="208v"/>
+
+<pb type="d" n="209r"/>
+
+<pb type="d" n="209v"/>
+
+<pb type="d" n="210r"/>
+
+<pb type="d" n="210v"/>
+
+<pb type="d" n="211r"/>
+
+<pb type="d" n="211v"/>
+
+<pb type="d" n="212r"/>
+
+<pb type="d" n="212v"/>
+
+<pb type="d" n="213r"/>
+
+<pb type="d" n="213v"/>
+
+<pb type="d" n="214r"/>
+
+<pb type="d" n="214v"/>
+
+<pb type="d" n="215r"/>
+
+<pb type="d" n="215v"/>
+
+<pb type="d" n="216r"/>
+
+<pb type="d" n="216v"/>
+
+<pb type="d" n="217r"/>
+
+<pb type="d" n="217v"/>
+
+<pb type="d" n="218r"/>
+
+<pb type="d" n="218v"/>
+
+<pb type="d" n="219r"/>
+
+<pb type="d" n="219v"/>
+
+<pb type="d" n="220r"/>
+
+<pb type="d" n="220v"/>
+
+<pb type="d" n="221r"/>
+
+<pb type="d" n="221v"/>
+
+<pb type="d" n="222r"/>
+
+<pb type="d" n="222v"/>
+
+<pb type="d" n="223r"/>
+
+<pb type="d" n="223v"/>
+
+<pb type="d" n="224r"/>
+
+<pb type="d" n="224v"/>
+
+<pb type="d" n="225r"/>
+
+<pb type="d" n="225v"/>
+
+<pb type="d" n="226r"/>
+
+<pb type="d" n="226v"/>
+
+<pb type="d" n="227r"/>
+
+<pb type="d" n="227v"/>
+
+<pb type="d" n="228r"/>
+
+<pb type="d" n="228v"/>
+
+<pb type="d" n="229r"/>
+
+<pb type="d" n="229v"/>
+
+<pb type="d" n="230r"/>
+
+<pb type="d" n="230v"/>
+
+<pb type="d" n="231r"/>
+
+<pb type="d" n="231v"/>
+
+<pb type="d" n="232r"/>
+
+<pb type="d" n="232v"/>
+
+<pb type="d" n="233r"/>
+
+<pb type="d" n="233v"/>
+
+<pb type="d" n="234r"/>
+
+<pb type="d" n="234v"/>
+
+<pb type="d" n="235r"/>
+
+<pb type="d" n="235v"/>
+
+<pb type="d" n="236r"/>
+
+<pb type="d" n="236v"/>
+
+<pb type="d" n="237r"/>
+
+<pb type="d" n="237v"/>
+
+<pb type="d" n="238r"/>
+
+<pb type="d" n="238v"/>
+
+<pb type="d" n="239r"/>
+
+<pb type="d" n="239v"/>
+
+<pb type="d" n="240r"/>
+
+<pb type="d" n="240v"/>
+
+<pb type="d" n="241r"/>
+
+<pb type="d" n="241v"/>
+
+<pb type="d" n="242r"/>
+
+<pb type="d" n="242v"/>
+
+<pb type="d" n="243r"/>
+
+<pb type="d" n="243v"/>
+
+<pb type="d" n="244r"/>
+
+<pb type="d" n="244v"/>
+
+<pb type="d" n="245r"/>
+
+<pb type="d" n="245v"/>
+
+<pb type="d" n="246r"/>
+
+<pb type="d" n="246v"/>
+
+<pb type="d" n="247r"/>
+
+<pb type="d" n="247v"/>
+
+<pb type="d" n="248r"/>
+
+<pb type="d" n="248v"/>
+
+<pb type="d" n="249r"/>
+
+<pb type="d" n="249v"/>
+
+<pb type="d" n="250r"/>
+
+<pb type="d" n="250v"/>
+
+<pb type="d" n="251r"/>
+
+<pb type="d" n="251v"/>
+
+<pb type="d" n="252r"/>
+
+<pb type="d" n="252v"/>
+
+<pb type="d" n="253r"/>
+
+<pb type="d" n="253v"/>
+
+<pb type="d" n="254r"/>
+
+<pb type="d" n="254v"/>
+
+<pb type="d" n="255r"/>
+
+<pb type="d" n="255v"/>
+
+
+         </div>
+      </body>
+   </text>
+</TEI>
