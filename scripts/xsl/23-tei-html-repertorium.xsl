@@ -49,21 +49,16 @@
     </xsl:template>
     
     <xsl:template match="tei:note[@place]">
-        <xsl:element name="div">
-            <xsl:attribute name="class">card</xsl:attribute>
-                <xsl:element name="p">
-                    <xsl:element name="span">
-                    <xsl:attribute name="class">
-                        <xsl:value-of select="(if (contains(@place,'right'))
-                            then 'pull-right' else if (contains(@place,'left'))
-                            then 'pull-left'
-                            else 'text-center')"/>
-                    </xsl:attribute>
-                    </xsl:element>
+        <xsl:element name="span">
+            <xsl:attribute name="class"><xsl:value-of select="(if (contains(@place,'right'))
+                then 'tag pull-right' else if (contains(@place,'left'))
+                then 'tag pull-left'
+                else 'tag text-center')"/></xsl:attribute>
             <xsl:apply-templates/>
-                </xsl:element>
         </xsl:element>
     </xsl:template>
+    
+    
     
     <xsl:template match="tei:w[@norm]">
         <xsl:choose>
@@ -86,6 +81,24 @@
         <xsl:element name="div">
             <xsl:attribute name="class">vitis</xsl:attribute>
             <xsl:attribute name="style">height: 45px;</xsl:attribute>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="tei:graphic[@url='manicula']">
+        <xsl:element name="img">
+            <xsl:attribute name="src">../images/manicula.jpg</xsl:attribute>
+            <xsl:attribute name="alt">manicula sinistra</xsl:attribute>
+            <xsl:attribute name="width">50</xsl:attribute>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="tei:graphic[@url='manicula-d']">
+        <xsl:element name="img">
+            <xsl:attribute name="src">../images/manicula-d.jpg</xsl:attribute>
+            <xsl:attribute name="alt">manicula dextra</xsl:attribute>
+            <xsl:attribute name="width">50</xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
