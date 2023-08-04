@@ -105,7 +105,7 @@
          <div n="div">
             <pb type="kks" n="0"/>
             <head n="head">REPERTORIVM</head>
-            
+            <gap reason="neispravljeno"/>
             
             <div n="div3" type="knjiga">
                <pb type="kks" n="1-15"/>
@@ -1375,11 +1375,11 @@
                      diuidet spolia <ref n="ref" type="page">9</ref>.</item>
                   <item n="item2">Per sagittas designantur apostoli. <bibl n="bibl">Psalmus <num value="44">XLIIII</num></bibl>
                      <ref n="ref" type="page">112</ref>.</item>
-                  <item n="item3">Discipulorum preędicatio. <bibl n="bibl">Psalmus <num value="67">LXVII</num></bibl>
+                  <item n="item3">Discipulorum prędicatio. <bibl n="bibl">Psalmus <num value="67">LXVII</num></bibl>
                      <ref n="ref" type="page">114</ref>.</item>
                   <pb type="kks" n="1-42"/>
 
-                  <item n="item4">Apostolorum predicatio. <bibl n="bibl">Psalmus <num value="109">CVIIII</num></bibl>
+                  <item n="item4">Apostolorum <sic resp="#MM">predicatio</sic>. <bibl n="bibl">Psalmus <num value="109">CVIIII</num></bibl>
                      <ref n="ref" type="page">118</ref>.</item>
                   <item n="item5">Sedes in iudicio super domum Dauid. ad quos in Euangelio: Sedebitis super
                      sedes duodecim <abbr n="abbr">etc.</abbr>
@@ -1394,7 +1394,7 @@
                   <item n="item10">Cor stultorum loquetur scientiam, et lingua balborum uelociter loquetur <ref n="ref" type="page">158</ref>.</item>
                   <item n="item11">Brachia mea populos iudicabunt <ref n="ref" type="page">162</ref>.</item>
                   <item n="item12">Quam pulchri super montes pedes euangelizantis <abbr n="abbr">etc.</abbr>; de
-                     discipulorum <sic resp="#NJ">predicatione</sic> <ref n="ref" type="page">163</ref>.</item>
+                     discipulorum <sic resp="#MM">predicatione</sic> <ref n="ref" type="page">163</ref>.</item>
                   <item n="item13">Qui sunt qui ut nubes uolant, et quasi columbę ad fenestras suas <ref n="ref" type="page">165</ref>.</item>
                   <item n="item14">De apostolis mittendis ad prędicandum gentibus. Item dabo uobis pastores
                      iuxta cor meum, et pascent uos scientia et doctrina <ref n="ref" type="page">167</ref>.</item>
@@ -4076,10 +4076,1014 @@
                   <item n="item13"> Vbi sit mentis sedes et qua ratione corpori iungatur <ref n="ref" type="page">198</ref>.</item>
                   <item n="item14"> Quod anima sit ęterna et quid sit secundum 
                      <pb type="kks" n="1-77"/> 
-                     <gap reason="neispravljeno"/>
-                  </item>
+                     uarias opiniones philosophorum <ref n="ref" type="page">199</ref>.</item>
+                  <item n="item15"> Vtrum animus et 
+                     anima sint idem <ref n="ref" type="page">200</ref>.</item>
+                  <item n="item16"> De origine animę <ref n="ref" type="page">200</ref>.</item>
+               </list>
+               <list n="list8" ana="article">
+                  <head n="head">Angeli.</head>
+                  <item n="item">Demones <ref n="ref" type="page">8</ref>.</item>
+                  
+               </list>
+               <list n="list9" ana="article">
+                  <head n="head">Apostoli.</head>
+                  <item n="item1">Diuisio discipulorum. De illorum miraculis. 
+                     Quomodo Petrus et Paulus Romę
+                     prophetarunt 
+                     de euersione Hierusalem <ref n="ref" type="page">91</ref>.</item>
+                  <item n="item2">Quod a discipulis Christi mendacium abfuit <ref n="ref" type="page">101</ref>.</item>
                </list>
             </div>
+            <div n="div41" type="knjiga" ana="#H6203">
+               <head n="head">
+                  <handShift resp="MM-laert"/>
+                  <ref n="ref" target="#H6203"><handShift medium="rubrum"/>Laertius.</ref>
+               </head>
+               
+               <list n="list1" ana="article">
+                  <head n="head"><handShift medium="atrum"/>Agricola.</head>
+                  <item n="item"><sic resp="#MM">Pytagoras</sic>: Mitem arborem non uiolandam <ref n="ref" type="page">82</ref>.</item>
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head">Amicorum</head>
+                  <item n="item1"> pręsentium et absentium ęque memores 
+                     esse decet <ref n="ref" type="page"><sic resp="#MM">6</sic></ref>.</item>
+                  
+                  <item n="item1a">Amicos cito noli
+                     acquirere; 
+                     quos autem acquisieris, reprobare caue <ref n="ref" type="page">8</ref>.</item>
+                  
+                  <item n="item2"> Chilo 
+                     dixit: Promptius ad amicorum aduersos casus quam ad 
+                     secundos
+                     accurrendum. Nihil se ingrate 
+                     fecisse dixit, nisi forte cum sibi inter amicos
+                     iudicandum esset, suaserit amico a se prouocare 
+                     ut sic et legem et amicum seruaret
+                     <ref n="ref" type="page">10</ref>.</item>
+                  <item n="item3"> Ciuibus 
+                     placere omnibus stude <ref n="ref" type="page">11</ref>.</item>
+                  <item n="item4">Bias malle se inter 
+                     inimicos quam inter amicos iudicare dicebat; quippe 
+                     ex
+                     amicis alterum prorsus futurum inimicum, ex 
+                     inimicis autem alterum amicum <ref n="ref" type="page">12</ref>.</item>
+                  <item n="item5"> Amicos 
+                     beneficiis fouendos, ut <sic resp="#MM">amiciciores</sic> sint, inimicos 
+                     autem amicos
+                     faciendos <ref n="ref" type="page">12</ref>.</item>
+                  <item n="item6"> Amicis et felicibus 
+                     et infelicibus eundem te pręsta <ref n="ref" type="page">13</ref>.</item>
+                  <item n="item7"> Melius est 
+                     amicum unum egregium quam multos gregarios 
+                     possidere <ref n="ref" type="page">14</ref>.</item>
+                  <item n="item8">Xenophontis uerba ad Cliniam, 
+                     quam ardenter ipsum diligat <ref n="ref" type="page">20</ref>.</item>
+                  <item n="item9">Dolores pro amico 
+                     sustinendos ne illi quidem negant, qui in uoluptate 
+                     finem
+                     constituunt <ref n="ref" type="page">25</ref>.</item>
+                  <item n="item10"> Theodorus sustulit amiciciam, 
+                     quod sapientes sibi ipsi sufficiant,
+                     insipientes 
+                     autem inconstanter ament <ref n="ref" type="page">25</ref>.</item>
+                  <item n="item11"> Plato ait 
+                     amicicię species <num n="num" value="3">III</num>: naturalem, socialem,
+                     hospitalem <ref n="ref" type="page">36</ref>.</item>
+                  <item n="item12"> Cum 
+                     Platoni Dionysius diceret "caput tibi quispiam 
+                     tollet", aderat
+                     Xenocrates et suum ostendens 
+                     "nullus", inquit, "id prius quam istud abscidet"
+                     <ref n="ref" type="page">39</ref>.</item>
+                  <item n="item13"> Crantor, cum interrogatus esset, cuius rei gratia 
+                     <pb type="bnc" n="21v"/> 
+                     ita se Polemoni
+                     addixisset, respondit quia illo 
+                     nunquam neque acutius neque grauius audisset
+                     <pb type="kks" n="1-78"/> 
+                     loquentem <ref n="ref" type="page">41</ref>.</item>
+                  <item n="item14"> Amicos, qualescunque sint, oportere 
+                     seruari, ne uideamur uel malis usi uel
+                     deuitare 
+                     bonos. <ref n="ref" type="page">43</ref>.</item>
+                  <item n="item14a">Aristoteles rogatus, quid sit amicus, 
+                     "una", inquit, "anima in
+                     duobus corporibus habitans". 
+                     Rogatus, erga amicos quales esse debeamus,
+                     "quales", 
+                     inquit, "eos erga nos esse optamus. Fauorinus 
+                     refert eum crebro
+                     dicere solitum: Amici, amicus 
+                     nemo <ref n="ref" type="page">47</ref>.</item>
+                  <item n="item15"> Amiciciam ęquitatem esse deffiniuit 
+                     reciprocę beniuolentię. Eius tres
+                     species esse: aliam cognationis, amatoriam aliam 
+                     tertiamque hospitalem <ref n="ref" type="page">48</ref>.</item>
+                  
+                  <item n="item16"> Demetrius amicos dicebat 
+                     secundis in rebus adesse aduocatos, in
+                     calamitatibus autem sua sponte atque inuocatos 
+                     <ref n="ref" type="page">52</ref>.</item>
+                  <item n="item17"> Diogenes: Meam et tuam amiciciam perna 
+                     dissoluit. Alteri idem: Tuam
+                     amiciciam modicum 
+                     casei rupit <ref n="ref" type="page">57</ref>.</item>
+                  <item n="item18"> Zeno interrogatus, quid esset 
+                     amicus, "alter", inquit, "ego". Cum Crates
+                     eum per 
+                     pallium a Stilpone retraheret, dixit: "O 
+                     Crates, aptissima
+                     philosophorum captura est, quę 
+                     fit per aures. Persuadens igitur trahe; quod si
+                     per uim 
+                     egeris, corpus quidem apud te, sed animus apud 
+                     Stilponem erit" <ref n="ref" type="page">65</ref>.</item>
+                  <item n="item19"> <sic resp="#MM">Amicicia</sic> inter bonos dumtaxat, 
+                     quos inuicem studiorum similitudo
+                     conciliat, 
+                     posse consistere. Item quid sit amicicia <ref n="ref" type="page">73</ref>.</item>
+                  <item n="item20"> Amaturum sapientem iuuenes aptos ad uirtutem 
+                     <ref n="ref" type="page">74</ref>.</item>
+                  <item n="item21"><sic resp="#MM">Pytagoras</sic> primus amicorum omnia communia dixit amiciciamque 
+                     ęqualitatem <ref n="ref" type="page">81</ref>.</item>
+                  <item n="item22"> Conciliandę amicicię imprimis 
+                     studiosus fuit <ref n="ref" type="page">82</ref>.</item>
+                  <item n="item23"> Inuicem ea ratione conuersandum, 
+                     uti ne ex amicis inimicos, uerum ex
+                     inimicis amicos faciamus <ref n="ref" type="page">82</ref>.</item>
+               </list>
+               <list n="list3" ana="article">
+                  <head n="head">Auxilium.</head>
+                  <item n="item"><sic resp="#MM">Pythagoras</sic>: Onus una tollendum non adiici-<lb/><graphic url="vitis-angulus"></graphic>endum <ref n="ref" type="page">82</ref>.</item>
+               </list>
+               <list n="list4" ana="article">
+                  <head n="head">Adulatio.</head>
+                  <item n="item1"> Diogenes olera abluens Aristippum 
+                     arguit adulationis <abbr n="abbr">etc.</abbr>
+                     <ref n="ref" type="page">22</ref>.</item>
+                  <item n="item2">Antisthenes 
+                     pręstare dicebat necessitate urgente 
+                     in coruos quam in
+                     assentatores incidere; illos 
+                     quippe mortuos, istos uiuentes deuorare <ref n="ref" type="page">54</ref>.</item>
+                  <item n="item3"> Diogenes rogatus, quę nam bellua perniciosissime 
+                     morderet, "ex feris",
+                     inquit, "obtrectator, ex 
+                     mitioribus adulator." Sermonem ad gratiam 
+                     instructum
+                     melleum esse laqueum dixit <ref n="ref" type="page">58</ref>.</item>
+                  
+                  <item n="item4"> Crates desertos dicebat, qui cum assentatoribus 
+                     essent, non secus ac uituli
+                     cum inter lupos sunt: 
+                     neque enim cum illis propinquos neque cum his esse, sed
+                     insidiatores <ref n="ref" type="page">61</ref>.</item>
+                  <item n="item5"> Timon, <pb type="kks" n="1-79"/> cum uidisset Arcesilaum 
+                     assentatorum medium
+                     incedentem, "quid", 
+                     inquit, "huc tu uenisti, ubi nos liberi sumus?" <ref n="ref" type="page">98</ref>.</item>
+               </list>
+               <list n="list5" ana="article">
+                  <head n="head">Auaritia.</head>
+                  <item n="item1">Damnum potius quam turpe lucrum 
+                     eligendum: id quippe semel tantum angere,
+                     hoc semper <ref n="ref" type="page">10</ref>.</item>
+                  <item n="item2"> Nihil pecuniarum gratia agendum <ref n="ref" type="page">13</ref>.</item>
+                  <item n="item3"> Bion ad 
+                     diuitem auarum: "Non", inquit, "hic substantiam possidet, 
+                     sed ab ea
+                     ipse possidetur". Tenaces itaque aiebat 
+                     opum ut suarum habere curam, uerum ex
+                     eis ut 
+                     ex alienis nihil capere utilitatis <ref n="ref" type="page">43</ref>.</item>
+                  <item n="item4"> Aristoteles 
+                     hominum plerosque dicebat ita esse parcos, ac si semper
+                     uicturos, 
+                     alios tam prodigos, ac si continuo mo-<graphic url="angulus"></graphic>rituros <ref n="ref1" type="page">47</ref>.
+                  </item>
+                  <pb type="bnc" n="22r"/>
+                  <item n="item4"> Diogenes rogatus, quomodo
+                     Dionysius amicis uteretur, 
+                     "ut sacculis", ait, "dum plena euacuat et 
+                     abiicit
+                     uacua". Cupiditatem arcem omnium 
+                     malorum dicebat. Rogatus, cur pallens 
+                     esset
+                     aurum, ait: "Quia multos habet insidiatores 
+                     <ref n="ref2" type="page">58</ref>.</item>
+                  <item n="item5">Menippus philosophus quidem, sed auarus foenerator: 
+                     amissis pecuniis laqueo
+                     sibi uitam extorsit <ref n="ref" type="page">62</ref>.</item>
+               </list>
+               <list ana="article">
+                  <head n="head">Aduersa,</head>
+                  <item n="item6"> inquit Thales, facillime quis perferre 
+                     potest, si inimicos uiderit
+                     deterius affectos <ref n="ref" type="page">6</ref>.</item>
+                  
+                  <item n="item7"> Infelicitatem nemini improperaueris, ne iustę 
+                     querimonię pateas <ref n="ref" type="page">10</ref>.</item>
+                  <item n="item8"> Bias infelicem 
+                     dicebat, qui ferre nequiret infelicitatem <ref n="ref" type="page">11</ref>.</item>
+                  <item n="item9"> Theodorus in exilium missus: "Me", inquit, "Athenarum 
+                     ciuitas ferre non
+                     ualens, non secus ac Semele 
+                     Dionysum, expulit" <ref n="ref" type="page">25</ref>.</item>
+                  <note place="inline" resp="#MM">Sequitur sub folio.</note>
+               </list>
+               <list n="list6" ana="article">
+                  <head n="head">Ars.</head>
+                  <item n="item1">Anacharsis anchoram et figuli rotam 
+                     inuenit <ref n="ref" type="page">14</ref>.</item>
+                  <item n="item2"> Socratem etiam lapidum 
+                     sculptorem fuisse aiunt <ref n="ref" type="page">17</ref>.</item>
+                  <item n="item3"> Disciplinę species <num n="num" value="3">III</num>: 
+                     actio, effectus, speculatio,
+                     id est practice, 
+                     effectrix, theorice <ref n="ref" type="page">36</ref>.</item>
+                  <item n="item4"> Ars trifariam 
+                     diuiditur: quę pręparat, quę conficit, quę utitur <ref n="ref" type="page">37</ref>.</item>
+                  <item n="item5">Speusippus primus quo pacto ex gracilioribus 
+                     lignis capacia et in uentrem
+                     tumentia 
+                     uascula fierent, inuenit <ref n="ref" type="page">38</ref>.</item>
+                  <item n="item6"> Diogenes, cum rudem 
+                     pinguemque citharedum omnes arguerent, solus ipse
+                     laudabat; rogatus, quam ob rem, ait: "Quod 
+                     talis cum sit, cithara se, non
+                     latrociniis 
+                     exerceret <ref n="ref" type="page">57</ref>.</item>
+               </list>
+               <list n="list6a" ana="article">
+                  <item n="item7">Aqua omnium principium <ref n="ref" type="page">5</ref>.</item>
+                  
+               </list>
+               <list n="list7" ana="article">
+                  <head n="head">Audacia.</head>
+                  <item n="item1">Plato <note resp="nn" place="right">Plato</note> tyrannum non timuit. Nam 
+                     <note resp="nn" place="left">Dionysius</note> cum illi Dionysius dixisset: "Verba tua
+                     ociosorum sunt", tunc ille: "Et tua 
+                     tyrannidem sapiunt" <ref n="ref" type="page">31</ref>.</item>
+                  
+                  <pb type="kks" n="1-80"/>
+               </list>
+               <list n="list7a" ana="article">
+                  <item n="item2">Accusatus Anaxagoras, quod solem candentem 
+                     laminam dixerit <ref n="ref" type="page">17</ref>.</item>
+                  <item n="item3">Socrates accusatus, 
+                     quod deos negaret et iuuenes nouis 
+                     disciplinis
+                     corrumperet <ref n="ref" type="page">19</ref>. </item>
+                  <item n="item4">Viri illustres 
+                     apud Athenienses damnati <ref n="ref" type="page">20</ref>.</item>
+                  <item n="item5"> Plato damnatur, 
+                     quia Atheniensis, sed absoluitur, quia philosophus <ref n="ref" type="page">31</ref>.</item>
+                  <item n="item6">Zeno dicente sibi quodam Antisthenis 
+                     complura sibi minime placere, rogauit,
+                     num sibi bona 
+                     etiam quędam habere uideretur, illo se nescire dicente: 
+                     "Non
+                     piget", inquit, "siquid ab Antisthene male 
+                     dictum sit, hoc indagare, siquid
+                     uero boni negligere <ref n="ref" type="page">65</ref>.</item>
+               </list>
+               <list n="list8" ana="article">
+                  <head n="head">Appetitus.</head>
+                  <item n="item1">Diogenes seruos quidem dominis, malos autem 
+                     cupiditatibus seruire dicebat
+                     <ref n="ref" type="page">59</ref>.</item>
+                  <item n="item2"> Solebat 
+                     in publico facere, et quę ad Cererem et quę ad Venerem spectant
+                     <ref n="ref" type="page">59</ref>.</item>
+                  <item n="item3"> Prima animantis 
+                     appetitio se ipsum tuendi atque obseruandi. Item 
+                     falsum
+                     esse, quod prima appetitio sit ad uoluptatem <ref n="ref" type="page">70</ref>.</item>
+                  <item n="item4"> Voluptas cupiditati rationabili contraria <ref n="ref" type="page">72</ref>.</item>
+                  <item n="item5"> Concupiscentiam esse irrationabilem appetitum. 
+                     Item quę illi subincidunt.
+                     Affectiones bonę 
+                     tres: gaudium, cautio, uoluntas <ref n="ref" type="page">73</ref>.</item>
+                  <item n="item6"> Concupiscentias 
+                     partim esse naturales, partim inanes <ref n="ref" type="page">109</ref>.</item>
+               </list>
+               <list n="list9" ana="article">
+                  <head n="head">Auditus.</head>
+                  <item n="item1">Audire esse, cum is, qui medius <sic resp="#MM">est</sic> inter <pb type="bnc" n="22v"/> 
+                     loquentem et audientem est aer,
+                     uerberatur 
+                     orbiculariter, deinde agitatus auribus 
+                     influit, quemadmodum et
+                     cisternę aqua per 
+                     orbes iniecto agitatur lapide <ref n="ref" type="page">76</ref>.</item>
+                  <item n="item2"> Zeno 
+                     Eleates ad aurem se aliquid locuturum 
+                     simulans Nearco tyranno dentibus
+                     apprehensam perforauit <ref n="ref" type="page">91</ref>.</item>
+                  <item n="item3">Quomodo auditus fit <ref n="ref" type="page">103</ref>.</item>
+               </list>
+               <list n="list9a" ana="article">
+                  <item n="item4">Anima immortalis <ref n="ref" type="page">5</ref>. </item>
+                  <item n="item5">Velocissimum mens <ref n="ref" type="page">6</ref>.</item>
+                  <item n="item6"> Quid sensibile, quid intelligibile; anima, ideę <ref n="ref" type="page">30</ref>.</item>
+                  <item n="item7"> Idea; anima immortalis de corpore in corpus transiens <ref n="ref" type="page">35</ref>.</item>
+                  <item n="item8"> Animę partes tres: rationalis, concupiscibilis, 
+                     irascibilis <ref n="ref" type="page">37</ref>.</item>
+                  <item n="item9"> Aristoteles ait animam esse incorpoream, 
+                     primamque esse entelechiam,
+                     corporis 
+                     nempe naturalis et organici potentia uitam habentis <ref n="ref" type="page">48</ref>.</item>
+                  <item n="item10"> Animam octo in partes diuidunt, id est in sensus 
+                     quinque, uocem,
+                     cogitationem, generandi uim <ref n="ref" type="page">72</ref>.</item>
+                  <item n="item11"> Anima mundi, anima sapientum, partes animę <num value="8">VIII</num> <ref n="ref" type="page">76</ref>. </item>
+                  <item n="item12">Principale animę in corde <ref n="ref" type="page">77</ref>.</item>
+                  <item n="item13"> Animę in corpora 
+                     transmigratio <ref n="ref1" type="page">81</ref>.<ref n="ref2" type="page">82</ref>.</item>
+                  <item n="item14"> Animam auulsionem 
+                     ętheris esse 
+                     <pb type="kks" n="1-81"/> et calidi et frigidi; item esse 
+                     immortalem <ref n="ref" type="page">83</ref>.</item>
+                  <item n="item15"> Animam trifariam diuidit 
+                     Pythagoras: in sensum, mentem et
+                     iram. Esse autem principatum 
+                     animę a corde usque ad cerebrum <ref n="ref" type="page">83</ref>.</item>
+                  <item n="item17"> Eorum quę in hominibus sunt, maximum animam esse; 
+                     et felices esse, quibus
+                     bona anima aduenerit <ref n="ref" type="page">83</ref>.</item>
+                  <item n="item18"> Empedocles animam putat omnigenum animalium 
+                     atque herbarum species indui
+                     seque aliquando fuisse 
+                     puerum atque puellam, arborem, auem ac piscem <ref n="ref" type="page">86</ref>.</item>
+
+                  <item n="item19"> Alcmeon animam immortalem dixit, moueri 
+                     iugiter instar solis <ref n="ref" type="page">87</ref>.</item>
+                  <item n="item20">Heraclitus 
+                     animarum et demonum plena esse omnia dixit. Item 
+                     animę rationem
+                     nunquam reperiri posse <ref n="ref" type="page">89</ref>.</item>
+                  <item n="item21"> Parmenides 
+                     ait animam ac mentem idem esse <ref n="ref" type="page">91</ref>. </item>
+                  <item n="item22">Idem dicit Democritus <ref n="ref" type="page">92</ref>.</item>
+                  <item n="item23"> Protagoras dicebat 
+                     nihil esse animam citra sensus <ref n="ref" type="page">93</ref>.</item>
+                  <item n="item24"> Quod anima 
+                     sit corpus tenuibus partibus per totam congregationem 
+                     seminatum.
+                     Vires animi. Animam dissipari. 
+                     Anima corporea <ref n="ref" type="page">104</ref>.</item>
+               </list>
+               <list n="list9b" ana="article">
+                  <head n="head">Habitaculum.</head>
+                  <item n="item25">Diogenes sub porticu habitans 
+                     Athenienses aiebat sibi
+                     condidisse habitaculum. 
+                     Idem dolium, quod in Metroo erat, pro domo habuit <ref n="ref" type="page">55</ref>.</item>
+                  <item n="item26"> Democritum adeo fuisse studiosum, 
+                     ut cella se includeret <ref n="ref" type="page">92</ref>.</item>
+               </list>
+               <list n="list10" ana="article">
+                  <head n="head"><handShift resp="mm-pero"/>Aduersa.</head>
+                  <item n="item1">Alexander epistulas Athenas ad Antipatrum 
+                     miserat per Athliam quendam.
+                     Aderat 
+                     Diogenes atque ad uocabulum alludens, quippe athlios 
+                     infelix dicitur:
+                     "Athlias", inquit, "per Athlium ad Athliam" <ref n="ref" type="page">57</ref>.</item>
+                  <item n="item2"> Ei qui sibi exilium exprobrabat, "at 
+                     huius", inquit, "miserię causa
+                     philosophatus sum" <ref n="ref" type="page">58</ref>.</item>
+                  <item n="item3"> Zeno, 
+                     quoniam amissis in mari rebus ad philosophiam se contulit, 
+                     "tunc",
+                     inquit, "secundis uentis nauigaui, cum 
+                     naufragium feci <ref n="ref" type="page">63</ref>.</item>
+                  <item n="item4">Hecaton Chrysippum 
+                     uenisse ad philosophiam dixit, cum illius patrimonium 
+                     in
+                     regium usum inuectum esset <ref n="ref" type="page">79</ref>.</item>
+               </list>
+            </div>
+            <div n="div42" type="knjiga">
+               <head n="head">
+                  <ref n="ref" target="#HC5885"><handShift resp="mm-curtius"/><handShift medium="rubrum"/>Quintus Curtius</ref>
+               </head>
+
+               <list n="list1" ana="article">
+                  <head n="head"><handShift medium="atrum"/>Agricola.</head>
+                  <item n="item1">Arabię fertilitas <ref n="ref" type="page">20</ref>.</item>
+                  <item n="item2">Orti pensiles <ref n="ref" type="page">21</ref>.</item>
+                  
+
+               </list>
+               <pb type="kks" n="1-82"/>
+               <list n="list2" ana="article">
+                  <head n="head">Amicus.</head>
+                  <item n="item1">Alexander de Ephestione, cum illum ueneratę 
+                     essent captiuę mater et uxor
+                     Darii ipsum regem esse 
+                     <pb type="bnc" n="23r"/>
+                     putantes et re cognita errorem excusarent, 
+                     Sisigambim
+                     prouolutam alleuans rex: Non errasti, 
+                     inquit, mater; nam et hic Alexander est.  <ref n="ref" type="page">7</ref>.</item>
+                  <item n="item2">
+                     Fides amicicię, 
+                     ueri consilii periculosa libertas, uos me 
+                     decepistis; uos, quę
+                     sentiebam, ne reticerem 
+                     impulistis <ref n="ref" type="page">34</ref>.</item>
+                  <item n="item2">Nam firmissima est inter pares 
+                     amicicia; et uidentur pares, qui non fecerunt
+                     inter 
+                     se periculum uirium <ref n="ref" type="page">42</ref>.</item>
+                  <item n="item3">Simulata amicicia 
+                     Perdicę in Meleagrum, regni consortem <ref n="ref" type="page">66</ref>.</item>
+               </list>
+               <list n="list3" ana="article">
+                  <head n="head">Adulatio.</head>
+                  <item n="item"><sic resp="#MM">Hages</sic> et Cleo adulantes Alexandro. 
+                     Perniciosa adulatio, perpetuum malum
+                     regum, quorum 
+                     opes sępius assentatio quam hostis euertit <ref n="ref" type="page">47</ref>.</item>
+               </list>
+               <list n="list4" ana="article">
+                  <head n="head">Auaritia.</head>
+                  <item n="item1">Scytharum legati Alexandrum auaritię 
+                     arguunt <ref n="ref" type="page">42</ref>.</item>
+                  <item n="item2"> Insatiabilis auaritię 
+                     est adhuc implere uelle, quod iam circumfluit <ref n="ref" type="page">49</ref>.</item>
+                  <item n="item3">Auaritia Alexandri aperuit Cyri sepulchrum <ref n="ref" type="page">62</ref>.</item>
+               </list>
+               <list n="list5" ana="article">
+                  <head n="head">Aduersa.</head>
+                  <item n="item">Darius seruorum suorum captiuus <ref n="ref" type="page">27</ref>.</item>
+               </list>
+               <list n="list6" ana="article">
+                  <head n="head">Aqua.</head>
+                  <item n="item1"><sic resp="#MM">Cigni</sic> fluuii descriptio <ref n="ref" type="page" target="http://daten.digitale-sammlungen.de/~db/0005/bsb00052211/image_10">2</ref>.</item>
+
+                  <item n="item2">Aqua solis 
+                     in nemore Hamonis sub lucis ortum tepida, 
+                     medio die frigida <ref n="ref" type="page">13</ref>.</item>
+                  <item n="item3">Tygris a celeritate 
+                     sic dictus, quia Persica lingua <sic resp="#MM">tygrim</sic> sagittam
+                     appellant <ref n="ref" type="page">14</ref>.</item>
+                  <item n="item4">Fluuium <sic resp="#MM">Phasim tygrim</sic> incolę 
+                     uocant <ref n="ref" type="page">22</ref>.</item>
+                  <item n="item5">Araxes fluuius <ref n="ref" type="page">22</ref>.</item>
+                  <item n="item6">Zioberis fluuius <ref n="ref" type="page">29</ref>.</item>
+                  <item n="item7">Caspium mare dulcius cęteris <ref n="ref" type="page">29</ref>.</item>
+                  <item n="item8"><sic resp="#MM">Polytimetus</sic> fluuius <ref n="ref" type="page">42</ref>.</item>
+                  <item n="item9">Mare rubrum a <sic resp="#MM">Erithro</sic> <ref n="ref" type="page">61</ref>.</item>
+               </list>
+               <list n="list7">
+                  <head n="head">Habitaculum.</head>
+                  <item n="item">Indi maritimi tuguria conchis 
+                     et cęteris purgamentis maris instruunt <ref n="ref" type="page">61</ref>.</item>
+               </list>
+            </div>
+            <div n="div43" type="knjiga">
+               <head n="head"><handShift resp="mm-polibius"/><handShift medium="rubrum"/>Polibius</head>
+               <list n="list1">
+                  <head n="head">Amicorum</head>
+                  <item n="item1"> etiam errores licet reprehendere historię 
+                     scriptoribus <ref n="ref" type="page">4</ref>.</item>
+
+                  <item n="item2">Acheorum et Peloponensium 
+                     amicicia: ita in omnibus similes 
+                     <pb type="kks" n="1-83"/> erant, nisi quod non eandem 
+                     urbem habitarent <ref n="ref" type="page">31</ref>.</item>
+                  <item n="item3"> Malorum etiam societas, nisi iustitia 
+                     seruetur, infringitur <ref n="ref" type="page">68</ref>.</item>
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head"><note place="left" resp="nn"><graphic url="manicula" type="manicula"/></note>Aduersa.</head>
+                  <item n="item">Qui sua culpa in calamitatem incidunt <note place="right" resp="nn">qui sua</note>
+                     non tam miserandi quam reprehendendi
+                        <ref n="ref" type="page">24</ref>.</item>
+               </list>
+               <list n="list3" ana="article">
+                  <head n="head">Audacia </head>
+                  <item n="item1">Rhodio Hannibali perniciem attulit <ref n="ref" type="page">13</ref>.</item>
+                  <item n="item2"> Flaminii <hi rend="underline" resp="nn">temeritas</hi> <ref n="ref" type="page">55</ref>.</item>
+                  <item n="item3">Marci Minutii temeritas <note place="left" resp="nn">Temeritas</note><ref n="ref" type="page">57</ref>.</item>
+                  <item n="item4"> Temeritatem homines ad insaniam et ad nichilum 
+                     adducere solere <ref n="ref" type="page">69</ref>.</item>
+                  <item n="item5"> Theodoti audacia <ref n="ref" type="page">94</ref>.</item>
+               </list>
+            </div>
+            <div n="div44" type="knjiga">
+               <head n="head">
+                  <ref n="ref" target="#HC14055"><handShift resp="mm-sabellicus"/><handShift medium="rubrum"/>Marcus Antonius Sabellicus</ref>
+               </head>
+
+               <list n="list1" ana="article">
+                  <head n="head">Agricola.</head>
+                  <item n="item1">India bifera et eius ubertas 
+                     portentosa <ref n="ref" type="page">5</ref>.</item>
+                  <item n="item2"> Triptolemus <ref n="ref" type="page">21</ref>.</item>
+                  <item n="item3"> Aphricę ubertas <ref n="ref" type="page">31</ref>.</item>
+                  <item n="item4"> Hesperidum horti <ref n="ref" type="page">32</ref>.</item>
+                  <item n="item5"> Sicilię ubertas <ref n="ref" type="page">33</ref>.</item>
+                  <item n="item6"> Militaris disciplina et agricultura 
+                     ciuibus permissa <ref n="ref" type="page">70</ref>.</item>
+                  <item n="item7">Diis libandum <num value="10">X</num> 
+                     uitibus non putatis <ref n="ref" type="page">76</ref>. </item>
+                  <item n="item8">Assyrię feracitas <ref n="ref" type="page">92</ref>.</item>
+                  <item n="item9"> Agros colere pro re despicatissima habent 
+                     Thraces <ref n="ref" type="page">111</ref>.</item>
+                  <item n="item10"> Parii eis urbem commisere, quorum fundos 
+                     optime cultos comperissent <ref n="ref" type="page">111</ref>.</item>
+                  <item n="item11"> In sola Attica 
+                     olim olea <ref n="ref" type="page">112</ref>.</item>
+                  <item n="item12">Platanus aureo monili 
+                     ornatur <ref n="ref" type="page">126</ref>.</item>
+                  <item n="item13"> <sic resp="#MM">Cincinatus</sic> ab agro ad consulatum 
+                     uocatus, iterum ad dictaturam <ref n="ref" type="page">140</ref>.</item>
+                  <item n="item14"> Deposita 
+                     dictatura ad agrum rediit <ref n="ref" type="page">141</ref>. </item>
+                  <item n="item15">Pensiles 
+                     horti in arce Babylonis <ref n="ref" type="page">219</ref>.</item>
+                  <item n="item16"> Regulus per 
+                     litteras petiit, ut sibi successor mitteretur, causatus 
+                     quod
+                     suus agellus a mercenariis cultoribus 
+                     uastaretur <ref n="ref" type="page">255</ref>.</item>
+                  <item n="item17"> Ficus a Catone in senatu ostensa <ref n="ref" type="page">326</ref>. </item>
+                  <item n="item18">Lex <ref n="ref" type="page">335</ref>.</item>
+                  <item n="item19"> Agrorum curam foeminis et senibus de-<pb type="bnc" n="23v"/>legant 
+                     <ref n="ref" type="page">347</ref>. </item>
+                  <item n="item20">Vitis aurea Pompeio donata <ref n="ref" type="page">363</ref>.</item>
+                  <item n="item21"> Hercinia silua, Arduenna silua <ref n="ref" type="page">377</ref>.</item>
+                  <item n="item22"> Domitianus edixit, nequis in Italia nouellaret <ref n="ref" type="page">426</ref>.</item>
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head">Amicicia.</head>
+                  <item n="item1">Amicicię inimicicięque animalium <ref n="ref" type="page">13</ref>.</item>
+                  <item n="item2"> Congressus 
+                     Thesei et Pyrithoi <ref n="ref" type="page">35</ref>.</item>
+                  <item n="item3"> Ionathę et Dauidis 
+                     inter se amor <ref n="ref" type="page">48</ref>.</item>
+                  <item n="item4"> Omnia communia <ref n="ref" type="page">62</ref>.</item>
+                  <item n="item5"> De delphini 
+                     et hominis commercio <ref n="ref" type="page">82</ref>.</item>
+                  <item n="item6"> Adrastus Atyn a se 
+                     incaute occisum deprehendens, uenia a rege 
+                     impetrata
+                     super bustum eius ferro se traiecit <ref n="ref" type="page">92</ref>.</item>
+                  <item n="item7"> Amasis remisit amiciciam Polycrati, ne 
+                     eius causa <sic resp="#MM">postea</sic> in aduersis
+                     doleret <ref n="ref" type="page">100</ref>.</item>
+                  <item n="item8"> Mulier 
+                     fratrem uiro et filiis pręfert <ref n="ref" type="page">101</ref>.</item>
+                  <item n="item9"> Xerxes 
+                     seruatur exonerata naui 
+                     <pb type="kks" n="1-84"/> ultraneo suorum desultu <ref n="ref" type="page">132</ref>.</item>
+                  <item n="item10"> Tyrannos non auri, sed amicorum 
+                     inopia perire <ref n="ref" type="page">201</ref>.</item>
+                  <item n="item11"> Alexander Ephestionem se 
+                     alterum esse dixit <ref n="ref" type="page">212</ref>.</item>
+                  <item n="item12"> Certamen inter milites 
+                     ortum gestandi regis Alexandri <ref n="ref" type="page">223</ref>.</item>
+                  <item n="item13">Vera amicicia 
+                     una in duobus corporibus anima <ref n="ref" type="page">233</ref>.</item>
+                  <item n="item14"> Heraclienses 
+                     Atticos ex hostibus sibi amicos efficiunt 
+                     beneficio plusquam
+                     armis usi <ref n="ref" type="page">245</ref>.</item>
+                  <item n="item15"> Xenophanes 
+                     a Philippo missus ad Hannibalem foederis ineundi 
+                     gratia incidit
+                     in Romana pręsidia et dixit se 
+                     ad senatum missum conciliandę cum eo amicicię
+                     causa, 
+                     dimissus abiit, quo uolebat <ref n="ref" type="page">281</ref>.</item>
+                  <item n="item16"> Marcus Liuius cum 
+                     Tiberio Nerone consules designati reconciliantur <ref n="ref" type="page">295</ref>.</item>
+                  <item n="item17"> Syllę sepulchro inscriptum: Nemo amicus 
+                     me beneficentia superauit neque in
+                     inuria 
+                     inferenda inimicus <ref n="ref" type="page">357</ref>.</item>
+                  <item n="item18"> Pompeius pro hoste habuit, 
+                     qui se non sequeretur, Cęsar pro amico qui
+                     contra se non 
+                     esset <ref n="ref" type="page">381</ref>.</item>
+                  <item n="item19">Nero neque amicum habens neque inimicum <ref n="ref" type="page">419</ref>.</item>
+               </list>
+               <list n="list3" ana="article">
+                  <head n="head">Auxilium.</head>
+                  <item n="item1">Suffragia Laconum clamoribus declarabantur <ref n="ref" type="page">63</ref>.</item>
+                  <item n="item2"> Castor et Pollux auxilio fuerunt 
+                     Romanis contra Latinos <ref n="ref" type="page">110</ref>.</item>
+                  <item n="item3"> Metelli interuentu 
+                     Sertorius uincere non potuit Pompeium. Et pulsassem
+                     puerum hunc hodie, inquit, ad <sic resp="#MM">sacietatem</sic>, nisi 
+                     anus interuenisset <ref n="ref" type="page">358</ref>.</item>
+               </list>
+               <list n="list4" ana="article">
+                  <head n="head">Adulatio.</head>
+                  <item n="item1"><expan resp="#NJ">Alexander</expan> assentatoribus deditus <ref n="ref" type="page">219</ref>.</item>
+                  <item n="item2"> Cleonis 
+                     assentatio in Alexandrum <ref n="ref" type="page">227</ref>.</item>
+                  <item n="item3"> Athenienses in assentationem 
+                     propensi. Stratocles adulationum inuestigator
+                     maximus <ref n="ref" type="page">242</ref>.</item>
+                  <item n="item4"> Athenienses in Demetrium, 
+                     ut, quicquid uellet, sanctum iustumque haberetur.
+                     Mysteria 
+                     illi alieno mense ostendunt. Atheniensium 
+                     adulatione afflicta Demetrii
+                     fortuna in contrarium 
+                     uertitur <ref n="ref" type="page">243</ref>.</item>
+               </list>
+               <list n="list5" ana="article">
+                  <head n="head">Auaritia.</head>
+                  <item n="item1">Darius sepulchrum demolitus in quo aurum 
+                     se reperturum credidit <ref n="ref" type="page">5</ref>.</item>
+
+                  <item n="item2"> Eriphile aureo 
+                     torque corrupta coniugem Amphiaraum 
+                     latentem prodidit <ref n="ref" type="page">39</ref>.</item>
+                  <item n="item3"> Pygmalion Sicheum obtruncat 
+                     auri eius potiundi gratia <ref n="ref" type="page">54</ref>.</item>
+                  <item n="item4"> <sic resp="#MM">Thesserarum</sic> et 
+                     pilę lusum Lydi inuenere <ref n="ref" type="page">67</ref>.</item>
+                  <item n="item5"> Tarpei filia 
+                     Capitolium prodidit pro armillis <ref n="ref" type="page">72</ref>.</item>
+                  <item n="item6">Senacherib auarus 
+                     et infidus <ref n="ref" type="page">74</ref>.</item>
+                  <item n="item7"> Auri cupiditas prodidit 
+                     Polycratem <ref n="ref" type="page">101</ref>.</item>
+                  <item n="item8"> Alcmeonis auaritia totum se auro 
+                     implentis, cum Croesus ei tollere, quantum
+                     posset, 
+                     permisisset <ref n="ref" type="page">122</ref>.</item>
+                  <item n="item9"> Cupiditas <sic resp="#MM">a</sic> subeundum <pb type="kks" n="1-85"/> 
+                     discrimen <sic resp="#MM">dux</sic>, comes spes <ref n="ref" type="page">159</ref>.</item>
+                  <item n="item10"> Ducis auaritia 
+                     <pb type="bnc" n="24r"/>
+                     militum animos alienauit <ref n="ref" type="page">166</ref>.</item>
+                  <item n="item11"> Lysandrum diuitem 
+                     rati generi colebant, mortui inopia offensi filias 
+                     eius
+                     repudiarunt, acerbe condemnati sunt <ref n="ref" type="page">193</ref>.</item>
+                  <item n="item12">Diogenes: Omnium malorum arx cupiditas <ref n="ref" type="page">202</ref>.</item>
+                  <item n="item13"> Barbarus 
+                     auri cupidus in puteum pręcipitatur <ref n="ref" type="page">210</ref>.</item>
+                  <item n="item14"> Parmenio auarus pecunię, Alexander glorię <ref n="ref" type="page">217</ref>.</item>
+                  <item n="item15"> Nubendum supra naturam, ubi luchrum ostenditur <ref n="ref" type="page">242</ref>.</item>
+                  <item n="item16"> Posthumus damnatus, quod, cum exercitui pręesset, 
+                     militum opera in suo agro
+                     colendo esset usus <ref n="ref" type="page">245</ref>.</item>
+                  <item n="item17">Pyrrhi auaritia dirrui sepulchra iubentis 
+                     antiquorum regum auri cupiditate
+                        <ref n="ref" type="page">251</ref>. </item>
+                  <item n="item18">Pleminius ne a sacris quidem abstinuit <ref n="ref" type="page">299</ref>.</item>
+                  <item n="item19"> Corui aurum comedunt <ref n="ref" type="page">301</ref>.</item>
+                  <item n="item20"> Rapacissima Nabidis coniunx <ref n="ref" type="page">308</ref>.</item>
+                  <item n="item21">Hannibalis ars in <sic resp="#MM">Gortiniorum</sic> 
+                     fallenda auaritia <ref n="ref" type="page">320</ref>.</item>
+                  <item n="item22"> Perseus pecunię 
+                     parcens se et regnum prodidit <ref n="ref" type="page">323</ref>.</item>
+                  <item n="item23"> Auaritia 
+                     Syllani a patre multata <ref n="ref" type="page">334</ref>. </item>
+                  <item n="item24">Locupletum 
+                     factio contra legem agrariam <ref n="ref" type="page">335</ref>.</item>
+                  <item n="item25"> Alii epoto, quod 
+                     in prouinciam extulissent, uino plenas auro 
+                     et argento
+                     reportarunt amphoras <ref n="ref" type="page">339</ref>.</item>
+                  <item n="item26"> <sic resp="#MM">Septemuleius</sic> aurum pro Gracchi capite relaturus 
+                     plumbum infundit, ut plus
+                     appenderet <ref n="ref" type="page">339</ref>.</item>
+                  <item n="item27"> Venalem urbem cito perituram, si emptorem inuenerit <ref n="ref" type="page">343</ref>.</item>
+                  <item n="item28"> Mannio Atilio aurum liquefactum in os 
+                     infusum <ref n="ref" type="page">351</ref>.</item>
+                  <item n="item29"> Sylla in deos cauillatus <ref n="ref" type="page">352</ref>.</item>
+                  <item n="item30"> Mulus auro honustus diripientibus obiectus 
+                     Mithridati spacium ad euadendum
+                     dedit. 
+                     Decretum Luculli contra foeneratores <ref n="ref" type="page">361</ref>. </item>
+                  <item n="item31">Ęrarium Cęsaris iussu direptum <ref n="ref" type="page">381</ref>.</item>
+                  <item n="item32"> Tarsensibus grauissima tributa imposita <ref n="ref" type="page">393</ref>.</item>
+                  <item n="item33"> Miles aurum in uisceribus hominum quęrens <ref n="ref" type="page">424</ref>. </item>
+                  <item n="item34">Aelii Prisci immoderata auri cupiditas <ref n="ref" type="page">425</ref>.</item>
+                  <item n="item35"> Vespasianus dicax et auarus urinę uectigal 
+                     excogitauit <ref n="ref" type="page">426</ref>.</item>
+                  <item n="item36"> Pręstigiator alieni cupidus <ref n="ref" type="page">432</ref>.</item>
+                  <item n="item37">Seuerus auaritia omnes omnium temporum 
+                     principes superauit <ref n="ref" type="page">435</ref>.</item>
+                  <item n="item38"> Auarus et sęuus Maximinus <graphic url="vitis-angulus"></graphic><ref n="ref" type="page">442</ref>.</item>
+               </list>
+               <list n="list6" ana="article">
+                  <head n="head">Aduersa.</head>
+                  <item n="item1">Aegypti clades <ref n="ref" type="page">15</ref>.</item>
+                  <item n="item2"> Miraculosa 
+                     tempestas supra <sic resp="#MM">philistinos</sic> <ref n="ref" type="page">44</ref>.</item>
+                  <item n="item3">Quid sit ut pinum exterere <ref n="ref" type="page">114</ref>.</item>
+                  <item n="item4"> Veteranus bonis bello amissis 
+                     ęre alieno oppressus <ref n="ref" type="page">115</ref>. </item>
+                  <item n="item5">Xerxis fuga <ref n="ref" type="page">132</ref>.</item>
+                  <item n="item6"> Themistoclis uox: Perieramus, filii, nisi perissemus <ref n="ref" type="page">136</ref>.</item>
+                  <item n="item7"> Butes inopia adactus urbem incendit, opes 
+                     et semet in rogum coniecit <ref n="ref" type="page">136</ref>.</item>
+                  <item n="item8"> <sic resp="#MM">Artoxerxis</sic> 
+                     aduersa fortuna <ref n="ref" type="page">183</ref>. </item>
+                  <item n="item9">Atri postridiani dies <ref n="ref" type="page">188</ref>.</item>
+                  <item n="item10"> Manlius ex Capitolina arce, quam a 
+                     <pb type="kks" n="1-86"/> Gallis 
+                     defenderat, pręcipitatus <ref n="ref" type="page">191</ref>.</item>
+                  <item n="item11"> Anthistenes dixit: 
+                     Tunc ciuitates omnino interituras, cum boni ab 
+                     improbis
+                     nequirent discerni <ref n="ref" type="page">192</ref>.</item>
+                  <item n="item12"> Pestilens annus <ref n="ref" type="page">198</ref>.</item>
+                  <item n="item13"> Dionysii casus aduersi <ref n="ref" type="page">201</ref>.</item>
+                  <item n="item14"> Foeda tempestas <ref n="ref" type="page">227</ref>. </item>
+                  <item n="item15">Ariaractis regis sors <ref n="ref" type="page">236</ref>.</item>
+                  <item n="item16"> Abderitę 
+                     ranarum muriumque multitudine patrium 
+                     solum relinquere coacti <ref n="ref" type="page">238</ref>.</item>
+                  <item n="item17">Aduersa Demetrio <ref n="ref" type="page">244</ref>. </item>
+                  <item n="item18">Marii errores <ref n="ref" type="page">352</ref>.</item>
+                  <item n="item19"> Ciceronis 
+                     exilium <ref n="ref" type="page">368</ref>.</item>
+                  <item n="item20">Quot malis humillima infestentur <ref n="ref" type="page">421</ref>.</item>
+                  <item n="item21"> Galenus in sua mala cauillatus <ref n="ref" type="page">446</ref>.</item>
+               </list>
+               <list n="list7" ana="article">
+                  <head n="head">Ars.</head>
+                  <item n="item1">Lanas sordibus inficere Lydorum est commentum <ref n="ref" type="page">67</ref>.</item>
+                  <item n="item2"> Nequis liber sedentariam artem exerceret <ref n="ref" type="page">70</ref>.</item>
+                  <item n="item3"> Lex 
+                     ne alimenta filius patri debeat, a quo non arte esset
+                     <pb type="bnc" n="24v"/>
+                     aliqua ad
+                     usum uitę institutus. Nullum ciuitate 
+                     donandum nisi opificem <ref n="ref" type="page">86</ref>.</item>
+                  <item n="item4"> Archimedes <graphic url="angulus"></graphic><ref n="ref" type="page">284</ref>.</item>
+               </list>
+               <list n="list8" ana="article">
+                  <head n="head">Aqua.</head>
+                  <item n="item1">Indi fluminis ortus et incrementa <ref n="ref" type="page">6</ref>. </item>
+                  <item n="item2">Diluuium sub Ogyge <ref n="ref" type="page">8</ref>.</item>
+
+                  <item n="item3"> Nili ortus <ref n="ref" type="page">14</ref>.</item>
+                  <item n="item4"> Boristenes 
+                     post Histrum omnium Europę fluuiorum 
+                     maximus <ref n="ref" type="page">82</ref>.</item>
+                  <item n="item5"> In flumine Persę non lauantur nec 
+                     micturiunt nec cadauer iniiciunt <ref n="ref" type="page">91</ref>.</item>
+                  <item n="item6"> Cyrus 
+                     Gyndem uadabilem reddidit <ref n="ref" type="page">91</ref>.</item>
+                  <item n="item7">Euphratis 
+                     ortus <ref n="ref" type="page">92</ref>. </item>
+                  <item n="item8">Halis fluuius <ref n="ref" type="page">92</ref>. </item>
+                  <item n="item9">Hermus fluuius <ref n="ref" type="page">93</ref>.</item>
+                  <item n="item10"> Araxes <ref n="ref" type="page">93</ref>.</item>
+                  <item n="item11">Danubius, Ister, Thearus, Artiscus <ref n="ref" type="page">106</ref>. </item>
+                  <item n="item12">Alluuio terrę <ref n="ref" type="page">161</ref>.</item>
+                  <item n="item13"> Cissusa fons aquas dulces 
+                     habens, colorem uini; Bacchum ibi aiunt a
+                     nutricibus 
+                     lotum <ref n="ref" type="page">193</ref>. </item>
+                  <item n="item14">Tygris ortus et fluxus <ref n="ref" type="page">219</ref>.</item>
+                  <item n="item15"> Mira 
+                     aquarum eiaculatio <ref n="ref" type="page">223</ref>. </item>
+                  <item n="item16">Iberus, Rhodanus <ref n="ref" type="page">266</ref>.</item>
+                  <item n="item17"> De aquarum uenis <ref n="ref" type="page">323</ref>.</item>
+               </list>
+               <list n="list9" ana="article">
+                  <head n="head">Audacia.</head>
+                  <item n="item1">Themistoclis uox: Initium uincendi 
+                     esse fiduciam <ref n="ref" type="page">132</ref>.</item>
+                  <item n="item2"> Pori signa in pugna amittere 
+                     capitale erat <ref n="ref" type="page">229</ref>.</item>
+                  <item n="item3"> Neoptolemi filii ab 
+                     hostibus interempti nece audita Pyrrhus: Tardius,
+                     inquit, quam timui <ref n="ref" type="page">251</ref>. </item>
+                  <item n="item4">Flaminii in hoste 
+                     audacia <ref n="ref" type="page">270</ref>.</item>
+                  <item n="item5"> Ingressus inimicorum castra, 
+                     ut regem interficeret, quibusdam uulneratis
+                     euasit <ref n="ref" type="page">279</ref>.</item>
+                  <item n="item6"> Perollę audacia ad Hannibalem 
+                     interimendum <ref n="ref" type="page">279</ref>.</item>
+                  <item n="item7"> Cęsar a <sic resp="#MM">Dirachio</sic> Italiam 
+                     petiturus piscatoriam nauim conscenderat <ref n="ref" type="page">383</ref>.</item>
+                  <item n="item8"> Veterani audacia in elephantem <ref n="ref" type="page">388</ref>.</item>
+               </list>
+               <list n="list10" ana="article">
+                  <head n="head">Accusatio.</head>
+                  <item n="item1">Tarquinius Herdonium coniurationis 
+                     accusat, cum gladios in domum eius ante
+                     clam inferri iussisset <ref n="ref" type="page">95</ref>.</item>
+                  <item n="item2"> Phoenices supplicio 
+                     affecti, cum Iones proditionis accusassent <ref n="ref" type="page">131</ref>.</item>
+                  <item n="item3"> Manlius ab inuidis accusatus. Item Scipio 
+                     Aphricanus <ref n="ref" type="page">318</ref>.</item>
+                  <item n="item4"> Titus delatores grauissime 
+                     <pb type="kks" n="1-87"/>
+                     puniuit <ref n="ref" type="page">426</ref>.</item>
+                  <item n="item5"> Damasus pontifex adultus accusator <ref n="ref" type="page">457</ref>.</item>
+               </list>
+               <list n="list11" ana="article">
+                  <head n="head">Auditus.</head>
+                  <item n="item">Intenti ad pugnam non senserunt 
+                     motum terrę, quo etiam quędam urbes
+                     corruerunt <ref n="ref" type="page">270</ref>.</item>
+               </list>
+               <list n="list12" ana="article">
+                  <head n="head">Anima.</head>
+                  <item n="item1">Primus Pherecides de animorum immortalitate 
+                     sermonem fecit <ref n="ref" type="page">87</ref>.</item>
+                  <item n="item2"> Gethę se non mori persuasum 
+                     habuere, sed ad Salmoxim demonem quendam 
+                     post
+                     fatum migrare <ref n="ref" type="page">111</ref>.</item>
+                  <item n="item3"> Druidę animam in alia 
+                     transire corpora credunt <ref n="ref" type="page">185</ref>.</item>
+                  <item n="item4"> Anima <sic resp="#MM">endelechia</sic>. 
+                     Aristides primus <expan resp="#NJ">animam</expan> pinxit <ref n="ref" type="page">233</ref>.</item>
+                  <item n="item5"> Animę immortalitas <ref n="ref" type="page">425</ref>.</item>
+               </list>
+               <list n="list12" ana="article">
+                  <head n="head">Habitaculum.</head>
+                  <item n="item6"> Vesta ędificandarum domuum commenta 
+                     rationem <ref n="ref" type="page">21</ref>.</item>
+
+                  <item n="item7"> Ne domorum culmina pręterquam securi 
+                     hostiaque serra fabrefacta haberent
+                        <ref n="ref" type="page">63</ref>.</item>
+                  <item n="item8"> Gallorum 
+                     domicilia ex pluteis et cratibus <sic resp="#MM">in testudinis</sic> 
+                     speciem <ref n="ref" type="page">185</ref>. </item>
+                  <item n="item9">Hic optime manebimus <ref n="ref" type="page">188</ref>.</item>
+                  <item n="item10"> Mardi 
+                     specus effodiunt, in quos se, liberos et coniuges 
+                     condunt <ref n="ref" type="page">220</ref>.</item>
+                  <item n="item11"> Tuguria conchis et Oceani purgamentis 
+                     constructa <ref n="ref" type="page">231</ref>.</item>
+                  <item n="item12"> Dardani speluncis 
+                     sub fimo defossis pro domibus utuntur <ref n="ref" type="page">261</ref>.</item>
+               </list>
+            </div>
+            <div n="div45" type="knjiga">
+               <head n="head"><handShift resp="MM-ValMax"/><handShift medium="rubrum"/>Valerius Maximus</head>
+               
+               <list n="list1" ana="article">
+                  <head n="head"><handShift medium="atrum"/><expan>Amicus</expan>.</head>
+                  <item n="item1">De amicicia, <ref type="locus">liber <num value="4">IIII</num>, caput <num value="7">VII</num></ref>.</item>
+                  <item n="item2"> Amicis 
+                     inhonesta petentibus resistendum exemplo Pauli 
+                     Rutilii, <ref type="locus">liber <num value="6">VI</num>,
+                     caput <num value="4">IIII</num></ref>.</item>
+                  <item n="item3">Philippus Alexandrum 
+                     increpat, quod non probitate, sed largitionibus
+                     comparet amicos, <ref type="locus">eodem</ref>.</item>
+                  <item n="item3"> Fabius Maximus militem a se 
+                     alienatum non punire, sed
+                     beneficio retinere
+                     <pb type="bnc" n="25r"/>
+                     uoluit, dissimulans quę de illo comperisset; sic sibi fidum
+                     atque obnoxium fecit, <ref type="locus">liber <num value="7">VII</num>, caput <num n="num" value="3">III</num></ref>.</item>
+                  <item n="item4"> Biantis pręceptum est: Sic amico utendum, ut 
+                     memineris posse fieri
+                     inimicum, <ref type="locus">eodem</ref>.</item>
+                  <item n="item3"> Amicicia 
+                     simulata Hannibalis erga Fabium, ut suspectum 
+                     suis
+                     faceret, <ref type="locus">eodem</ref>. </item>
+                  <item n="item3">Sextus Tarquinius amicicię simulatione 
+                     Gabios decepit, <ref type="locus">caput
+                     <num value="4">IIII</num></ref>.</item>
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head">Auxilium.</head>
+                  <item n="item">Salinator cum Hannnibale conflicturus 
+                     noctu Nerone collega cum altero
+                     exercitu 
+                     recepto prius hostem oppressit quam id ab illo resciri potuit, <ref type="locus">liber
+                        <num value="7">VII</num>, caput <num value="4">IIII</num></ref>.</item>
+                  
+                  
+                  
+               </list>
+               <pb type="kks" n="1-88"/>
+               <list n="list3" ana="article">
+                  <head n="head">Adulatio.</head>
+                  <item n="item">Aristoteles Calistenem ad Alexandrum 
+                     mittens monuit, cum eo aut rarissime
+                     aut quam iocundissime loqueretur, <ref type="locus">liber <num value="7">VII</num>, <abbr n="abbr">cap.</abbr> <num value="2">II</num></ref>.</item>
+               </list>
+               <list n="list4" ana="article">
+                  <head n="head">Auaritia.</head>
+                  <item n="item1">De auaritia, <ref type="locus">liber <num value="9">IX</num>, caput <num value="4">IIII</num></ref>. </item>
+                  <item n="item3">Quintus Fabius 
+                     Labeo, finium arbiter
+                     inter Nolanos et Neapolitanos, 
+                     utrosque decepit, <ref type="locus">liber <num value="7">VII</num>, <abbr n="abbr">cap.</abbr>
+                     <num n="num" value="3">III</num></ref>.</item>
+                  <item n="item2"> Faniam infamem duxit Caius Ticinus, ut postea 
+                     deprehensam dote priuaret, 
+                     sed Marius illum 
+                     summa totius dotis damnauit, <ref type="locus">liber <num value="8">VIII</num>, caput <num value="2">II</num></ref>.</item>
+               </list>
+               <list n="list5" ana="article">
+                  <head n="head">Aduersa.</head>
+                  <item n="item1">De repulsis, <ref type="locus">liber <num value="7">VII</num>, caput <num value="5">V</num></ref>.</item>
+                  <item n="item2"> De necessitate, <ref type="locus">caput <num value="6">VI</num></ref>.</item>
+                  <item n="item3">Rutilius nec accusatus uultum 
+                     mutauit nec exul animum deiecit et Sylla
+                     reuocante redire noluit, <ref type="locus">liber <num value="6">VI</num>, caput <num value="4">IIII</num></ref>.</item>
+                  <item n="item4"> Solon 
+                     amicum moerentem in arcem produxit et "cogita 
+                     nunc tecum", inquit,
+                     "quam multi luctus sub his tectis et 
+                     olim fuerint et hodie uersentur et
+                     sequentibus 
+                     sęculis erunt habitaturi". Idem aiebat, si in unum 
+                     locum cuncti
+                     mala sua contulissent, futurum 
+                     ut propria reportare domum quam ex communi
+                     miseriarum aceruo portionem suam ferre mallent, <ref type="locus">liber <num value="7">VII</num>, caput <num value="2">II</num></ref>.</item>
+                  <item n="item5"> <sic resp="#MM">Apium</sic> Claudium maritima 
+                     tempestas reum fecerat, cęlestis absoluit, <ref type="locus">liber
+                     <num value="8">VIII</num>, caput <num value="1">I</num></ref>.</item>
+               </list>
+               <list n="list6" ana="article">
+                  <head n="head">Ars.</head>
+                  <item n="item1">Quam magni effectus artium sunt, <ref type="locus">liber <num value="8">VIII</num>, caput <num value="11">XI</num></ref>.</item>
+                  <item n="item2"> Casu factum quod ars facere nequibat in equo 
+                     pingendo, <ref type="locus">eodem</ref>. </item>
+                  <item n="item3">Quędam nulla
+                     arte effici posse, <ref type="locus"><abbr n="abbr">cap.</abbr> <num value="12">XII</num></ref>.</item>
+                  <item n="item3"> Suę quenque artis optimum et actorem 
+                     et disputatorem esse,
+                     <ref type="locus"><abbr n="abbr">cap.</abbr> <num value="13">XIII</num></ref>.</item>
+               </list>
+               <list n="list7" ana="article">
+                  <head n="head">Audacia.</head>
+                  <item n="item1">Libere dicta aut facta, <ref type="locus">liber <num value="6">VI</num>, caput <num value="2">II</num></ref>.</item>
+                  <item n="item2"> De temeritate, <ref type="locus">liber <num value="9">IX</num>, caput <num value="8">VIII</num></ref>.</item>
+                  <item n="item3"> Audacia Marci 
+                     Castricii in Cnęum Carbonem: cum ille multos 
+                     enses se habere
+                     dixisset, et ego annos, respondit, <ref type="locus">liber <num value="6">VI</num>, caput <num value="2">II</num></ref>.</item>
+                  <item n="item4"> Pascelius duas res sibi magnam 
+                     licentiam prębere dixit, senectutem et
+                     orbitatem, <add resp="#MM" place="right"><ref type="locus">eodem</ref></add>.</item>
+               </list>
+               <list n="list8" ana="article">
+                  <head n="head">Accusator.</head>
+                  <item n="item1">Infames rei quibus de causis absoluti 
+                     uel damnati, <ref type="locus">liber <num value="8">VIII</num>, caput
+                     <num value="1">I</num></ref>.</item>
+                  <item n="item2"> Ab accusatione abstinendum, 
+                     quando ex ea plus mali oriturum 
+                     iudicamus,
+                     <ref type="locus">liber <num value="6">VI</num>, caput <num value="2">II</num></ref>.</item>
+                  <item n="item3"> Mulier a Philippo 
+                     damnata, "prouocarem", inquit, "ad Philippum, sed sobrium",
+                     <ref type="locus">eodem</ref>.</item>
+                  <item n="item4">Superbia Memmii accusatoris 
+                     effecit, ut Fuluius Gabinus reus <pb type="kks" n="1-89"/> iam damnatus 
+                     absolueretur, <ref type="locus">liber <num value="8">VIII</num>, caput <num value="1">I</num></ref>.</item>
+                  <item n="item5"> Valerii Valentini 
+                     accusatoris turpitudo Caium Cosconium certissimum 
+                     reum a
+                     damnatione liberauit, <ref type="locus">eodem</ref>.</item>
+               </list>
+               <list n="list9" ana="article">
+                  <head n="head">Appetitus.</head>
+                  <item n="item1">Cretum execratio in eos quos oderunt, 
+                     ut mala consuetudine delectentur,
+                     optant. Inutiliter enim aliquid concupiscere et in eo perseueranter 
+                     morari,
+                     exitio uicina dulcedo est, <ref type="locus">liber <num value="7">VII</num>, caput <num value="2">II</num></ref>.</item>
+               </list>
+               <list n="list9" ana="article">
+                  <head n="head">Anima</head>
+                  <item n="item2"> immortalis. Galli mutuas pecunias dabant, 
+                     quę iis apud inferos
+                     redderentur, <ref type="locus">liber <num value="2">II</num>, caput <num value="2">I</num></ref>.</item>
+               </list>
+               <list n="list9" ana="article">
+                  <head n="head">Habitaculum.</head>
+                  <item n="item3"> Marcus Emilius Porcina, quod uillam nimis 
+                     sublime extruxisset,
+                     graui multa affectus, <ref type="locus">liber <graphic url="angulus"></graphic><num value="8">VIII</num>, caput <num value="1">I</num></ref>.</item>
+               </list>
+            </div>
+            
+            <!-- dovde 4. 8. 2023. -->
+                     <gap reason="neispravljeno"/>
+                  
+               
+            
          </div>
       </body>
    </text>
