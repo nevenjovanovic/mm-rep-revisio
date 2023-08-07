@@ -5804,21 +5804,29 @@
             <pb type="kks" n="1-97"/>
             <div n="div54" type="knjiga">
                <head n="head">
-                  <ref n="ref" target="#H8581">EX PARTE SECVNDA COMMENTARIORVM</ref>
+                  <handShift medium="rubrum"/><ref n="ref" target="#H8581">.Ex parte secunda commentariorum.</ref>
                </head>
                <list n="list1">
-                  <item n="item1">Amicus fidelis <ref n="ref" type="page">10</ref>.</item>
+                  <head>Amicus</head>
+                  <item n="item1"> fidelis <ref n="ref" type="page">10</ref>.</item>
                   <item n="item2"> Charitatis ordo <ref n="ref" type="page">112</ref>.</item>
-                  <item n="item3"> Quando fidelis ab infideli diligitur, Dei misericordi est, non eius
-                     bonitatis qui diligit, cum peruersus sit 123,</item>
-                  <item n="item4"> Seleucus Philopator diuitias sibi esse dixit amicos 138,</item>
+                  <item n="item3"> Quando 
+                     fidelis ab infideli diligitur, Dei misericordię est, non eius
+                     bonitatis qui diligit, cum peruersus sit <ref type="page">123</ref>.</item>
+                  <item n="item4"> Seleucus 
+                     Philopator diuitias sibi esse dixit amicos <ref type="page">138</ref>.</item>
                   <item n="item5"> Amicorum fides <ref n="ref" type="page">165</ref>.</item>
                   <item n="item6"> Proximus <ref n="ref" type="page">232</ref>.</item>
-                  <item n="item7"> Qui despicit amicum <ref n="ref" type="page">267</ref>.</item>
-                  <item n="item8"> Qui negligit damnum propter amicum, iustus est <ref n="ref" type="page">268</ref>.</item>
-                  <item n="item9"> Omni tempore diligit qui amicus est <ref n="ref" type="page">272</ref>.</item>
-                  <item n="item10"> Amici diuitem sequuntur, a paupere separantur <ref n="ref" type="page">273</ref>.</item>
-                  <item n="item11"> Amicum ne dimiseris. Melior est uicinus iuxta quam... <ref n="ref" type="page">281</ref>.</item>
+                  <item n="item7"> Qui despicit 
+                     amicum <ref n="ref" type="page">267</ref>.</item>
+                  <item n="item8"> Qui negligit damnum 
+                     propter amicum, iustus est <ref n="ref" type="page">268</ref>.</item>
+                  <item n="item9"> Omni tempore diligit 
+                     qui amicus est <ref n="ref" type="page">272</ref>.</item>
+                  <item n="item10"> Amici diuitem sequuntur, 
+                     a paupere separantur <ref n="ref" type="page">273</ref>.</item>
+                  <item n="item11"> Amicum ne 
+                     dimiseris. Melior est uicinus iuxta quam... <ref n="ref" type="page">281</ref>.</item>
                   <item n="item12"> Melius est duo simul esse quam unum <ref n="ref" type="page">295</ref>.</item>
                   <item n="item13"> Quis est proximus <ref n="ref" type="page">328</ref>.</item>
                   <item n="item14"> Reconciliatio <ref n="ref" type="page">438</ref>.</item>
@@ -5826,149 +5834,232 @@
                <list n="list2" ana="article">
                   <head n="head">Auxilium.</head>
                   <item n="item1">Virga et baculus <ref n="ref" type="page">78</ref>.</item>
-                  <item n="item2"> A iusto ne subtrahas manum tuam <ref n="ref" type="page">299</ref>.</item>
-                  <item n="item3">Accelera, ut eripias me <ref n="ref" type="page">341</ref>.</item>
-                  <item n="item4"> Protector eorum in tempore tribulationis <ref n="ref" type="page">349</ref>. </item>
-                  <item n="item5">Inuoca me in die tribulationis tu <ref n="ref" type="page">359</ref>.</item>
-                  <item n="item6"> Equi mali demones, equi boni angeli <ref n="ref" type="page">375</ref>. </item>
+                  <item n="item2"> A iusto 
+                     ne subtrahas manum tuam <ref n="ref" type="page">299</ref>.</item>
+                  <item n="item3">Accelera, 
+                     ut eripias me <ref n="ref" type="page">341</ref>.</item>
+                  <item n="item4"> Protector eorum in tempore 
+                     tribulationis <ref n="ref" type="page">349</ref>. </item>
+                  <item n="item5">Inuoca me in die 
+                     tribulationis tuę <ref n="ref" type="page">359</ref>.</item>
+                  <item n="item6"> Equi mali demones, equi 
+                     boni angeli <ref n="ref" type="page">375</ref>. </item>
                   <item n="item7">Petra refugium erinaciis <ref n="ref" type="page">399</ref>.</item>
-                  <item n="item8"> Auxilium meum a Domino qui fecit clum et terram <ref n="ref" type="page">409</ref>.</item>
+                  <item n="item8"> Auxilium meum a Domino qui fecit cęlum et terram <ref n="ref" type="page">409</ref>.</item>
                </list>
                <list n="list3" ana="article">
                   <head n="head">Adulatio.</head>
                   <item n="item1">Malum dicit bonum et bonum malum <ref n="ref" type="page">17</ref>.</item>
                   <item n="item2"> Quod crassum erat, occidebatis <ref n="ref" type="page">88</ref>.</item>
                   <item n="item3"> Obsequium amicos, ueritas odium parit <ref n="ref" type="page">205</ref>.</item>
-                  <item n="item4"> Si te lactauerint peccatores <ref n="ref" type="page">256</ref>.</item>
-                  <item n="item5"> Vir iniquus lactat amicum suum <ref n="ref" type="page">272</ref>.</item>
-                  <item n="item6">Qui benedicit proximo suo uoce grandi <ref n="ref" type="page">281</ref>.</item>
-                  <item n="item7"> Rethe expandit gressibus nostris <ref n="ref" type="page">282</ref>.</item>
+                  <item n="item4"> Si te lactauerint 
+                     peccatores <ref n="ref" type="page">256</ref>.</item>
+                  <item n="item5"> Vir iniquus 
+                     lactat amicum suum <ref n="ref" type="page">272</ref>.</item>
+                  <item n="item6">Qui benedicit proximo 
+                     suo uoce grandi <ref n="ref" type="page">281</ref>.</item>
+                  <item n="item7"> Rethe expandit 
+                     gressibus nostris <ref n="ref" type="page">282</ref>.</item>
                   <item n="item8"> Oscula inimici <ref n="ref" type="page">298</ref>.</item>
                   <item n="item9"> Oleum peccatoris <ref n="ref" type="page">303</ref>.</item>
-                  <item n="item10">Laudatur peccator, iniquus benedicitur <ref n="ref" type="page">326</ref>.</item>
-                  <item n="item11"> Qui loquuntur pacem cum proximo suo, mala autem in cordibus eorum <ref n="ref" type="page">339</ref>.</item>
-                  <item n="item12"> Quoniam Deus dissipauit ossa eorum, qui hominibus placent <ref n="ref" type="page">361</ref>.</item>
-                  <item n="item13"> Molliti sunt sermones eius super oleum, et ipsi sunt iacula. <ref n="ref" type="page">362</ref>.</item>
-                  <item n="item14"> Corde maledicebant <ref n="ref" type="page">365</ref>.</item>
-                  <item n="item15"> Mendaces filii hominum, ut decipiant <ref n="ref" type="page">366</ref>.</item>
-                  <item n="item16"> Oleum peccatoris non impinguet caput meum <ref n="ref" type="page">427</ref>.</item>
+                  <item n="item10">Laudatur peccator, 
+                     iniquus benedicitur <ref n="ref" type="page">326</ref>.</item>
+                  <item n="item11"> Qui loquuntur 
+                     pacem cum proximo suo, mala autem in cordibus eorum <ref n="ref" type="page">339</ref>.</item>
+                  <item n="item12"> Quoniam Deus dissipauit ossa eorum, qui hominibus 
+                     placent <ref n="ref" type="page">361</ref>.</item>
+                  <item n="item13"> Molliti sunt sermones eius super 
+                     oleum, et ipsi sunt iacula. <ref n="ref" type="page">362</ref>.</item>
+                  <item n="item14"> Corde 
+                     maledicebant <ref n="ref" type="page">365</ref>.</item>
+                  <item n="item15"> Mendaces filii hominum, 
+                     ut decipiant <ref n="ref" type="page">366</ref>.</item>
+                  <item n="item16"> Oleum peccatoris non 
+                     impinguet caput meum <ref n="ref" type="page">427</ref>.</item>
                </list>
                <list n="list4" ana="article">
                   <head n="head">Auaritia.</head>
-                  <item n="item1">Ęgypto dedimus manum et Assyriis, ut saturaremur panibus <ref n="ref" type="page">21</ref>.</item>
-                  <item n="item2">Manum egeno et paperi non porrigebant <ref n="ref" type="page">50</ref>.</item>
-                  <item n="item3"> Per uim nihil rapuerit <ref n="ref" type="page">54</ref>.</item>
+                  <item n="item1">Ęgypto dedimus manum et Assyriis, 
+                     ut saturaremur panibus <ref n="ref" type="page">21</ref>.</item>
+                  <item n="item2">Manum egeno 
+                     et <sic resp="#MM">pauperi</sic> non porrigebant <ref n="ref" type="page">50</ref>.</item>
+                  <item n="item3"> Per uim nihil 
+                     rapuerit <ref n="ref" type="page">54</ref>.</item>
                   <item n="item4"> Ad usuram non commodauerit <ref n="ref" type="page">55</ref>.</item>
-                  <item n="item5"> Auaritia secerdotum <ref n="ref" type="page">63</ref>.</item>
+                  <item n="item5"> Auaritia <sic resp="#MM">sacerdotum</sic> <ref n="ref" type="page">63</ref>.</item>
                   <item n="item6"> Diues purpuratus <ref n="ref" type="page">67</ref>.</item>
                   <item n="item7"> Auari heretici <ref n="ref" type="page">73</ref>.</item>
-                  <item n="item8"> Quare Daniel non recusauit munera <ref n="ref" type="page">125</ref>.</item>
-                  <item n="item9"> Sollicitudo sęculi, spinę quę suffocant sementem uerbi <ref n="ref" type="page">157</ref>. </item>
+                  <item n="item8"> Quare Daniel non recusauit 
+                     munera <ref n="ref" type="page">125</ref>.</item>
+                  <item n="item9"> Sollicitudo sęculi, spinę 
+                     quę suffocant sementem uerbi <ref n="ref" type="page">157</ref>. </item>
                   <item n="item10">Publicani <ref n="ref" type="page">165</ref>. </item>
-                  <item n="item11">Ementes et uendentes in templo<ref n="ref">168</ref>.</item>
-                  <item n="item12"> Qui <milestone unit="page"/>
-                     <pb/> decimatis mentam et anetum <ref n="ref" type="page">172</ref>.</item>
-                  <item n="item13"> Manum habens aridam <ref n="ref" type="page">184</ref>.</item>
+                  <item n="item11">Ementes et uendentes in templo <ref type="page">168</ref>.</item>
+                  <item n="item12"> Qui 
+                     <pb type="kks" n="1-98"/> decimatis mentam et anetum <ref n="ref" type="page">172</ref>.</item>
+                  <item n="item13"> Manum 
+                     habens aridam <ref n="ref" type="page">184</ref>.</item>
                   <item n="item14">Auarus <ref n="ref" type="page">234</ref>.</item>
-                  <item n="item15"> Auaritia idolis seruiens <ref n="ref" type="page">234</ref>.</item>
+                  <item n="item15"> Auaritia 
+                     idolis seruiens <ref n="ref" type="page">234</ref>.</item>
                   <item n="item16"> Docentes lucri gratia <ref n="ref" type="page">244</ref>.</item>
-                  <item n="item17"> Auaritia animas possidentium rapit <ref n="ref" type="page">257</ref>.</item>
-                  <item n="item18"> Rapiunt non sua, et semper in egestate sunt <ref n="ref" type="page">267</ref>.</item>
-                  <item n="item19"> Fraude acquisita pecunia <ref n="ref" type="page">268</ref>.</item>
-                  <item n="item20">Congregant absque iudicio <ref n="ref" type="page">269</ref>.</item>
-                  <item n="item21"> Qui obturat aures suas ad <sic n="sic">clemorem</sic> pauperis <ref n="ref" type="page">275</ref>.</item>
-                  <item n="item22"> Calumniatur pauperrem, ut augeat diuitias <ref n="ref" type="page">277</ref>.</item>
-                  <item n="item23">Infernus et perditio non implebuntur <ref n="ref" type="page">281</ref>.</item>
+                  <item n="item17"> Auaritia 
+                     animas possidentium rapit <ref n="ref" type="page">257</ref>.</item>
+                  <item n="item18"> Rapiunt 
+                     non sua, et semper in egestate sunt <ref n="ref" type="page">267</ref>.</item>
+                  <item n="item19"> Fraude 
+                     acquisita pecunia <ref n="ref" type="page">268</ref>.</item>
+                  <item n="item20">Congregant absque 
+                     iudicio <ref n="ref" type="page">269</ref>.</item>
+                  <item n="item21"> Qui obturat aures suas ad <sic resp="#MM">clamorem</sic> 
+                     pauperis <ref n="ref" type="page">275</ref>.</item>
+                  <item n="item22"> Calumniatur pauperem, ut 
+                     augeat diuitias <ref n="ref" type="page">277</ref>.</item>
+                  <item n="item23">Infernus et perditio non 
+                     implebuntur <ref n="ref" type="page">281</ref>.</item>
                   <item n="item24"> Qui festinat ditari <ref n="ref" type="page">282</ref>.</item>
                   <item n="item25">Sanguisuga <ref n="ref" type="page">283</ref>. </item>
                   <item n="item26">Tria insaturabilia <ref n="ref" type="page">283</ref>.</item>
                   <item n="item27"> Qui uehementer emulget, elicit sanguinem <ref n="ref" type="page">284</ref>.</item>
-                  <item n="item28">
-                     <pb/>Ira Dei in peccatores, ut diuitias congregent <ref n="ref" type="page">293</ref>.</item>
+                  <pb type="bnc" n="29r"/>
+                  <item n="item28">Ira Dei in peccatores, ut diuitias congregent <ref n="ref" type="page">293</ref>.</item>
                   <item n="item29">Vnus est et secundum non habet <ref n="ref" type="page">295</ref>.</item>
-                  <item n="item30"> Auarus non implebitur pecunia <ref n="ref" type="page">297</ref>.</item>
+                  <item n="item30"> Auarus non implebitur 
+                     pecunia <ref n="ref" type="page">297</ref>.</item>
                   <item n="item31"> Diues auarus <ref n="ref" type="page">297</ref>.</item>
-                  <item n="item32"> Pecunię obediunt omnia <ref n="ref" type="page">305</ref>.</item>
+                  <item n="item32"> Pecunię 
+                     obediunt omnia <ref n="ref" type="page">305</ref>.</item>
                   <item n="item33"> Vsura <ref n="ref" type="page">329</ref>.</item>
-                  <item n="item34"> Dextra eorum repleta est muneribus <ref n="ref" type="page">338</ref>.</item>
-                  <item n="item35"> Thesaurizat et ignorat, cui congregabit ea <ref n="ref" type="page">351</ref>.</item>
-                  <item n="item36"> Et non defecit de plateis eius usura et dolus <ref n="ref" type="page">362</ref>.</item>
-                  <item n="item37"> Rapinas nolite concupiscere <ref n="ref" type="page">366</ref>.</item>
-                  <item n="item38"> Turbabuntur a facie eius patres orphanorum e t iudices uiduarum <ref n="ref" type="page">369</ref>.</item>
+                  <item n="item34"> Dextra 
+                     eorum repleta est muneribus <ref n="ref" type="page">338</ref>.</item>
+                  <item n="item35"> Thesaurizat 
+                     et ignorat, cui congregabit ea <ref n="ref" type="page">351</ref>.</item>
+                  <item n="item36"> Et non defecit 
+                     de plateis eius usura et dolus <ref n="ref" type="page">362</ref>.</item>
+                  <item n="item37"> Rapinas 
+                     nolite concupiscere <ref n="ref" type="page">366</ref>.</item>
+                  <item n="item38"> Turbabuntur a facie 
+                     eius patres orphanorum et iudices uiduarum <ref n="ref" type="page">369</ref>.</item>
                   <item n="item39"> Fecerunt uitulos aureos in Bethel et in Dan <ref n="ref" type="page">377</ref>.</item>
                   <item n="item40"> Insatiabili corde <ref n="ref" type="page">397</ref>.</item>
-                  <item n="item41"> Inclina cor meum in testimonia tua et non in auaritiam <ref n="ref" type="page">415</ref>.</item>
-                  <item n="item42">Aduersa propter peccata. Ab aquilone mala, ab austro bona <ref n="ref" type="page">100</ref>.</item>
-                  <item n="item43"> Quare sanctis aduersa eueniant <ref n="ref" type="page">226</ref>.</item>
+                  <item n="item41"> Inclina cor meum 
+                     in testimonia tua et non in auaritiam <ref n="ref" type="page">415</ref>.</item>
+               </list>
+               <list n="list9" ana="article">
+                  <head n="head">Aduersa</head>
+                  
+                  <item n="item42"> propter peccata <ref type="page">30</ref>.</item> 
+                  <item>Ab aquilone mala, 
+                     ab austro bona <ref n="ref" type="page">100</ref>.</item>
+                  <item n="item43"> Quare sanctis aduersa 
+                     eueniant <ref n="ref" type="page">226</ref>.</item>
                   <item n="item44"> Paulus in carceribus frequenter <ref n="ref" type="page">254</ref>.</item>
                   <item n="item45">Aduersa sanctis <ref n="ref" type="page">258</ref>.</item>
-                  <item n="item46"> Quem diligit Dominus, corripit <ref n="ref" type="page">260</ref>.</item>
-                  <item n="item47"> Si aduersa iustis, quanto magis iniquis <ref n="ref" type="page">267</ref>.</item>
+                  <item n="item46"> Quem diligit Dominus, 
+                     corripit <ref n="ref" type="page">260</ref>.</item>
+                  <item n="item47"> Si aduersa iustis, quanto magis 
+                     iniquis <ref n="ref" type="page">267</ref>.</item>
                   <item n="item48"> Via iustorum absque offendiculo <ref n="ref" type="page">271</ref>.</item>
                   <item n="item49"> Liuor uulneris absterget mala <ref n="ref" type="page">275</ref>.</item>
                   <item n="item50"> Non extinguetur in nocte lucerna eius <ref n="ref" type="page">285</ref>.</item>
-                  <item n="item51"> Quare iusti sustinent mala <ref n="ref" type="page">297</ref>.</item>
+                  <item n="item51"> Quare 
+                     iusti sustinent mala <ref n="ref" type="page">297</ref>.</item>
                   <item n="item52">Iustorum tribulatio <ref n="ref" type="page">299</ref>.</item>
                   <item n="item53"> Iustis mala, impiis bona <ref n="ref" type="page">301</ref>.</item>
-                  <item n="item54"> Prospera et aduersa communia <ref n="ref" type="page">302</ref>.</item>
-                  <item n="item55"> Quare bonis male in hoc seculo <ref n="ref" type="page">303</ref>.</item>
+                  <item n="item54"> Prospera 
+                     et aduersa communia <ref n="ref" type="page">302</ref>.</item>
+                  <item n="item55"> Quare bonis male 
+                     in hoc seculo <ref n="ref" type="page">303</ref>.</item>
                   <item n="item56">Correptio, probatio <ref n="ref" type="page">321</ref>.</item>
                   <item n="item57"> Tribulatio uel ad probationem uel ad poenam <ref n="ref" type="page">325</ref>.</item>
-                  <item n="item58"> Virga tua et baculus tuus ipsa me consolata sunt <ref n="ref" type="page">336</ref>.</item>
+                  <item n="item58"> Virga tua et baculus tuus ipsa me consolata 
+                     sunt <ref n="ref" type="page">336</ref>.</item>
                   <item n="item59">Miserere mei, Domine, quoniam tribulor <ref n="ref" type="page">343</ref>.</item>
                   <item n="item60"> Congregans sicut in utre aquas maris <ref n="ref" type="page">344</ref>.</item>
                   <item n="item61"> Propter iniquitatem corripuisti hominem <ref n="ref" type="page">351</ref>. </item>
                   <item n="item62">Propter te mortificamur tota die <ref n="ref" type="page">355</ref>.</item>
-                  <item n="item63"> Deus inuocandus <ref n="ref" type="page">359</ref>.</item>
+                  <item n="item63"> Deus 
+                     inuocandus <ref n="ref" type="page">359</ref>.</item>
                   <item n="item64"> Ostendisti populo tuo dura <ref n="ref" type="page">364</ref>.</item>
                   <item n="item65"> Iob <ref n="ref" type="page">368</ref>.</item>
-                  <item n="item66"> In tribulatione inuocasti me et liberaui te <ref n="ref" type="page">380</ref>.</item>
-                  <item n="item67"> Omnia in hoc sęculo in commune patimur <ref n="ref" type="page">393</ref>.</item>
-                  <item n="item68"> De torrente in uia, bibit <ref n="ref" type="page">407</ref>.</item>
-                  <item n="item69"> Circumdantes <milestone unit="page"/>
-                     <pb/> circumdederunt me <ref n="ref" type="page">412</ref>.</item>
-                  <item n="item70"> Castigans castigauit me et morti non tradidit me <ref n="ref" type="page">412</ref>.</item>
-                  <item n="item71"> Priusquam humiliarer, ego deliqui. In ueritate tua humiliasti me <ref n="ref" type="page">416</ref>. </item>
+                  <item n="item66"> In tribulatione inuocasti 
+                     me et liberaui te <ref n="ref" type="page">380</ref>.</item>
+                  <item n="item67"> Omnia in hoc sęculo 
+                     in commune patimur <ref n="ref" type="page">393</ref>.</item>
+                  <item n="item68"> De torrente in uia 
+                     bibit <ref n="ref" type="page">407</ref>.</item>
+                  <item n="item69"> Circumdantes 
+                     <pb type="kks" n="1-99"/> 
+                     circumdederunt me <ref n="ref" type="page">412</ref>.</item>
+                  <item n="item70"> Castigans castigauit me et morti 
+                     non tradidit me <ref n="ref" type="page">412</ref>.</item>
+                  <item n="item71"> Priusquam humiliarer, 
+                     ego deliqui. In ueritate tua humiliasti 
+                     me <ref n="ref" type="page">416</ref>. </item>
                   <item n="item72">Bonum mihi, Domine, quia humiliasti me <ref n="ref" type="page">416</ref>.</item>
-                  <item n="item73"> Iustus es, Domine, et rectum iudicium tuum. Tribulatio et angustia
+                  <item n="item73"> Iustus es, Domine, et rectum iudicium tuum. Tribulatio 
+                     et angustia
                      inuenerunt me <ref n="ref" type="page">418</ref>.</item>
-                  <item n="item74">Aquarum congregatio iuxta idioma Scripturarum appellatur mare <ref n="ref" type="page">120</ref>.</item>
+               </list>
+               <list n="list9" ana="article">
+                  <head n="head"><handShift resp="mm-29r"/>Aquarum</head>
+                  <item n="item74"> congregatio iuxta idioma Scripturarum 
+                     appellatur mare <ref n="ref" type="page">120</ref>.</item>
                   <item n="item75"> Tharsis mare <ref n="ref" type="page">136</ref>.</item>
                   <item n="item76"> Torrentes <ref n="ref" type="page">290</ref>.</item>
-                  <item n="item77"> Torrens dicitur, qui de pluuiis uel de montibus in ualles descendit <ref n="ref" type="page">331</ref>.</item>
-                  <item n="item78"> Qui dicunt aquas a Deo non esse creatas <ref n="ref" type="page">393</ref>.</item>
-                  <item n="item79"> Aquę super cęlos <ref n="ref" type="page">398</ref>.</item>
+                  <item n="item77"> Torrens dicitur, qui de pluuiis uel de 
+                     montibus in ualles descendit <ref n="ref" type="page">331</ref>.</item>
+                  <item n="item78"> Qui dicunt 
+                     aquas a Deo non esse creatas <ref n="ref" type="page">393</ref>.</item>
+                  <item n="item79"> Aquę 
+                     super cęlos <ref n="ref" type="page">398</ref>.</item>
                </list>
                <list n="list5" ana="article">
                   <head n="head">Accusator.</head>
-                  <item n="item">Verba susurronis quasi simplicia, et ipsa perueniunt ad interiora uentris
+                  <item n="item">Verba susurronis quasi simplicia, 
+                     et ipsa perueniunt ad interiora uentris
                         <ref n="ref" type="page">280</ref>.</item>
                </list>
                <list n="list6" ana="article">
                   <head n="head">Appetitus.</head>
-                  <item n="item">Exaltauit caput meum super inimicos meos <ref n="ref" type="page">339</ref>.</item>
+                  <item n="item">Exaltauit caput meum super 
+                     inimicos meos <ref n="ref" type="page">339</ref>.</item>
                </list>
                <list n="list7" ana="article">
                   <head n="head">Anima.</head>
-                  <item n="item1">Quod de Hierusalem diximus, referamus ad animam nostram <ref n="ref" type="page">46</ref>.</item>
-                  <item n="item2"> Contra Manicheum, qui de eadem substantia esse animas hominum et bestiarum
+                  <item n="item1">Quod de Hierusalem diximus, referamus ad 
+                     animam nostram <ref n="ref" type="page">46</ref>.</item>
+                  <item n="item2"> Contra Manicheum, qui 
+                     de eadem substantia esse animas hominum et bestiarum
                      asseuerat <ref n="ref" type="page">149</ref>.</item>
-                  <item n="item3"> Animę principale non secundum Platonem in cerebro, sed secundum Christum in
-                     corde 160,</item>
+                  <item n="item3"> Animę principale non secundum 
+                     Platonem in cerebro, sed secundum Christum in
+                     corde <ref type="page">160</ref>.</item>
                   <item n="item4"> Homo interior <ref n="ref" type="page">199</ref>.</item>
-                  <item n="item5"> Anima inter carnem et spiritum,<pb/>si carnem sequitur caro est, si
-                     spiritum, spiritus 212.<ref n="ref" type="page">213</ref>.</item>
-                  <item n="item6"> Qui ante conditionem mundi animas putant cum angelis in cęlesti Hierusalem
+                  <item n="item5"> Anima inter carnem et spiritum,
+                     <pb type="bnc" n="29v"/>
+                     si carnem sequitur caro est, si
+                     spiritum, spiritus <ref type="page">212</ref>. <ref n="ref" type="page">213</ref>.</item>
+                  <item n="item6"> Qui ante conditionem mundi animas putant cum angelis 
+                     in cęlesti Hierusalem
                      fuisse uersatas <ref n="ref" type="page">219</ref>.</item>
-                  <item n="item7"> Mors animę peccatum <ref n="ref" type="page">222</ref>.</item>
+                  <item n="item7"> Mors animę 
+                     peccatum <ref n="ref" type="page">222</ref>.</item>
                   <item n="item8"> Animę robur Spiritus Sanctus <ref n="ref" type="page">227</ref>.</item>
-                  <item n="item9"> Inter animam et spiritum 235.<ref n="ref" type="page">236</ref>.</item>
-                  <item n="item10"> Sic diligat anima corpus ut Christu s Ecclesiam <ref n="ref" type="page">237</ref>.</item>
-                  <item n="item11"> Animę fouent corpora sua, ut corruptiuum hoc induat incorruptionem. Quomodo
+                  <item n="item9"> Inter 
+                     animam et spiritum <ref type="page">235</ref>. <ref n="ref" type="page">236</ref>.</item>
+                  <item n="item10"> Sic diligat anima corpus 
+                     ut Christus Ecclesiam <ref n="ref" type="page">237</ref>.</item>
+                  <item n="item11"> Animę fouent corpora sua, 
+                     ut corruptiuum hoc induat incorruptionem. 
+                     Quomodo
                      membra sumus Christi <ref n="ref" type="page">237</ref>.</item>
-                  <item n="item12">Anima et corpus --- uir et uxor <ref n="ref" type="page">238</ref>.</item>
-                  <item n="item13"> Animas Deo uicinas fore, si corporeę labis nihil habuerint <ref n="ref" type="page">240</ref>.</item>
-                  <item n="item14"> Inter spiritum hominis et iumenti <ref n="ref" type="page">295</ref>.</item>
+                  <item n="item12">Anima et corpus --- 
+                     uir et uxor <ref n="ref" type="page">238</ref>.</item>
+                  <item n="item13"> Animas Deo uicinas fore, 
+                     si corporeę labis nihil habuerint <ref n="ref" type="page">240</ref>.</item>
+                  <item n="item14"> Inter 
+                     spiritum hominis et iumenti <ref n="ref" type="page">295</ref>.</item>
                   <item n="item15"> Animę ante corpora <ref n="ref" type="page">295</ref>.</item>
                   <item n="item16"> Spiritus reuertitur ad Deum qui fecit illum <ref n="ref" type="page">307</ref>.</item>
                   <item n="item17"> Anima Syon <ref n="ref" type="page">386</ref>.</item>
@@ -5976,74 +6067,100 @@
                   <item n="item19"> Lauda, anima mea, Dominum <ref n="ref" type="page">431</ref>.</item>
                   <item n="item20"> Spiritus pro anima <ref n="ref" type="page">431</ref>.</item>
                   <item n="item21">Animę humane honor <ref n="ref" type="page">434</ref>.</item>
-                  <item n="item22">Habitaculum. Doma Gręce, Latine tectum <ref n="ref" type="page">280</ref>.</item>
+               </list>
+               <list n="list9" ana="article">
+                  <head n="head">Habitaculum.</head>
+                  
+                  <item n="item22"> Doma Gręce, Latine tectum <ref n="ref" type="page">280</ref>.</item>
                </list>
                <list n="list8" ana="article">
                   <head n="head">Angeli.</head>
                   <item n="item1">Cherub et Cherubin <ref n="ref" type="page">37</ref>.</item>
-                  <item n="item2"> Cheruibin scientię multitudo et notitia sacramentorum Dei, et thronus eius
+                  <item n="item2"> <sic resp="#MM">Cherubin</sic> scientię 
+                     multitudo et notitia sacramentorum Dei, et 
+                     thronus eius
                      ac requies <ref n="ref" type="page">38</ref>.</item>
-                  <item n="item3"> Cherub <milestone unit="page"/>
-                     <pb/> Cherubin <ref n="ref" type="page">76</ref>.</item>
+                  <item n="item3"> Cherub 
+                     <pb type="kks" n="1-100"/> 
+                     Cherubin <ref n="ref" type="page">76</ref>.</item>
                   <item n="item4"> Lapides igniti <ref n="ref" type="page">76</ref>.</item>
                   <item n="item5"> Nuncii <ref n="ref" type="page">80</ref>.</item>
                   <item n="item6"> Angeli sacerdotes <ref n="ref" type="page">116</ref>.</item>
                   <item n="item7"> Vigil <ref n="ref" type="page">127</ref>.</item>
-                  <item n="item8"> Venti <sic n="sic">celi</sic>
+                  <item n="item8"> Venti cęli
                      <ref n="ref" type="page">130</ref>.</item>
-                  <item n="item9"> Miliades angelorum <ref n="ref" type="page">131</ref>.</item>
+                  <item n="item9"> <sic resp="#MM">Miliades</sic> 
+                     angelorum <ref n="ref" type="page">131</ref>.</item>
                   <item n="item10"> Gabriel, Raphael, Michael <ref n="ref" type="page">132</ref>.</item>
                   <item n="item11"> Ecce uir Gabriel. Quomodo uir, si angelus <ref n="ref" type="page">133</ref>.</item>
-                  <item n="item12"> Angelis commissę prouincię 136.<ref n="ref" type="page">141</ref>.</item>
-                  <item n="item13"> Ioannes dictus angelus, id est nuncius <ref n="ref" type="page">153</ref>.</item>
+                  <item n="item12"> Angelis commissę prouincię <ref type="page">136</ref>.<ref n="ref" type="page">141</ref>.</item>
+                  <item n="item13"> Ioannes dictus 
+                     angelus, id est nuncius <ref n="ref" type="page">153</ref>.</item>
                   <item n="item14">Serui patris familias <ref n="ref" type="page">158</ref>.</item>
                   <item n="item15"> Angeli in custodiam deputati <ref n="ref" type="page">165</ref>.</item>
-                  <item n="item16"> Principatus cęlestium <ref n="ref" type="page">222</ref>.</item>
+                  <item n="item16"> Principatus 
+                     cęlestium <ref n="ref" type="page">222</ref>.</item>
                   <item n="item17"> Altitudo <ref n="ref" type="page">227</ref>.</item>
-                  <item n="item18"> Angeli custodes hominum <ref n="ref" type="page">345</ref>.</item>
-                  <item n="item19">Currus Dei decemilibus multiplex <ref n="ref" type="page">369</ref>.</item>
+                  <item n="item18"> Angeli custodes 
+                     hominum <ref n="ref" type="page">345</ref>.</item>
+                  <item n="item19">Currus Dei <expan resp="#NJ">decemmilibus</expan> multiplex <ref n="ref" type="page">369</ref>.</item>
                   <item n="item20">Cherubin <ref n="ref" type="page">370</ref>.</item>
                   <item n="item21"> Equi boni <ref n="ref" type="page">375</ref>.</item>
-                  <item n="item22"> Aquę super cęlos. Qui facit angelos suos spiritus <ref n="ref" type="page">398</ref>.</item>
+                  <item n="item22"> Aquę 
+                     super cęlos. Qui facit angelos suos spiritus <ref n="ref" type="page">398</ref>.</item>
                   <item n="item23"> Qui producit uentos de thesauris suis <ref n="ref" type="page">425</ref>.</item>
-                  <item n="item24"> Throni, dominationes, potestates, Seraphin, Cherubin <ref n="ref" type="page">434</ref>.</item>
+                  <item n="item24"> Throni, dominationes, potestates, Seraphin, 
+                     Cherubin <ref n="ref" type="page">434</ref>.</item>
                </list>
                <list n="list9" ana="article">
                   <head n="head">Apostoli.</head>
-                  <item n="item1">Euangelista. Quatuor facies uni <ref n="ref" type="page">23</ref>.</item>
-                  <item n="item2"> Pauli conuersio <ref n="ref" type="page">73</ref>.</item>
+                  <item n="item1">Euangelista. <sic resp="#MM">Quattuor</sic> facies uni <ref n="ref" type="page">23</ref>.</item>
+                  <item n="item2"> Pauli 
+                     conuersio <ref n="ref" type="page">73</ref>.</item>
                   <item n="item3"> Ioannes Euangelista <ref n="ref" type="page">25</ref>.</item>
-                  <item n="item4"> Montes Israel, Moyses, prophetę, apostoli <ref n="ref" type="page">90</ref>.</item>
-                  <item n="item5">Petrus et Ioannes columnę <ref n="ref" type="page">102</ref>.</item>
-                  <item n="item6"> In omnem terram exiuit sonus eorum <ref n="ref" type="page">107</ref>. </item>
+                  <item n="item4"> Montes 
+                     Israel, Moyses, prophetę, apostoli <ref n="ref" type="page">90</ref>.</item>
+                  <item n="item5">Petrus et Ioannes 
+                     columnę <ref n="ref" type="page">102</ref>.</item>
+                  <item n="item6"> In omnem terram exiuit sonus 
+                     eorum <ref n="ref" type="page">107</ref>. </item>
                   <item n="item7">Iacobus et Stephanus <ref n="ref" type="page">108</ref>. </item>
                   <item n="item8">Piscatores <ref n="ref" type="page">119</ref>. </item>
                   <item n="item9">Paulus <ref n="ref" type="page">120</ref>.</item>
-                  <item n="item10"> Filii Zebedei, filii tonitrui, id est bariarehem, et non boanerges <ref n="ref" type="page">123</ref>.</item>
+                  <item n="item10"> Filii Zebedei, filii 
+                     tonitrui, id est bariarehem, et non boanerges <ref n="ref" type="page">123</ref>.</item>
                   <item n="item11">Euangelistę <ref n="ref" type="page">143</ref>. </item>
                   <item n="item12">Thadeus ad Abagarum missus <ref n="ref" type="page">151</ref>.</item>
                   <item n="item13"> Ioannes est Helias <ref n="ref" type="page">153</ref>.</item>
                   <item n="item14"> Iudices <ref n="ref" type="page">155</ref>.</item>
                   <item n="item15"> Apostoli dii. Petrus petra <ref n="ref" type="page">162</ref>.</item>
-                  <item n="item16"> Quod etiam Ioannes martyr <ref n="ref" type="page">167</ref>.</item>
+                  <item n="item16"> Quod etiam Ioannes 
+                     martyr <ref n="ref" type="page">167</ref>.</item>
                   <item n="item17"> Varia dona discipulorum <ref n="ref" type="page">173</ref>.</item>
                   <item n="item18"> Simon, Andreas, Iacobus, Ioannes <ref n="ref" type="page">184</ref>.</item>
-                  <item n="item19"> Apostolicorum nominum interpretatio <ref n="ref" type="page">184</ref>.</item>
-                  <item n="item20"> Apostolus Hebraice, Latine missus. Quattuor apostolorum genera. Christus
+                  <item n="item19"> Apostolicorum 
+                     nominum interpretatio <ref n="ref" type="page">184</ref>.</item>
+                  <item n="item20"> Apostolus Hebraice, Latine 
+                     missus. Quattuor apostolorum genera. Christus
                      apostolus <ref n="ref" type="page">191</ref>.</item>
                   <item n="item21"> Duo Iacobi <ref n="ref" type="page">195</ref>.</item>
-                  <item n="item22"> Alii apostoli pręter XII <ref n="ref" type="page">195</ref>.</item>
+                  <item n="item22"> Alii apostoli pręter <num value="12">XII</num> <ref n="ref" type="page">195</ref>.</item>
                   <item n="item23"> Columnę Ecclesię <ref n="ref" type="page">196</ref>.</item>
                   <item n="item24"> Cęphas Petrus <ref n="ref" type="page">197</ref>.</item>
-                  <item n="item25"> Apostoli philosophis pręlati <ref n="ref" type="page">210</ref>.</item>
+                  <item n="item25"> Apostoli 
+                     philosophis pręlati <ref n="ref" type="page">210</ref>.</item>
                   <item n="item26"> Ioannes Euangelista <ref n="ref" type="page">217</ref>.</item>
-                  <item n="item27"> Paulus dictus e Saulo <ref n="ref" type="page">251</ref>.</item>
+                  <item n="item27"> Paulus 
+                     dictus e Saulo <ref n="ref" type="page">251</ref>.</item>
                   <item n="item28"> Viscera <ref n="ref" type="page">253</ref>.</item>
-                  <item n="item29"> De origine Pauli <ref n="ref" type="page">254</ref>.</item>
+                  <item n="item29"> De origine 
+                     Pauli <ref n="ref" type="page">254</ref>.</item>
                   <item n="item30"> Gaudent pro nomine Iesu pati <ref n="ref" type="page">301</ref>.</item>
                   <item n="item31"> Apparuerunt fontes aquarum <ref n="ref" type="page">331</ref>.</item>
-                  <item n="item32"> Reuelata sunt fundamenta orbis terrę, id est prophetę et apostoli <ref n="ref" type="page">331</ref>.</item>
-                  <item n="item33">Cęli, dies <ref n="ref" type="page">333</ref>.</item>
+                  <item n="item32"> Reuelata sunt 
+                     fundamenta orbis terrę, id est prophetę et apostoli <ref n="ref" type="page">331</ref>.</item>
+                  <item n="item33">Cęli, 
+                     dies <ref n="ref" type="page">333</ref>.</item>
                   <item n="item34"> Apostoli ossa Christi <ref n="ref" type="page">335</ref>.</item>
                   <item n="item35"> Testimonium eius <ref n="ref" type="page">337</ref>.</item>
                   <item n="item36">Arietes <ref n="ref" type="page">340</ref>. </item>
@@ -6051,33 +6168,43 @@
                   <item n="item38">Paulus <ref n="ref" type="page">350</ref>. </item>
                   <item n="item39">Barba <ref n="ref" type="page">355</ref>.</item>
                   <item n="item40"> Pro patribus tuis nati sunt tibi filii <ref n="ref" type="page">356</ref>. </item>
-                  <item n="item41">Super sedes XII <ref n="ref" type="page">357</ref>. </item>
+                  <item n="item41">Super 
+                     sedes <num value="12">XII</num> <ref n="ref" type="page">357</ref>. </item>
                   <item n="item42">Cęli euangelistę <ref n="ref" type="page">358</ref>.</item>
-                  <item n="item43"> In Idumea extendam calciamentum meum <ref n="ref" type="page">365</ref>.</item>
+                  <item n="item43"> In Idumea 
+                     extendam calciamentum meum <ref n="ref" type="page">365</ref>.</item>
                   <item n="item44"> Arietes <ref n="ref" type="page">368</ref>.</item>
-                  <item n="item45">/ Diuidunt spolia <ref n="ref" type="page">369</ref>.</item>
+                  <pb type="bnc" n="30r"/>
+                  <item n="item45"> Diuidunt spolia <ref n="ref" type="page">369</ref>.</item>
                   <item n="item46"> Paulus, principes Iuda, nubes <ref n="ref" type="page">370</ref>.</item>
                   <item n="item47"> Tu dirupisti fontes et torrentes <ref n="ref" type="page">374</ref>.</item>
                   <item n="item48"> Montes prophetę et apostoli <ref n="ref" type="page">374</ref>.</item>
-                  <item n="item49"> Vocem dederunt nubes. Illuxerunt corruscationes tuę orbi terrę <ref n="ref" type="page">376</ref>.</item>
-                  <milestone unit="page"/>
-                  <pb/>
-
-                  <item n="item50">Quanta nos apostoli audiuimus et cognouimus ea, audiuimus in littera,
-                     cognouimus in spiritu <ref n="ref" type="page">377</ref>.</item>
+                  <item n="item49"> Vocem 
+                     dederunt nubes. Illuxerunt corruscationes tuę 
+                     orbi terrę <ref n="ref" type="page">376</ref>.</item>
+                  <pb type="kks" n="1-101"/>
+                  <item n="item50">Quanta nos apostoli audiuimus 
+                     et cognouimus ea, audiuimus in littera,
+                     cognouimus 
+                     in spiritu <ref n="ref" type="page">377</ref>.</item>
                   <item n="item51"> Pauli decem epistolę <ref n="ref" type="page">378</ref>.</item>
-                  <item n="item52">Paulus de tribu Beniamin <ref n="ref" type="page">379</ref>.</item>
-                  <item n="item53"> XII cophini in deserto <ref n="ref" type="page">380</ref>.</item>
-                  <item n="item54"> Paulus Alexandro regi pręfertur <ref n="ref" type="page">302</ref>.</item>
+                  <item n="item52">Paulus 
+                     de tribu Beniamin <ref n="ref" type="page">379</ref>.</item>
+                  <item n="item53"> <num value="12">XII</num> cophini in deserto <ref n="ref" type="page">380</ref>.</item>
+                  <item n="item54"> Paulus Alexandro regi pręfertur <ref n="ref" type="page">382</ref>.</item>
                   <item n="item55"> Montes sancti <ref n="ref" type="page">385</ref>.</item>
                   <item n="item56"> Petrus et Paulus <ref n="ref" type="page">386</ref>.</item>
                   <item n="item57"> Prędicatio <ref n="ref" type="page">392</ref>.</item>
                   <item n="item58"> Nubes apostoli et prophetę <ref n="ref" type="page">394</ref>.</item>
-                  <item n="item59"> Alluxerunt fulgura eius orbi terrę <ref n="ref" type="page">395</ref>.</item>
-                  <item n="item60"> Flumina? prophetę, montes apostoli <ref n="ref" type="page">396</ref>.</item>
-                  <item n="item61"> Rigans montes de superioribus suis <ref n="ref" type="page">399</ref>.</item>
-                  <item n="item62"> LXX discipuli. Dedit eis potestatem miraculorum <ref n="ref" type="page">400</ref>.</item>
-                  <item n="item63"> Seminauerunt agros et plantauerunt uineas <ref n="ref" type="page">403</ref>.</item>
+                  <item n="item59"> Alluxerunt 
+                     fulgura eius orbi terrę <ref n="ref" type="page">395</ref>.</item>
+                  <item n="item60"> Flumina prophetę, montes apostoli <ref n="ref" type="page">396</ref>.</item>
+                  <item n="item61"> Rigans montes de superioribus 
+                     suis <ref n="ref" type="page">399</ref>.</item>
+                  <item n="item62"> <num value="70">LXX</num> discipuli. Dedit eis 
+                     potestatem miraculorum <ref n="ref" type="page">400</ref>.</item>
+                  <item n="item63"> Seminauerunt agros et 
+                     plantauerunt uineas <ref n="ref" type="page">403</ref>.</item>
                   <item n="item64"> Iudas Scarioth <ref n="ref" type="page">405</ref>.</item>
                   <item n="item65"> Arietes <ref n="ref" type="page">409</ref>.</item>
                   <item n="item66"> Cęli <ref n="ref" type="page">410</ref>.</item>
@@ -6087,23 +6214,434 @@
                   <item n="item70">Nubes <ref n="ref" type="page">425</ref>.</item>
                   <item n="item71"> Luminaria magna <ref n="ref" type="page">425</ref>.</item>
                   <item n="item72"> Petrus negat <ref n="ref" type="page">430</ref>.</item>
-                  <item n="item73"> Nubes prophetę et apostoli. Celum mysteria <ref n="ref" type="page">432</ref>.</item>
-                  <item n="item74"> Paulus prędicat <ref n="ref" type="page">433</ref>.</item>
+                  <item n="item73"> Nubes prophetę et apostoli. Cęlum mysteria <ref n="ref" type="page">432</ref>.</item>
+                  <item n="item74"> Paulus <sic resp="#MM">pręditat</sic> <ref n="ref" type="page">433</ref>.</item>
                </list>
                <list n="list10" ana="article">
                   <head n="head">Antichristus.</head>
                   <item n="item1">Pharao, Assur <ref n="ref" type="page">82</ref>.</item>
-                  <item n="item2"> Antichristus contra sanctos <ref n="ref" type="page">131</ref>.</item>
-                  <item n="item3"> Quę facturus 138.140.141.<ref n="ref" type="page">139</ref>.</item>
+                  <item n="item2"> Antichristus 
+                     contra sanctos <ref n="ref" type="page">131</ref>.</item>
+                  <item n="item3"> Quę facturus <ref type="page">138</ref>. <ref type="page">140</ref>. <ref type="page">141</ref>.<add resp="#MM" place="right"><ref n="ref" type="page">139</ref>.</add></item>
                   <item n="item4"> Stultus apparuit postque eleuatus est in sublime <ref n="ref" type="page">284</ref>.</item>
                   <item n="item5"> Exurge, Domine, non pręualeat homo <ref n="ref" type="page">325</ref>.</item>
-                  <item n="item6"> Persecutio. Antichristus contra Deum. Oratio contra Antichristum <ref n="ref" type="page">326</ref>.</item>
+                  <item n="item6"> Persecutio. 
+                     Antichristus contra Deum. Oratio contra Antichristum <ref n="ref" type="page">326</ref>.</item>
                   <item n="item7">Contra Antichristum <ref n="ref" type="page">326</ref>.</item>
                   <item n="item8"> Aquilo <ref n="ref" type="page">387</ref>.</item>
                </list>
             </div>
 
             <!-- dovde kolacionirano 6. 8. 2023. -->
+            
+            <div n="div55" type="knjiga">
+               <head n="head"><handShift resp="mm-iosephus-historia"/><handShift medium="rubrum"/>Iosephus de historia Iudeorum.</head>
+               <list n="list1">
+                  <head><handShift medium="atrum"/>Agriculturę</head>
+                  <item n="item1"> studiosus Ozias <ref n="ref" type="page">83</ref>.</item></list>
+               <list n="list10" ana="article">
+                  <head n="head">Adulatoribus</head>
+                  <item n="item2"> suis exprobrauit rex Agrippa <ref n="ref" type="page">175</ref>.</item>
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head">Auaritia.</head>
+                  <item n="item1">Seleucus, Antiochi Crispi filius, ob 
+                     grauem pecunię exactionem cum domo <sic resp="#MM">incensus</sic> 
+                     conflagrauit <ref n="ref" type="page">119</ref>.</item>
+                  <item n="item2"> Herodes tumulum 
+                     aperuit Dauid <ref n="ref" type="page">143</ref>.</item>
+                  <item n="item3"> Pręfectorum auaritia 
+                     muscis comparatur <ref n="ref" type="page">162</ref>.</item>
+               </list>
+               <list n="list3" ana="article">
+                  <head n="head">Aduersa.</head>
+                  <item n="item1">Manasses per flagella corrigitur <ref n="ref" type="page">86</ref>.</item>
+                  <item n="item2"> Agrippa de carcere gradum fecit ad regnum <ref n="ref" type="page">164</ref>.</item>
+               </list>
+               <list n="list4" ana="article">
+                  <head n="head">Apostoli.</head>
+                  <item n="item1">Ioannis Baptistę nex <ref n="ref" type="page">161</ref>.</item>
+                  <item n="item2"> Iacobus Alphei 
+                     martyrio coronatur <ref n="ref" type="page">180</ref>.</item>
+               </list>
+            </div>
+
+            <div n="div56" type="knjiga">
+               <head n="head"><handShift resp="mm-iosephus-historia"/><handShift medium="rubrum"/>.Idem de antiquitate Iudeorum.</head>
+               <list n="list1">
+                  <head><handShift medium="atrum"/>Auaritia</head>
+                  <item n="item"> contemnit supplicium <ref n="ref" type="page">64</ref>.</item>
+                  <pb type="kks" n="1-102"/>
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head">Aqua.</head>
+                  <item n="item">Fluuius Sabbaticus septimo quoque die 
+                     exoriens, deinde intermediis deficiens
+                        <ref n="ref" type="page">73</ref>.</item>
+               </list>
+               <list n="list3" ana="article">
+                  <head n="head">Audacia.</head>
+                  <item n="item1">Nimis confidens incautus est, metus 
+                     autem prouidentiam docet <ref n="ref" type="page">11</ref>.</item>
+                  <item n="item2"> Salutis desperatio 
+                     pręstat audaciam <ref type="page">36</ref>. <ref n="ref" type="page">37</ref>.</item>
+               </list>
+               <list n="list10" ana="article">
+                  <head n="head">Auxilium</head>
+                  <item n="item3"> frustra a Deo sperat, qui obsequi 
+                     mandatis eius negligit <ref n="ref" type="page">66</ref>.</item>
+               </list>
+            </div>
+            <div n="div57" type="knjiga">
+               <head n="head"><handShift medium="rubrum"/>Eusebius de pręparatione euangelica.</head>
+               <list n="list1" ana="article">
+                  <head n="head"><handShift resp="mm-eusebius"/><handShift medium="atrum"/>Agricola.</head>
+                  <item n="item1">Dago frumenta inuenit et aratrum <ref n="ref" type="page">6</ref>.</item>
+
+                  <item n="item2"> Iudei 
+                     septimo quoque anno cessabant ab agricolatione <ref n="ref" type="page">50</ref>.</item></list>
+               <list ana="article">
+                  <head n="head">Aqua</head>
+                  <item n="item3"> et ignis adoratur <ref n="ref" type="page">14</ref>.</item></list>
+               <list ana="article">
+                  <head n="head">Aduersa</head>
+                  <item n="item4"> necessario euenire <ref n="ref" type="page">83</ref>.</item>
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head">Anima.</head>
+                  <item n="item1">Mentem in sanguine diffusam dixit Empedocles <ref n="ref" type="page">4</ref>.</item>
+
+                  <item n="item2">Anima Deo similis <ref n="ref" type="page">16</ref>.</item>
+                  <item n="item3"> Animi cultus <ref n="ref" type="page">43</ref>.</item>
+                  <item n="item4"> Anima immortalis <ref type="page">76</ref>. <ref n="ref" type="page">77</ref>.</item>
+                  <item n="item5"> Platonis errores de anima <ref type="page">90</ref>.
+                  </item>
+               </list>
+               
+               <pb type="bnc" n="30r"/>
+               <list n="list3" ana="article">
+                  <head n="head">Auaritia.</head>
+                  <item n="item1">A Mercurio nummularii <ref n="ref" type="page">39</ref>.</item></list>
+               <list ana="article">
+                  <head n="head">Angeli</head>
+                  <item n="item2"> innumerabiles <ref n="ref" type="page">45</ref>.</item>
+                  <item n="item3"> Ad custodiam dati <ref n="ref" type="page">88</ref>.</item></list>
+               <list ana="article">
+                  <head n="head">Artium</head>
+                  <item n="item4"> inuentores <ref n="ref" type="page">65</ref>.</item>
+               </list>
+            </div>
+
+            <div n="div58" type="knjiga">
+               <head n="head"><handShift medium="rubrum"/>Aurelii Augustini de Civitate Dei</head>
+
+               <list n="list1" ana="article">
+                  <head n="head"><handShift resp="mm-aug-civ"/><handShift medium="atrum"/><expan resp="#NJ">Amicus</expan>.</head>
+                  <item n="item1">Amor peruersus ab immutabili bono ad bonum 
+                     mutabile <ref n="ref" type="page">86</ref>.</item>
+                  <item n="item2">Amor bonus et malus <ref type="page">101</ref>. <ref n="ref" type="page">114</ref>.</item>
+                  <item n="item3"> Amicorum 
+                     inconstantia <ref n="ref" type="page">155</ref>.</item>
+                  <item n="item4">Quod amicicia bonorum non est secura <ref n="ref" type="page">156</ref>.</item>
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head">Auaritia.</head>
+                  <item n="item">Gracchi caput auro expensum <ref n="ref" type="page">23</ref>.</item>
+               </list>
+               <list n="list3" ana="article">
+                  <head n="head">Aduersa.</head>
+                  <item n="item1">Commoda et incommoda bonis malisque communia <ref n="ref" type="page">2</ref>.</item>
+
+                  <item n="item2">Quod sanctis in amissione temporalium nihil pereat <ref n="ref" type="page">3</ref>.</item>
+
+                  <item n="item3">Christiani captiui <ref n="ref" type="page">4</ref>. </item>
+                  <item n="item4">Aduersa quę Christianis contingunt <ref n="ref" type="page">8</ref>.</item>
+
+                  <item n="item5"> Quod a furore hostili non liberantur <ref n="ref" type="page">8</ref>.</item>
+
+                  <item n="item6"> De 
+                     aduersitatibus, quas soli mali metuunt <ref n="ref" type="page">16</ref>.</item>
+                  <item n="item7"> Quibus malis 
+                     uexata Roma post imperium consulare <ref n="ref" type="page">20</ref>.</item>
+
+                  <item n="item8"> <sic resp="#MM">Terremotus</sic> <ref n="ref" type="page">25</ref>.</item>
+               </list>
+               <pb type="kks" n="1-103"/>
+               <list ana="article">
+                  <head n="head">Aquas</head>
+                  <item n="item9"> quidam existimant non creatas <ref n="ref" type="page">84</ref>.</item>
+                  <item n="item10"> Diluuium 
+                     <note place="left" resp="#MM"><graphic url="manicula"></graphic></note> Ogygis<sic resp="#MM">. Diluuium</sic> Deucalionis <ref n="ref" type="page">140</ref>.</item>
+               </list>
+               <list n="list4" ana="article">
+                  <head n="head">Appetitus.</head>
+                  <item n="item1">Concupiscentia sine additaamento in malum 
+                     accipitur <ref n="ref" type="page">101</ref>.</item>
+                  <item n="item2"> Bona uoluntas a Deo. <sic resp="#MM"><ref type="page">103</ref>.</sic></item> 
+                  <item>Concupiscentia carnalis <ref n="ref" type="page">109</ref>.</item>
+               </list>
+               <list n="list5" ana="article">
+                  <head n="head">Anima.</head>
+                  <item n="item1">Animus mens <ref n="ref" type="page">54</ref>.</item>
+                  <item n="item2"> Anima mutabilis intellectus <ref n="ref" type="page">55</ref>.</item>
+                  <item n="item3"> Animarum rationalium tria genera <ref n="ref" type="page">56</ref>.</item>
+                  <item n="item4"> Anima corpore melior <ref n="ref" type="page">63</ref>.</item>
+                  <item n="item5"> Qui putant animas hominum demones esse post corpora <ref n="ref" type="page">63</ref>.</item>
+                  <item n="item6"> Contra Platonicos, qui dicunt animam Deo coęternam <ref n="ref" type="page">75</ref>.</item>
+                  <item n="item7"> De uia animę liberandę <ref n="ref" type="page">76</ref>.</item>
+                  <item n="item8"> Contra eos qui 
+                     dicunt animas beatas iterum ad miserias et labores
+                     redituras <ref n="ref" type="page">90</ref>.</item>
+                  <item n="item9"> De natura animę creatę ad imaginem Dei <ref n="ref" type="page">91</ref>.</item>
+                  <item n="item10">Homo interior <ref n="ref" type="page">98</ref>.</item>
+                  <item n="item11"> Anima rationalis <ref n="ref" type="page">195</ref>.</item>
+               </list>
+               <list n="list6" ana="article">
+                  <head n="head">Angelus.</head>
+                  <item n="item1">Boni demones internuncii deorum atque 
+                     hominum <ref n="ref" type="page">58</ref>.</item>
+                  <item n="item2"> Angelis et hominibus communia <ref n="ref" type="page">60</ref>.</item>
+                  <item n="item3"> Angeli 
+                     animi passione carent <ref n="ref" type="page">62</ref>.</item>
+                  <item n="item4"> Boni demones <ref n="ref" type="page">65</ref>.</item>
+                  <item n="item5"> Inter 
+                     scientiam angelorum et demonum. Dii angeli <ref n="ref" type="page">66</ref>.</item>
+                  <item n="item6">Angelorum erga nos dilectio <ref n="ref" type="page">68</ref>.</item>
+                  <item n="item7"> Ministerium 
+                     angelorum Deo seruit <ref n="ref" type="page">70</ref>.</item>
+                  <item n="item8">De <sic resp="#MM">angelorum</sic> conditione <ref n="ref" type="page">78</ref>.</item>
+                  <item n="item9"> An pręscientia lapsus fuerit in angelis <ref n="ref" type="page">80</ref>. </item>
+                  <item n="item10">Lux prima angeli <ref n="ref" type="page">81</ref>.</item>
+                  <item n="item11"> De angelorum scientia, qua Trinitatem nouerunt <ref n="ref" type="page">83</ref>.</item>
+                  <item n="item12"> Sine difficultate adiuuant. Quando 
+                     creati. Angeli lucis. Angeli tenebrarum
+                        <ref n="ref" type="page">84</ref>.</item>
+                  <item n="item13"> Quare 
+                     beati <ref n="ref" type="page">85</ref>.</item>
+                  <item n="item14"> Quę <expan resp="#BG">conditio</expan> beatitudinis angelorum bonorum <ref n="ref" type="page">86</ref>.</item>
+                  <item n="item15"> An sancti angeli Deum habent <sic resp="#MM">bone</sic> uoluntatis 
+                     autorem <ref n="ref" type="page">87</ref>.</item>
+                  <item n="item16"> An possint dici angeli alicuius 
+                     rei creatores <ref n="ref" type="page">91</ref>.</item>
+                  <item n="item17"> Platonici putant <sic resp="#MM">Angol</sic> fuisse 
+                     humanorum corporum conditores <ref n="ref" type="page">92</ref>.</item>
+                  <item n="item18"> Angelorum 
+                     esus <ref n="ref" type="page">97</ref>.</item>
+                  <item n="item19"> Angeli Dei homines dicti <ref n="ref" type="page">116</ref>.</item>
+                  <item n="item20"> Tres apparuerunt 
+                     Abrahę, duo Loth <ref n="ref" type="page">125</ref>.</item>
+                  <item n="item21"> De amicicia 
+                     angelorum <ref n="ref" type="page">156</ref>.</item>
+                  <item n="item22"> De conditione angelorum et hominum <ref n="ref" type="page">185</ref>.</item>
+               </list>
+               <list n="list7" ana="article">
+                  <head n="head">Antichristus.</head>
+                  <item n="item1">Gog, Magog <ref n="ref" type="page">167</ref>.</item>
+                  <item n="item2"> Antichristus <ref n="ref" type="page">169</ref>.</item>
+                  <item n="item3"> Persecutio Antichristi <ref n="ref" type="page">171</ref>.</item></list>
+               <list ana="article">
+                  <head n="head">Apostoli</head>
+                  <item n="item4"> <ref n="ref" type="page">150</ref>.</item>
+               </list>
+            </div>
+
+            <div n="div59" type="knjiga">
+               <head n="head">
+                  <add resp="#BG">ORIGENES</add>
+               </head>
+
+               <list n="list1" ana="article">
+                  <head n="head"><handShift resp="mm-origenes"/><handShift medium="smeđe"/>Auxilium.</head>
+                  <item n="item1">Semper nobis auxiliatur Pater et Filius 
+                     et Spiritus Sanctus <ref n="ref" type="page">129</ref>. </item>
+                  <item n="item2">Sol iustitię semper adest 
+                     nobis <ref n="ref" type="page">148</ref>.</item>
+                  <item n="item3"> Sancti Legis <sic resp="#MM">ueniun</sic> <pb type="kks" n="1-104"/> 
+                     in auxilium <ref n="ref" type="page">149</ref>.</item>
+                  <item n="item4"> Cum quibus Iesus <ref n="ref" type="page">156</ref>.</item></list>
+               <list ana="article">
+                  <head n="head">Adulator</head>
+                  <item n="item5"> liniens parietem lapsantem <ref n="ref" type="page">17</ref>.</item>
+                  <item n="item6"> Oleum 
+                     peccatoris <ref n="ref" type="page">80</ref>.</item>
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head">Auaritia.</head>
+                  <item n="item1">Vermis <ref n="ref" type="page">39</ref>. </item>
+                  <item n="item2">Auaritia inebriat <ref n="ref" type="page">68</ref>.</item>
+                  <item n="item3"> Vultures et aquilę <ref n="ref" type="page">72</ref>.</item>
+                  <item n="item4">Aduersis castigatus habet spem salutis <ref n="ref" type="page">42</ref>.</item>
+                  <item n="item5"> Cur bonis nunc male, malis bene <ref type="page">88</ref>.</item>
+
+               </list>
+               
+               <pb type="bnc" n="31r"/>
+               <list n="list3" ana="article">
+                  <head n="head">Ars.</head>
+                  <item n="item">Quod artes a Deo sint <ref n="ref" type="page">125</ref>.</item>
+               </list>
+               <list n="list4" ana="article">
+                  <head n="head">Appetitus.</head>
+                  <item n="item1">Pugna carnis contra spiritum <ref type="page">4</ref>. <ref type="page">12</ref>. <ref type="page">20</ref>. <ref type="page">29</ref>.</item>
+                  <item n="item2"> Ignis alienus <ref n="ref" type="page">79</ref>.</item>
+               </list>
+               <list n="list5" ana="article">
+                  <head n="head">Auditus.</head>
+                  <item n="item1">Deus aperit aurem sanctorum <ref n="ref" type="page">30</ref>.</item>
+                  <item n="item2"> Quis offert 
+                     inaures <ref n="ref" type="page">51</ref>.</item>
+                  <item n="item3">Auris purificanda <ref n="ref" type="page">75</ref>.</item>
+                  <item n="item4"> Qui habet 
+                     aures audiendi, audiat <ref n="ref" type="page">158</ref>.</item>
+                  <item n="item5"> Inter audire 
+                     et auribus percipere <ref n="ref" type="page">179</ref>.</item>
+               </list>
+               <list n="list6" ana="article">
+                  <head n="head">Anima.</head>
+                  <item n="item1">Homo ad imaginem Dei factus <ref n="ref" type="page">7</ref>.</item>
+
+                  <item n="item2"> Spiritus et 
+                     anima <ref n="ref" type="page">4</ref>.</item>
+
+                  <item n="item3">Anima nec mortalis nec immortalis <ref n="ref" type="page">74</ref>.</item>
+                  <item n="item4"> Os de ossibus et caro de carnibus, sed non 
+                     anima de anima <ref n="ref" type="page">27</ref>.</item>
+                  <item n="item5"> Anima et corpus <ref n="ref" type="page">54</ref>.</item>
+                  <item n="item6">Depositum 
+                     Dei anima et corpus <ref n="ref" type="page">58</ref>. </item>
+                  <item n="item7">Sponsa <ref n="ref" type="page">84</ref>.</item>
+                  <item n="item8"> Anima meretrix <ref n="ref" type="page"><corr resp="#MM">84</corr></ref>. </item>
+                  <item n="item9">Animę pulchritudo <ref n="ref" type="page">84</ref>.</item>
+                  <item n="item10"> Lucus sanctus anima rationalis <ref n="ref" type="page">86</ref>.</item>
+                  <item n="item11">Signa cuiusque propria. Animi motus <ref n="ref" type="page">53</ref>.</item>
+                  <item n="item12"> Ętates 
+                     quattuor animę <ref n="ref" type="page">104</ref>.</item>
+                  <item n="item13"> Iacob et Israel, corpus 
+                     et anima <ref n="ref" type="page">113</ref>.</item>
+                  <item n="item14"> Animę langores uitia, <sic resp="#MM">sanitas uirtus</sic> <ref n="ref" type="page">144</ref>.</item>
+                  <item n="item15"> Ciuitas anima <ref n="ref" type="page">156</ref>.</item></list>
+               <list ana="article">
+                  <head n="head">Habitaculum.</head>
+                  <item n="item16"> Domus et tabernaculum 
+                     differunt <ref n="ref" type="page">122</ref>.</item></list>
+               <list ana="article">
+                  <head n="head">Angeli</head>
+                  <item n="item17"> hominum custodes <ref n="ref" type="page">15</ref>.</item>
+                  <item n="item18"> Dii uel domini <ref n="ref" type="page">41</ref>.</item>
+                  <item n="item19"> Angeli offerunt Deo nostra bona opera <ref n="ref" type="page">78</ref>. </item>
+                  <item n="item20">Angeli <ref n="ref" type="page">97</ref>.</item>
+                  <item n="item21"> Angeli, apostolorum adiutores <ref n="ref" type="page">108</ref>. </item>
+                  <item n="item22">Ordo angelicus <ref n="ref" type="page">108</ref>.</item>
+                  <item n="item23"> Angelis utrisque opus est: Michael orationes offert, Raphael 
+                     medetur
+                     ęgris <ref n="ref" type="page">116</ref>.</item>
+                  <item n="item24"> Angelus bonus 
+                     cuique deputatus <ref n="ref" type="page">129</ref>. </item>
+                  <item n="item25">Ministri spiritus <ref n="ref" type="page">156</ref>.</item>
+                  <item n="item26"> Angeli filii Israel <ref n="ref" type="page">157</ref>.</item>
+                  <item n="item27">Angeli circa <expan resp="#NJ">et</expan> intra nos <ref n="ref">168</ref>. </item>
+                  <item n="item28">Angelorum nomina <ref n="ref" type="page">171</ref>.</item>
+                  <item n="item29"> Angeli 
+                     nobis auxiliantur <ref type="page">176</ref>. <ref type="page">177</ref>. <ref n="ref" type="page">179</ref>.</item></list>
+               <list ana="article">
+                  <head n="head">Apostoli<sic resp="#MM">.</sic></head>
+                  <item n="item30"> lux mundi <ref n="ref" type="page">2</ref>.</item>
+                  <item n="item31"> Boanerges <ref n="ref" type="page">7</ref>.</item>
+
+                  <item n="item32"> Inter 
+                     discipulum Christi et synagogę<sic resp="#MM">. <ref type="page">34</ref></sic>.</item>
+                  <item n="item33"> Iudas <ref n="ref" type="page">36</ref>.</item>
+                  <item n="item34"> Cedri Dei <ref n="ref" type="page">37</ref>.</item>
+                  <item n="item35"> Apostoli <num value="12">XII</num> et <num value="70">LXX</num> <ref n="ref" type="page">38</ref>.</item>
+                  <item n="item36"> Apostoli et prophetę uendentes oleum <ref n="ref" type="page">59</ref>.</item>
+                  <item n="item37"> Candelabrum <ref n="ref" type="page">97</ref>.</item>
+                  <item n="item38"> Moyses, maximus prophetarum <ref n="ref" type="page">98</ref>.</item>
+                  <item n="item39"> Dauid, Salomon <ref n="ref" type="page">98</ref>.</item>
+                  <item n="item40"> Principes prophetę, reges apostoli <ref n="ref" type="page">111</ref>.</item>
+                  <item n="item41"> Helim fontes <num value="12">XII</num> <ref n="ref" type="page">143</ref>.</item>
+                  <item n="item42"> Portantes tubas <ref n="ref" type="page">153</ref>.</item>
+                  <item n="item43"> Lapides integri <ref n="ref" type="page">157</ref>.</item>
+                  <item n="item44"> Tribuum nostrarum principes apostoli <ref n="ref" type="page">166</ref>.</item>
+                  <item n="item45"> Seniores <ref n="ref" type="page">175</ref>.</item>
+                  
+                  
+
+               </list>
+            </div>
+            <pb type="kks" n="1-105"/>
+            <div n="div60" type="knjiga" ana="#Hyg">
+               <head n="head">
+                  <handShift resp="mm-higinus"/><handShift medium="rubrum"/><ref n="ref" target="#Hyg">Higinus</ref>
+               </head>
+
+               <list n="list1" ana="article">
+                  <head n="head"><handShift medium="atrum"/>Auarus.</head>
+                  <item n="item">Serpens mala aurea custodiens <ref n="ref" type="page">1</ref>.</item>
+
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head">Auxilium.</head>
+                  <item n="item">Circa Herculem lapidibus pluit, quibus 
+                     ille inimicos conuertit in fugam <ref n="ref" type="page">1</ref>.</item>
+
+               </list>
+               <list n="list3" ana="article">
+                  <head n="head">Amici.</head>
+                  <item n="item1">Castor et Pollux <ref n="ref" type="page">4</ref>.</item></list>
+               <list ana="article">
+                  <head n="head">Aquarius</head>
+                  <item n="item2"> Ganimedes <ref n="ref" type="page">5</ref>.</item>
+                  <item n="item3"> Eridanus <ref n="ref" type="page">5</ref>.</item>
+
+               </list>
+               <list n="list4" ana="article">
+                  <head n="head">Accusator.</head>
+                  <item n="item">Coruus ex albo niger <ref n="ref" type="page">6</ref>.</item>
+               </list>
+            </div>
+            <div n="div61" type="knjiga">
+               <head n="head">
+                  <handShift resp="mm-homerus"/><handShift medium="rubrum"/><ref n="ref" target="#Hom">Homerus</ref>
+               </head>
+
+               <list n="list" ana="article">
+                  <head n="head"><handShift medium="atrum"/>Auarus.</head>
+                  <item n="item1">Hectoris corpus auro <sic resp="#MM">redemptum</sic>.</item>
+                  <item n="item2">Vlissis socii thesauros rati in utre uentis pleno.</item>
+               </list>
+            </div>
+            <div n="div62" type="knjiga">
+               <head n="head">
+                  <handShift resp="mm-herodotus"/><ref n="ref" target="#Hdt">Herodotus</ref>
+               </head>
+
+               <list n="list1" ana="article">
+                  <head n="head">Amor.</head>
+                  <item n="item">Croesi filius ex muto uocalis 
+                     in periculo patris <ref n="ref" type="page">10</ref>.</item>
+               </list>
+               <list n="list2" ana="article">
+                  <head n="head">Auaritia.</head>
+                  <item n="item1">Lydi aleę tesserarumque ludum 
+                     inuenerunt et pilę <ref n="ref" type="page"><sic resp="#MM">12</sic></ref>.</item>
+                  <item n="item2"> Darius <ref n="ref" type="page">15</ref>.</item>
+
+               </list>
+               
+               <pb type="bnc" n="31v"/>
+               <list n="list3" ana="article">
+                  <head n="head">Agricola.</head>
+                  <item n="item">Babylonia regio fertilissima <graphic url="angulus"></graphic><ref n="ref" type="page">18</ref>.</item>
+               </list>
+            </div>
+
+            <div n="div63" type="knjiga">
+               <head n="head"><sic resp="#MM">Basilus magnus.</sic></head>
+               <p n="p"><sic resp="#MM">Quere</sic> alphabetum in fine eius operis.</p>
+            </div>
+            
+            <pb type="bnc" n="32r"/>
+            <!-- dovde kolacionirano 7. 8. 2023. -->
                      <gap reason="neispravljeno"/>
                   
                
